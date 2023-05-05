@@ -7,6 +7,7 @@ The primary goal of the IGLU project is to approach the problem of how
 to develop interactive agents that learn to solve a task while provided with grounded natural language
 instructions in a collaborative environment.
 
+
 Following this objective, the project has collected several datasets with different types of interactions during a block building task. The data and scripts used to collect it will be progressively released in this repository.
 
 Due to the complexity of a general interactive task, the problem is simplified to interactions inside of a finite, Minecraft-like world of blocks. The goal of the interaction is to build a structure using a limited number of block types, which can vary in complexity. Examples of possible target structures to build are:
