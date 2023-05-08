@@ -1,0 +1,7 @@
+tqdm
+PILLOW
+opencv-python==4.5.5.64
+pandas
+numpy
+filelock
+requests
