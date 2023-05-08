@@ -30,6 +30,7 @@ TODO Add citation
 
 ## Working with IGLU datasets 
 
+![example](https://github.com/microsoft/iglu-datasets/raw/main/resources/vids/structure_example.mp4)
 
 By default, the environment requires a task object to run.
 IGLU dataset provides a convenient loader for RL tasks. Here is an example of how to use it:
