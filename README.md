@@ -142,8 +142,6 @@ my_dataset = MyDataset(dataset_version='v1.0')
 # do training/sampling
 ```
 
-The `SingleturnDataset` has the same structure of each sample. 
-
 On the first creation, the dataset is downloaded and parsed automatically. Below you will find the structure of the dataset:
 
 ```
@@ -170,14 +168,32 @@ builder-data/
 Here, `dialog.csv` contains the utterances of architects and builders solving different tasks in 
 different sessions. The `builder-data/` directory contains builder behavior recorded by the voxel.js engine. Right now we extract only the resulting grids and use them as targets.
 
+### Singleturn dataset
+
+The `SingleturnDataset` has the same structure of each sample. The main difference compared to the `MultiturnDataset` is 
+that here tasks are not structured into a chain but rather branch out from random chain steps. 
 
 
+Below you will find the structure of the single turn dataset:
+
+```
+single_turn_instructions.csv
+multi_turn_dialogs.csv
+initial_world_states/
+  builder-data/
+    <same as in multiturn>
+target_world_states/
+    actionHit/
+      <tree structure with game sessions>
+    <tree structure with game sessions>
+```
+
+Here, `multi_turn_dialogs.csv` and `initial_world_states/` is just the copy of the multiturn dataset under a different name. In `single_turn_instructions.csv` you can find the single turn instructions, and references to game sessions where the block states can be restored. 
 
 ### Grid prediction score calculation
 
-TODO: rewrite without RL
 
-Given a predicted grid and a target one, the intersection score is calculated based on their similarity. The score is determined regardless of global spatial position of currently placed blocks, it only takes into account how much the built blocks are similar to the target structure. To make it possible, at each step we calculate the intersection between the built and the target structures for each spatial translation within the horizontal plane and rotation around the vertical axis. Then we take the maximal intersection value among all translation and rotations. To calculate the score, we compare the maximal intersection size from the current step with the one from the previous step. We reward the agent with `2` for the increase of the maximal intersection size, with `-2` for the decrease of the maximal intersection size, and with `1`/`-1` for removing/placing a block without a change of the maximal intersection size. A visual example is shown below.
+Given a predicted grid and a target one, the intersection score is calculated based on their similarity. The score is determined regardless of global spatial position of currently placed blocks, it only takes into account how much the built blocks are similar to the target structure. To make it possible, at each step we calculate the intersection between the built and the target structures for each spatial translation within the horizontal plane and rotation around the vertical axis. Then we take the maximal intersection value among all translation and rotations. To calculate the score, we compare the maximal intersection size from the current step with the one from the previous step. The resulting intersection size can serve as a true positive rate for the `f1`/`precision`/`recall` score calculations, also it can be used as a reward function for a reinforcement learning agent. A visual example is shown below.
 
 <img src="./resources/imgs/intersections.png" width="256">
 
@@ -203,7 +219,7 @@ def maximal_intersection(grid, target_grid):
   return maximum
 ```
 
-In practice, a more optimized version is used. The reward is then calculated based on the temporal difference between maximal intersection of the two consecutive grids. Formally, suppose `grids[t]` is a built structure at timestep `t`. The reward is then calculated as:
+In practice, a more optimized version is used. There is a way to convert this score into a reward function for a reinforcement learning agent. To do that, we can calculate the reward based on the temporal difference between maximal intersection of the two consecutive grids. Formally, suppose `grids[t]` is a built structure at timestep `t`. The reward is then calculated as:
 
 ```python
 def calc_reward(prev_grid, grid, target_grid, , right_scale=2, wrong_scale=1):
@@ -218,8 +234,7 @@ def calc_reward(prev_grid, grid, target_grid, , right_scale=2, wrong_scale=1):
     return right_scale * np.sign(diff)
 ```
 
-In other words, if a recently placed block strictly increases or decreases the maximal intersection, the reward is positive or negative and is equal to `+/-right_scale`. Otherwise, its absolute value is equal to `wrong_scale` and the sign is positive if a block was removed or negative if added.
-Values `right_scale` and `wrong_scale` can be passed to `gym.make` as environment kwargs. Finally, the `maximal_intersection` includes heavy computations that slow down the environment. They can be simplified by disabling rotational/translational invariance at the cost of much more sparse reward. To do that, pass `invariant=False` to a corresponding `Task` object (see Dataset section for reference).
+In other words, if a recently placed block strictly increases or decreases the maximal intersection, the reward is positive or negative and is equal to `+/-right_scale`. Otherwise, its absolute value is equal to `wrong_scale` and the sign is positive if a block was removed or negative if added. This reward function is implemented in the [embodied IGLU environment](https://github.com/iglu-contest/gridworld).
 
 ## References
 
