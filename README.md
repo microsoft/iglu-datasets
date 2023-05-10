@@ -51,12 +51,18 @@ wrapped into `Task` format which has the following fields:
 ```python
 sample = dataset.sample() # here a `Task` instance will be returned
 print('Previous dialog\n', sample.dialog) # the whole prior conversation EXCLUDING the current instruction.
-print('Instruction\n', sample.instruction) # the current instruction to execute by the builder. If builder asks for clarifying questions, this will be a tuple (instruction, question, answer) concatenated to a string.
-print('Target grid\n', sample.target_grid) # 3D numpy array of shape (9, 11, 11). Represents the volume snapshot of the target blocks world that correspond to the builder's result in responce to the instruction.
-print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11, 11). Represents the volume snapshot of the starting blocks world with which the builder starts executing the instruction.
+print('Instruction\n', sample.instruction) # the current instruction to execute by the builder. 
+# If builder asks for clarifying questions, this will be a tuple (instruction, question, answer) 
+# concatenated to a string.
+print('Target grid\n', sample.target_grid) # 3D numpy array of shape (9, 11, 11). 
+# Represents the volume snapshot of the target blocks world that correspond to the builder's 
+# result in responce to the instruction.
+print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11, 11). 
+# Represents the volume snapshot of the starting blocks world with which the builder 
+# starts executing the instruction.
 ```
 
-The structure of the IGLU dataset is following. The dataset consists of structures that represent overall collaboration goals. For each structure, we have several collaboration sessions that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
+The multiturn dataset consists of structures that represent overall collaboration goals. For each structure, we have several collaboration sessions that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
 
   * `target_grid` - target blocks configuration that needs to be built
   * `starting_grid` - optional, blocks for the environment to begin the episode with.
@@ -65,7 +71,7 @@ The structure of the IGLU dataset is following. The dataset consists of structur
 
 Sometimes, the instructions can be ambiguous and the builder asks a clarifying question which the architect answers. In the latter case, `instruction` will contain three utterances: an instruction, a clarifying question, and an answer to that question. Otherwise, `instruction` is just one utterance of the architect.
 
-To represent collaboration sessions, the `Subtasks` class is used. This class represents a sequence of dialog utterances and their corresponding goals (each of which is a partially completed structure). On `.reset()` call, it picks a random turn and returns a `Task` object, where starting and target grids are consecutive partial structures and the dialog contains all utterances up until the one corresponding to the target grid.
+To represent collaboration sessions, the `Subtasks` class is used. This class represents a sequence of dialog utterances and their corresponding goals (each of which is a partially completed structure). On `.sample()` call, it picks a random turn and returns a `Task` object, where starting and target grids are consecutive partial structures and the dialog contains all utterances up until the one corresponding to the target grid.
 
 In the example above, the dataset object is structured as follows:
 
@@ -78,36 +84,35 @@ dataset.tasks['c73']
 dataset.tasks['c73'][0]
 ```
 
-The `.reset()` method of `IGLUDataset` does effectively the following:
+The `.sample()` method of `MultiturnDataset` does effectively the following:
 
 ```python
-def reset(dataset):
+def sample(dataset):
   task_id = random.choice(dataset.tasks.keys())
   session = random.choice(dataset.tasks[task_id])
-  subtask = session.reset() # Task object is returned
+  subtask = session.sample() # Task object is returned
   return subtask
 ```
 
 This behavior can be customized simply by overriding the reset method in a subclass:
 
 ```python
-import gym
-from gridworld.data import IGLUDataset
+from iglu_datasets import MultiturnDataset
 
-class MyDataset(IGLUDataset):
+class MyDataset(MultiturnDataset):
   def __init__(self, *args, **kwargs):
     super().__init__(*args, **kwargs)
     self.my_task_id = 'c73'
     self.my_session = 0
   
-  def reset(self):
-    return self.tasks[self.my_task_id][self.my_session].reset()
+  def sample(self):
+    return self.tasks[self.my_task_id][self.my_session].sample()
 
-env = gym.make('IGLUGridworld-v0')
-my_dataset = MyDataset(dataset_version='v0.1.0-rc1')
-env.set_task_generator(my_dataset)
+my_dataset = MyDataset(dataset_version='v1.0')
 # do training/sampling
 ```
+
+The `SingleturnDataset` has the same structure of each sample. 
 
 On the first creation, the dataset is downloaded and parsed automatically. Below you will find the structure of the dataset:
 
