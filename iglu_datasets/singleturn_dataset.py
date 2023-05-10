@@ -25,8 +25,7 @@ class SingleturnDataset(MultiturnDataset):
     SINGLE_TURN_INSTRUCTION_FILENAME = 'single_turn_instructions.csv'
     MULTI_TURN_INSTRUCTION_FILENAME = 'multi_turn_dialogs.csv'
     DATASET_URL = {
-        "v1.0": 'https://iglumturkstorage.blob.core.windows.net/public-data/single_turn_dataset_tmp.zip',
-        # "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/single_turn_dataset.zip',
+        "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/single_turn_dataset.zip',
     }
     BLOCK_MAP = {  
         # voxelworld's colour id : iglu colour id

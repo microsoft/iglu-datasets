@@ -22,8 +22,7 @@ from tqdm import tqdm
 class MultiturnDataset(Tasks):
     DATASET_URL = {
         # temporal link for testing
-        "v1.0": "https://iglumturkstorage.blob.core.windows.net/public-data/multiturn_dataset_tmp.zip",
-        # "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/multiturn_dataset.zip',
+        "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/multiturn_dataset.zip',
     }  # Dictionary holding dataset version to dataset URI mapping
     DIALOGS_FILENAME = 'dialogs.csv'
     BLOCK_MAP = {  # voxelworld's colour id : iglu colour id
