@@ -96,7 +96,7 @@ The multiturn dataset consists of structures that represent overall collaboratio
 
 Sometimes, the instructions can be ambiguous and the builder asks a clarifying question which the architect answers. In the latter case, `instruction` will contain three utterances: an instruction, a clarifying question, and an answer to that question. Otherwise, `instruction` is just one utterance of the architect.
 
-Here is an example of task:
+Here is an example of task (the target structure is shown on the left and blocks to add are on the right):
 
 <img src="./resources/vids/output.gif" width="640" height="392" alt="Gif with task vis"/>
 
