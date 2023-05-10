@@ -29,31 +29,41 @@ the blocks in the build region.
 
 ![example](https://github.com/microsoft/iglu-datasets/raw/main/resources/vids/structure_example.mp4)
 
-By default, the environment requires a task object to run.
-IGLU dataset provides a convenient loader for RL tasks. Here is an example of how to use it:
+The IGLU-datasets library prives an easy and flexible way for for with Single and Multi turn datasets.
+Here is an example of how to use it:
 
 ```python
-import gym
-from gridworld.data import IGLUDataset
+from iglu_datasets import MultiturnDataset, SingleturnDataset
 
-dataset = IGLUDataset(dataset_version='v0.1.0-rc1') 
 # leave dataset_version empty to access the most recent version of the dataset.
+# create a multiturn dataset instance
+dataset = MultiturnDataset(dataset_version='v1.0') 
 
-env = gym.make('IGLUGridworld-v0')
-env.set_task_generator(dataset)
+# create a singleturn dataset instance
+dataset = SingleturnDataset(dataset_version='v1.0') 
 ```
 
-In this example, we download the dataset of tasks for RL env. 
-Internally, on each `.reset()` of the env, the dataset samples a random task (inside its own `.reset()` method) and makes it active in the env. The `Task` object is responsible for calculating the reward, providing the text part of the observation, and determining if the episode has ended.
+On creation, this class will automatically download the dataset from this repository and parse (might take a few minutes) the raw data to store in a format that is fast and convienient to load. 
+There are two ways for accessing the underlying data.
+First, the `.sample()` method can be used. This method simply retrieves one random example from the dataset. The example is 
+wrapped into `Task` format which has the following fields:
+
+```python
+sample = dataset.sample() # here a `Task` instance will be returned
+print('Previous dialog\n', sample.dialog) # the whole prior conversation EXCLUDING the current instruction.
+print('Instruction\n', sample.instruction) # the current instruction to execute by the builder. If builder asks for clarifying questions, this will be a tuple (instruction, question, answer) concatenated to a string.
+print('Target grid\n', sample.target_grid) # 3D numpy array of shape (9, 11, 11). Represents the volume snapshot of the target blocks world that correspond to the builder's result in responce to the instruction.
+print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11, 11). Represents the volume snapshot of the starting blocks world with which the builder starts executing the instruction.
+```
 
 The structure of the IGLU dataset is following. The dataset consists of structures that represent overall collaboration goals. For each structure, we have several collaboration sessions that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
 
   * `target_grid` - target blocks configuration that needs to be built
   * `starting_grid` - optional, blocks for the environment to begin the episode with.
-  * `chat` - full conversation between the architect and builder, including the most recent instruction
-  * `last_instruction` - last utterance of the architect
+  * `dialog` - full conversation between the architect and builder, including the most recent instruction
+  * `instruction` - last utterance of the architect
 
-Sometimes, the instructions can be ambiguous and the builder asks a clarifying question which the architect answers. In the latter case, `last_instruction` will contain three utterances: an instruction, a clarifying question, and an answer to that question. Otherwise, `last_instruction` is just one utterance of the architect.
+Sometimes, the instructions can be ambiguous and the builder asks a clarifying question which the architect answers. In the latter case, `instruction` will contain three utterances: an instruction, a clarifying question, and an answer to that question. Otherwise, `instruction` is just one utterance of the architect.
 
 To represent collaboration sessions, the `Subtasks` class is used. This class represents a sequence of dialog utterances and their corresponding goals (each of which is a partially completed structure). On `.reset()` call, it picks a random turn and returns a `Task` object, where starting and target grids are consecutive partial structures and the dialog contains all utterances up until the one corresponding to the target grid.
 

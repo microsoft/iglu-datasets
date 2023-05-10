@@ -21,11 +21,12 @@ from tqdm import tqdm
 
 
 
-class SingleTurnIGLUDataset(MultiturnDataset):
+class SingleturnDataset(MultiturnDataset):
     SINGLE_TURN_INSTRUCTION_FILENAME = 'single_turn_instructions.csv'
     MULTI_TURN_INSTRUCTION_FILENAME = 'multi_turn_dialogs.csv'
     DATASET_URL = {
-        "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/single_turn_dataset.zip',
+        "v1.0": 'https://iglumturkstorage.blob.core.windows.net/public-data/single_turn_dataset_tmp.zip',
+        # "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/single_turn_dataset.zip',
     }
     BLOCK_MAP = {  
         # voxelworld's colour id : iglu colour id
@@ -231,6 +232,8 @@ class SingleTurnIGLUDataset(MultiturnDataset):
                 continue
 
             # Get the original game.
+            # TOOD: here we need to remove `[len("CQ-"):]`. Otherwise CQ-* sessions will be dropped. 
+            # but this might get duplicates in the dataset.
             orig = dialogs[dialogs.GameId == row.GameId[len("CQ-"):]]
             if len(orig) == 0:
                 pbar.write(f"Skipping '{row.GameId}'. Can't find its original game '{row.GameId[len('CQ-'):]}'.")
@@ -273,3 +276,7 @@ class SingleTurnIGLUDataset(MultiturnDataset):
 
     def __len__(self):
         return len(sum(self.tasks.values(), []))
+
+if __name__ == "__main__":
+    dataset = SingleturnDataset()
+    pass

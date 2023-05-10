@@ -10,8 +10,6 @@ import pickle
 import bz2
 from collections import defaultdict
 
-# from gridworld import data
-
 from .task import Subtasks, Task, Tasks
 from .download import download
 from .common import VOXELWORLD_GROUND_LEVEL, fix_log, fix_xyz
@@ -23,7 +21,9 @@ from tqdm import tqdm
 
 class MultiturnDataset(Tasks):
     DATASET_URL = {
-        "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/multiturn_dataset.zip',
+        # temporal link for testing
+        "v1.0": "https://iglumturkstorage.blob.core.windows.net/public-data/multiturn_dataset_tmp.zip",
+        # "v1.0": 'https://github.com/microsoft/iglu-datasets/raw/main/datasets/multiturn_dataset.zip',
     }  # Dictionary holding dataset version to dataset URI mapping
     DIALOGS_FILENAME = 'dialogs.csv'
     BLOCK_MAP = {  # voxelworld's colour id : iglu colour id
@@ -38,10 +38,10 @@ class MultiturnDataset(Tasks):
 
     def __init__(self, dataset_version="v1.0", task_kwargs=None, force_download=False) -> None:
         """
-        Collaborative dataset for the IGLU competition.
+        IGLU Multiturn dataset.
 
-        Current version of the dataset covers 31 structures in 128 staged game sessions
-        resulting in 608 tasks.
+        Current version of the dataset covers 31 structures in 127 staged game sessions
+        resulting in 584 tasks.
 
         Args:
             dataset_version: Which dataset version to use.
