@@ -53,7 +53,6 @@ requests
 
 ## Working with IGLU datasets 
 
-![example](https://github.com/microsoft/iglu-datasets/raw/main/resources/vids/structure_example.mp4)
 
 The IGLU-datasets library prives an easy and flexible way for for with Single and Multi turn datasets.
 Here is an example of how to use it:
@@ -96,6 +95,11 @@ The multiturn dataset consists of structures that represent overall collaboratio
   * `instruction` - last utterance of the architect
 
 Sometimes, the instructions can be ambiguous and the builder asks a clarifying question which the architect answers. In the latter case, `instruction` will contain three utterances: an instruction, a clarifying question, and an answer to that question. Otherwise, `instruction` is just one utterance of the architect.
+
+Here is an example of task:
+
+<img src="./resources/vids/output.gif" width="640" height="480" alt="Gif with task vis"/>
+
 
 To represent collaboration sessions, the `Subtasks` class is used. This class represents a sequence of dialog utterances and their corresponding goals (each of which is a partially completed structure). On `.sample()` call, it picks a random turn and returns a `Task` object, where starting and target grids are consecutive partial structures and the dialog contains all utterances up until the one corresponding to the target grid.
 
