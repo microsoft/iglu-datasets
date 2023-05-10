@@ -119,10 +119,11 @@ class MultiturnDataset(Tasks):
                 url=url,
                 destination=path,
                 data_prefix=data_path,
-                description='downloading multiturn dataset'
+                description='Downloading multiturn dataset'
             )
+            print('Dataset downloaded!')
             with ZipFile(path) as zfile:
-                zfile.extractall(data_path)
+                zfile.extractall(data_path, members=tqdm(zfile.namelist(), desc='Extracting zip file'))
 
     def download_parsed(self, data_path, file_name='parsed_tasks_multiturn_dataset.tar.bz2',
                         force_download=False):

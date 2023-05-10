@@ -9,6 +9,7 @@ import numpy as np
 import pickle
 import bz2
 from collections import defaultdict
+from pprint import pprint
 
 from .task import Subtasks, Task, Tasks
 from .download import download
@@ -46,8 +47,11 @@ class SingleturnDataset(MultiturnDataset):
     }
     
     def __init__(self, dataset_version='v1.0', task_kwargs=None,
-            force_download=False, limit=None) -> None:
+            force_download=False, limit=None, 
+            keep_unmodified=True, keep_wrong_builds=True) -> None:
         self.limit = limit
+        self.keep_unmodified = keep_unmodified
+        self.keep_wrong_builds = keep_wrong_builds
         super().__init__(dataset_version=dataset_version,
             task_kwargs=task_kwargs, force_download=force_download)
 
@@ -103,8 +107,9 @@ class SingleturnDataset(MultiturnDataset):
             destination=path,
             data_prefix=data_path
         )
+        print('Dataset downloaded!')
         with ZipFile(path) as zfile:
-            zfile.extractall(data_path)
+            zfile.extractall(data_path, members=tqdm(zfile.namelist(), desc='Extracting zip file'))
 
     def create_task(self, previous_chat, initial_grid, target_grid,
                     last_instruction):
@@ -210,23 +215,27 @@ class SingleturnDataset(MultiturnDataset):
 
         tasks_count = 0
         pbar = tqdm(turns.iterrows(), total=len(turns), desc='parsing dataset')
-        for _, row in pbar:
+        errors = defaultdict(int)
+        for k, row in pbar:
             pbar.set_postfix_str(f"{tasks_count} tasks") 
             assert row.InitializedWorldStructureId is not None
 
             # Read initial structure
             initial_world_blocks = _load_structure(row.InitializedWorldPath)
             if initial_world_blocks is None:
+                errors['start_world_missing'] += 1
                 pbar.write(f"Skipping '{row.GameId}'. Can't load starting structure from '{row.InitializedWorldPath}'.")
                 continue
 
             target_world_blocks = _load_structure(row.TargetWorldPath)
             if target_world_blocks is None:
+                errors['target_world_missing'] += 1
                 pbar.write(f"Skipping '{row.GameId}'. Can't load target structure from '{row.TargetWorldPath}'.")
                 continue
             
             # Check if target structure matches the initial structure.
-            if sorted(initial_world_blocks) == sorted(target_world_blocks):
+            if sorted(initial_world_blocks) == sorted(target_world_blocks) and not self.keep_unmodified:
+                errors['target_unchanged'] += 1
                 pbar.write(f"Skipping '{row.GameId}'. Target structure is the same as the initial one.")
                 continue
 
@@ -235,6 +244,7 @@ class SingleturnDataset(MultiturnDataset):
             # but this might get duplicates in the dataset.
             orig = dialogs[dialogs.GameId == row.GameId[len("CQ-"):]]
             if len(orig) == 0:
+                errors['dialog_not_found'] += 1
                 pbar.write(f"Skipping '{row.GameId}'. Can't find its original game '{row.GameId[len('CQ-'):]}'.")
                 continue
 
@@ -244,11 +254,13 @@ class SingleturnDataset(MultiturnDataset):
             # Load original structure.
             orig_target_world_blocks = _load_structure(orig.TargetWorldPath)
             if orig_target_world_blocks is None:
+                errors['multiturn_target_not_found'] += 1
                 pbar.write(f"Skipping '{row.GameId}'. Can't load original target structure from '{orig.TargetWorldPath}'.")
                 continue
            
             # Check if original structure matches the rebuilt one.
-            if sorted(orig_target_world_blocks) != sorted(target_world_blocks):
+            if sorted(orig_target_world_blocks) != sorted(target_world_blocks) and not self.keep_wrong_builds:
+                errors['multiturn_target_mismatch'] += 1
                 pbar.write(f"Skipping '{row.GameId}'. Target structure doesn't match the one in '{orig.GameId}'.")
                 continue
 
@@ -267,6 +279,10 @@ class SingleturnDataset(MultiturnDataset):
             #self.tasks[row.InitializedWorldStructureId].append(task)
             self.tasks[f"{task_id}/{step_id}"].append(task)
             tasks_count += 1
+        if len(errors) != 0:
+            print('Some samples are failed to load. Here are the stats:')
+            pprint(dict(errors))
+            print(f'no error: {tasks_count}')
 
     def __iter__(self):
         for task_id, tasks in self.tasks.items():
