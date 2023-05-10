@@ -98,7 +98,7 @@ Sometimes, the instructions can be ambiguous and the builder asks a clarifying q
 
 Here is an example of task:
 
-<img src="./resources/vids/output.gif" width="640" height="480" alt="Gif with task vis"/>
+<img src="./resources/vids/output.gif" width="640" height="392" alt="Gif with task vis"/>
 
 
 To represent collaboration sessions, the `Subtasks` class is used. This class represents a sequence of dialog utterances and their corresponding goals (each of which is a partially completed structure). On `.sample()` call, it picks a random turn and returns a `Task` object, where starting and target grids are consecutive partial structures and the dialog contains all utterances up until the one corresponding to the target grid.
