@@ -24,6 +24,32 @@ the blocks in the build region.
 
 <img src="./resources/imgs/voxelwrold_building_dialog.gif" width="420" height="280" alt="Gif with interactions between Architect and Builder"/>
 
+## Installation
+
+To install the stable version of the IGLU-datasets API, please use the following command:
+
+```sh
+pip install git+https://github.com/microsoft/iglu-datasets.git@master
+```
+
+Alternatively, you can download the repo and install it manually:
+
+```sh
+git clone https://github.com/microsoft/iglu-datasets.git
+cd iglu-datasets && python setup.py install
+```
+
+The requirements to install the API are the followings:
+
+```
+tqdm
+PILLOW
+opencv-python==4.5.5.64
+pandas
+numpy
+filelock
+requests
+```
 
 ## Working with IGLU datasets 
 
