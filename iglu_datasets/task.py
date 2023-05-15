@@ -173,7 +173,7 @@ class Tasks:
         """
         if isinstance(blocks, (list, tuple)):
             if all(isinstance(b, (list, tuple)) for b in blocks):
-                grid = np.zeros(BUILD_ZONE_SIZE, dtype=np.int)
+                grid = np.zeros(BUILD_ZONE_SIZE, dtype=np.int32)
                 for x, y, z, block_id in blocks:
                     grid[y + 1, x + BUILD_ZONE_SIZE_X // 2, z + BUILD_ZONE_SIZE_Z // 2] = block_id
                 blocks = grid
