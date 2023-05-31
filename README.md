@@ -240,6 +240,7 @@ In other words, if a recently placed block strictly increases or decreases the m
 
 The described datasets are collected as a part of [IGLU:Interactive Grounded Language Understanding in a Collaborative Environment](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge), which is described in the following papers:
 
+[Collecting Interactive Multi-modal Datasets for Grounded Language Understanding](https://arxiv.org/abs/2211.06552)
 ```
 @article{mohanty2023transforming,
   title={Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions},
@@ -258,6 +259,7 @@ The described datasets are collected as a part of [IGLU:Interactive Grounded Lan
 }
 ```
 
+[Interactive grounded language understanding in a collaborative environment: Iglu 2021](https://arxiv.org/abs/2205.02388)
 ```
 @inproceedings{kiseleva2022interactive,
   title={Interactive grounded language understanding in a collaborative environment: Iglu 2021},
@@ -268,7 +270,7 @@ The described datasets are collected as a part of [IGLU:Interactive Grounded Lan
   organization={PMLR}
 }
 ```
-
+[Iglu 2022: Interactive grounded language understanding in a collaborative environment at neurips 2022](https://arxiv.org/abs/2205.13771)
 ```
 @article{kiseleva2022iglu,
   title={Iglu 2022: Interactive grounded language understanding in a collaborative environment at neurips 2022},
