@@ -197,6 +197,8 @@ class MultiturnDataset(Tasks):
             # changes to the blocks
             utt_seq = []
             blocks = []
+            kwargs = {}
+            kwargs['session_id'] = sess_id
             if not os.path.exists(f'{path}/builder-data/{sess_id}'):
                 continue
             # Each session should have a single taskId associated.
@@ -251,7 +253,7 @@ class MultiturnDataset(Tasks):
                     i += 1
             if len(blocks) > 0:
                 # Create random subtasks from the sequence of dialogs and blocks
-                task = Subtasks(utt_seq, blocks, **self.task_kwargs)
+                task = Subtasks(utt_seq, blocks, **self.task_kwargs, **kwargs)
                 assert len(utt_seq) == len(blocks)
                 self.tasks[structure_id].append(task)
 

@@ -6,6 +6,20 @@ BUILD_ZONE_SIZE_X = 11
 BUILD_ZONE_SIZE_Z = 11
 BUILD_ZONE_SIZE = 9, 11, 11
 
+BLUE = 1
+GREEN = 2
+RED = 3
+ORANGE = 4
+PURPLE = 5
+YELLOW = 6
+color_map = {
+    'blue': BLUE, 'green': GREEN, 'red': RED,
+    'orange': ORANGE, 'purple': PURPLE, 'yellow': YELLOW
+}
+inv_color_map = {
+    BLUE: 'blue', GREEN: 'green', RED: 'red',
+    ORANGE: 'orange', PURPLE: 'purple', YELLOW: 'yellow'
+}
 
 class Task:
     def __init__(self, instruction, target_grid, dialog=None, starting_grid=None, full_grid=None, invariant=True):
@@ -216,13 +230,14 @@ class Tasks:
 class Subtasks(Tasks):
     """ Subtasks object represents a staged task where subtasks represent separate segments
     """
-    def __init__(self, dialog, structure_seq, invariant=False, progressive=True) -> None:
+    def __init__(self, dialog, structure_seq, invariant=False, progressive=True, session_id=None) -> None:
         self.dialog = dialog
         self.invariant = invariant
         self.progressive = progressive
         self.structure_seq = structure_seq
         self.next = None
         self.full = False
+        self.session_id = session_id
         self.task_start = 0
         self.task_goal = 0
         self.full_structure = self.to_dense(self.structure_seq[-1])
