@@ -245,14 +245,6 @@ In other words, if a recently placed block strictly increases or decreases the m
 
 The described datasets are collected as a part of [IGLU:Interactive Grounded Language Understanding in a Collaborative Environment](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge), which is described in the following papers:
 
-```
-@article{mohanty2023transforming,
-  title={Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions},
-  author={Mohanty, Shrestha and Arabzadeh, Negar and Kiseleva, Julia and Zholus, Artem and Teruel, Milagro and Awadallah, Ahmed and Sun, Yuxuan and Srinet, Kavya and Szlam, Arthur},
-  journal={arXiv preprint arXiv:2305.10783},
-  year={2023}
-}
-```
 
 ```
 @article{mohanty2022collecting,
