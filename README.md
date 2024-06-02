@@ -191,6 +191,10 @@ target_world_states/
 
 Here, `multi_turn_dialogs.csv` and `initial_world_states/` is just the copy of the multiturn dataset under a different name. In `single_turn_instructions.csv` you can find the single turn instructions, and references to game sessions where the block states can be restored. 
 
+### Data Collection Platform
+
+We have released the data collection tool used for collecting these datasets. For more information check out this [repo] (https://github.com/iglu-contest/iglu-data-collection-tool/tree/main)
+
 ### Grid prediction score calculation
 
 
@@ -302,3 +306,7 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## License
+
+See here for the [MIT License] (https://github.com/microsoft/iglu-datasets?tab=MIT-1-ov-file#readme).
