@@ -193,7 +193,7 @@ Here, `multi_turn_dialogs.csv` and `initial_world_states/` is just the copy of t
 
 ### Data Collection Platform
 
-We have released the data collection tool used for collecting these datasets. For more information check out this [repo] (https://github.com/iglu-contest/iglu-data-collection-tool/tree/main)
+We have released the data collection tool used for collecting these datasets. For more information check out this [repo](https://github.com/iglu-contest/iglu-data-collection-tool/tree/main).
 
 ### Grid prediction score calculation
 
@@ -301,4 +301,4 @@ Any use of third-party trademarks or logos are subject to those third-party's po
 
 ## License
 
-See here for the [MIT License] (https://github.com/microsoft/iglu-datasets?tab=MIT-1-ov-file#readme).
+See here for the [MIT License](https://github.com/microsoft/iglu-datasets?tab=MIT-1-ov-file#readme).
