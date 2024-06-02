@@ -1,0 +1,423 @@
+HitId,GameMinecraftId,TaskMinecraftId,AgentName,Annotation,CompletionCode
+3W3RSPVVH1VAVM0ERLOA6QVEXLZULM,NA,NA,Happy,{},NA
+3WA2XVDZFVLBN50LEH33DPREL536E2,NA,NA,Happy,{},NA
+3TZ0XG8CC3OHWNSSZLKF5PMU025987,5b701081-880c-40f1-9a56-159332f4cebd,03794642-d5dc-40df-bd41-4cd898ae6b7c,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 1 was unavailable so i used agent 2. The agent this time did not really do anything it moved a bit but it did not break or build anything at all.""}",H4sIAAAAAAAA/xXO2w1AIQgD0IlIAFHBbeS1/wjX+9nkpO2kSpY0COUGIRW4+iKFDOtpw2ecG4cLZ7EvoNXPRTooWUI6jyjauC0Ojm2yhCFnBghmg6fQz9X01vIdZ/pGQiVQxR81gd35it/Y4JYoz2MkV3AEJOF4aDZcSgbC9rur8LIeb15rKMMOTRB+m9fMwd+NKchcNT6/q3Xr4AAAAA==
+3EQVJH0T59PT9D2Z0VJ292G5XSJHTF,403c3e21-25f9-4096-9e40-d2d9d9f85f39,03794642-d5dc-40df-bd41-4cd898ae6b7c,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""This agent was not any better (or worse) than the first one. No noticeable response to my commands. ""}",H4sIAAAAAAAA/xXMyQ0AIQwEwYgs+QJssgEf+Yew7HPUpRlUyZoOYdygZArH3qRQ8R4ud8Q+sblwFN8JNPu5yAtGnpCXJYoWLo+NslynMuTIAMVsuKn0c3M7Ne+KrSghxQQ82h/yCV6KkJye3jZafDvp+SEkoTw0Gg4lA2Hfs6rwsO1rC61eytMIWlLgIgvE3kvkIlb8AJ/q7VbgAAAA
+3D3B8GE8ABV22FR9L2MQRBHKPC4P96,08866660-a3b9-4dfa-ad15-1a67b3d87a07,03794642-d5dc-40df-bd41-4cd898ae6b7c,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""this agent was placing things well but it could not break either. It also placed in the completely wrong area and could not figure out directions.""}",H4sIAAAAAAAA/xXM2w0EMQgDwIqQIJAA2w2v9F/C5fxneeRN00vaoWxdEDKBsFephP1u59z1RX1rcM/KA3Tuc9UJRt7QubiGFNXrQ1aXIwt6d4FgX8gW+nNzizmpD5mdF4TgdJC+AdG0geJocpsG6uckIcgFTcjvaV8I6gWEN0NnMJZ9aYo2b+q4CDI84MwKbNd2tdIS/AEsmOOb4AAAAA==
+3VI0PC2ZB7OAIBX69IFPIEYCMAZXOG,NA,NA,Felipe,{},NA
+37J05LC5B6NIJU1S25M8GBEY7XKDJG,085da691-506e-48b4-8407-d60bc7a111a4,03794642-d5dc-40df-bd41-4cd898ae6b7c,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent placed a lot of blocks and got rather close to what was supposed to be the structure but they placed some wrong ones and could not destroy any blocks""}",H4sIAAAAAAAA/xXO2w0EMQgDwIqQgBAC2w2v9F/C5T4tjWxvmmZphzK+IGQCYS9SyfK7feWuL+rjwT2cCqT3ueoEI2/o5FVDB4/Xh+u4qDD07gLBvpAt9OfmFqN5HrLdoU6wUQfEUsAED7Ri1gkiCvmcJARXQROu17QvBDUD4c04MxhsX15WXcZwyhqE32a4J+S7sQWZZ9YPKMI7buAAAAA=
+3909MD9T38L76YTWFA677V4RE3YEF3,NA,NA,Happy,{},NA
+3D3B8GE8ABV22FR9L2MQRBHKPC4P96,335bb39e-9de8-4173-9916-886eed40e11f,03794642-d5dc-40df-bd41-4cd898ae6b7c,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent could not break anything but they were good at building with the right color and in the right direction.""}",H4sIAAAAAAAA/xWNyQ0EMQjAKkKCcATSTTjSfwk7+7Rk2UrTSzqgfD0QcoHrH1IJx9Pg1Dq3zhrUWWlA9j6vOsEpGjoX19DGHXWQd4jJgtYuEOwH2UJ/3cPvWO46zJrJMRA9/h03QwQZuNtMCw7RO0FyBbmgCfkr6YNLvYDw5d0zeJefol3jiwBtNsjYhataMBFTVpbq/AOUJqzh4AAAAA==
+3TZ0XG8CC3OHWNSSZLKF5PMU025987,32145c4d-bead-4da1-9b92-2dee4aeba503,03794642-d5dc-40df-bd41-4cd898ae6b7c,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was able to make some things with the correct colors but it built them in mostly the wrong direction.""}",H4sIAAAAAAAA/xWO2QlEMQzEKjL4SmK/bnyl/xI2+zkgpFk0zdoOZXxByRTC3qRS8btcctUX9fHgGs4NtO/jqhOMvKGTpYYOHq8P5bhuZejVBYp9IVvpj5tbzM5TnzDpKm3IiQbtIPB0Bu4ZjclYKJ+ThqIUNKE807oQ1AyEN+PMYLB9eXlvMYZT9kz8muGekO/GUmSekR8rUstk4AAAAA==
+31MCUE39CTQAA09U1AVT6P06OTXG32,NA,NA,Felipe,{},NA
+3VI0PC2ZB7OAIBX69IFPIEYCMAZXOG,NA,NA,Happy,{},NA
+3EQVJH0T59PT9D2Z0VJ292G5XSJHTF,af513449-912a-466b-8bc4-0f31791b60d0,03794642-d5dc-40df-bd41-4cd898ae6b7c,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent did nothing of note. After my first instruction he hopped a little bit and looked at the ground. No reponse to subsequent commands. ""}",H4sIAAAAAAAA/xXM2w1EIQgA0YpIAAHldsPL/ktY93OSyVGaZmmHOnxB6AjEeUkly6/6Sq0v6uNBHU4Dsvu+6oRD3tDJq4Y2bq8P13YxYWjtAsG+kC3034+fGMv9sKu0RBycOEDMnpQlgHfRdkrDxs9JQnAVNOF6kl4IagbCm7FnMPh8RbvmMAHabJCxgFAtGPcpK0s96wc0+CQw4AAAAA==
+3CO05SML8495IYJBYY7M3VG6NP50R2,a25358ae-cf8e-4cb9-923a-b54f12d872e9,03794642-d5dc-40df-bd41-4cd898ae6b7c,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent did not listen to my instructions well. It was able to build one single blue block not in the right place then didn't respond to my instructions afterwards.""}",H4sIAAAAAAAA/xWMyQ0EIQzAKopELkimm1z0X8KyT8uWFadJ2qGMLgiaQNhDLGG/6pxaX9RHs3QoN+C+r6tOMPSGTuIaPOt4fYuPyxaC1i6Q1ReyBf+5ucXsPG9GyvoA6to8lQ5OHJAqF6nt0PjnKCGLCxoXv5NeCGwCXDfjzKwg+wpPjRHC2nNAZgeEasG4T+3aqcY/sfroI+AAAAA=
+37J05LC5B6NIJU1S25M8GBEY7XKDJG,4fe8350e-f901-40c4-8814-0e568e9c9850,03794642-d5dc-40df-bd41-4cd898ae6b7c,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""This agent was able to actually to destroy and build also but once it broke a block it re placed it and never moved to builed more either""}",H4sIAAAAAAAA/xWO2Q1EMQjEKkICAjxINwlH/yVs9nM0lmWlLpYKSOcBIRc4/ialrBiNdTX3yc2N2nwNyOZxWRecoqAur2z68IvcuL4QE4bSShCsgVtCf9zDT9v9csu0L8WGCXwXpoA7CWCreUeGK+4gOYIroQjXg3TgUDEQzj1fNx72zWiz6mWT+DORIQQRvqa642E63D+FkiaB4AAAAA==
+3A520CCNXW4CA7CO4UKFTUT0HKTAEO,NA,NA,Happy,{},NA
+3A520CCNXW4CA7CO4UKFTUT0HKTAEO,NA,NA,MHB,{},NA
+34XASH8KMZQH9ZA3ABQVWXN4PBQPMK,NA,NA,Felipe,{},NA
+3909MD9T38L76YTWFA677V4RE3YEF3,NA,NA,MHB,{},NA
+308KJXFUK0AEZQULUP9ASGT1KX3TAQ,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""Agent was afk for the whole game and followed no commands. ""}",H4sIAAAAAAAA/xWM2Q1EMQjEKkLifIF0E470X8Jm/2Zky0bTrB1QzheUXOH4u1QqcS0krfapzYM2nB/Qd59XneAUDZ0sNbRwRW2UFfopQ1sXKPaFbKW/7uFnvly13YVuhoF4PLTmQOpbxmyxrLLx7CA9ilLQhPJKduFQMxDePGsGD/tOX+jzUJ+LoCMDIbJe+LpVL2LFH8JvHsPgAAAA
+3CO05SML8495IYJBYY7M3VG6NP50R2,496ce1f1-f47e-4bc4-a7eb-f4641e85776f,03794642-d5dc-40df-bd41-4cd898ae6b7c,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""It was able to build 3 blocks of blue like I wanted, but it was the wrong way. Then I wanted it to fix its mistakes, but the AI broke and started building and destroying blocks randomly.""}",H4sIAAAAAAAA/xWO2w0AIQgEKyIBRBS7kVf/JZz3ucns7E6qZEmD2NwgtAXufpFChvW04TPOjcOFs9gVSPtxkQ6bLCGdRxQtXBYHxzJRYciZAYLZ4Cn049v2LfUVR0xfoQlaVoF4vMVV/qIK1Z5raR8juYIjIAnHM82GS8lA2P7owsv72GCrrob+n4i2wkV2uHP4E+Q1jw/qUMIm4AAAAA==
+3WA2XVDZFVLBN50LEH33DPREL536E2,NA,NA,MHB,{},NA
+3W3RSPVVH1VAVM0ERLOA6QVEXLZULM,NA,NA,Felipe,{},NA
+308KJXFUK0AEZQULUP9ASGT1KX3TAQ,NA,NA,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""Agent placed blocks when told to remove them. Agent placed incorrect color blocks. Agent places blocks in the wrong location. ""}",H4sIAAAAAAAA/xXMUQ5FMQQA0RVJUIruRtH9L+Hd9znJyShNs3RAOT8QcoH0L6lkxdNYV+tkHR7U4buB9vtc9QWnaOjLq4YMLergspAtDK1dINgPbgv9uYfn7GvfzJJvVgGKO4jygMciWKN07YWg7RMkKbgKmnB9J32Q1AyE76bNYLKfIqtxJsA9BjI7IVULJmJq177q6wdwNjsV4AAAAA==
+31MCUE39CTQAA09U1AVT6P06OTXG32,NA,NA,Happy,{},NA
+34XASH8KMZQH9ZA3ABQVWXN4PBQPMK,NA,NA,MHB,{},NA
+36QZ6V159IHXZZV4BULBIC99PGSUSN,5802b2bc-692c-4fea-a979-76df74ad1ecd,98e7284c-e2be-4680-b23e-c9b4924cb136,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent placed the blocks on the incorrect side of the grid. The agent followed part of my command, and placed 3 red blocks, but they were placed improperly at the wrong location. ""}",H4sIAAAAAAAA/w2OyQ3AMAjAJkICQhLINpz7j9A+LfvhTV0sZZDKA0Iq4PojpSybbSt2Ps/Hjbs5DtCZv8sKULKCCl7ZdPFaPtO+rJLwlw1yFOHXDWkhxpJB67ytyMGRcIwTZNrB7RrcU3PFizrrGYkLroQiXCC4B5yKgXDCbzc668N0tL0OqJ0AWfi/Rzq0ptQexpn6ANVnfJrgAAAA
+37MQ8Z1JRN0LB9YBRG3UUF2INC62YW,NA,NA,Happy,{},NA
+36QZ6V159IHXZZV4BULBIC99PGSUSN,accc8353-375d-44de-b338-4765d2b3afc6,98e7284c-e2be-4680-b23e-c9b4924cb136,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed/removed blocks when told to face a specific direction. The agent didn't remove the specific blocks I told them to remove. The agent placed a yellow block without being prompted to. ""}",H4sIAAAAAAAA/xWO1w1EMQzDJhIQlxS/beK2/wiX+xRIEJpUyZqGONxQOop73qRQsZ4mPuO78XGNWewLtPp5kY5DlkhniaI9tsVnpzYfDTyzoOsMPFwIczXWcJL1YhFHpkD2TKhmwUUOdK+Z7HI71mekV4cEkoZAx2xcSgaN9rurxuXzmbBVV6P/T3T1wh3suFP8BfKaxw9W7KgW4AAAAA==
+341H3G5YG9IEKP528F1ZPYI5W8N0ZY,NA,NA,MHB,{},NA
+3XUSYT70J25BHO06GXC2Y6Z28P9D06,cda7b0c3-c01d-4d37-879b-bbf4aa1716f8,98e7284c-e2be-4680-b23e-c9b4924cb136,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was incapable of turning and was stuck building in one direction with the wrong colors also""}",H4sIAAAAAAAA/w2N2w1AIQjFJjoJKCrcbXi5/wjXz6ZNurhrSBlSx4WwClwfcsq0u2zGys/zG02rR2zwvq/LCihboWLMbD50LD/TPkMl8cqGbCU83UgLsSEZPPeX5ScoJ5K4IDUP9Fgg4oo7nzfQz1hcaCaKaUJoXTjXANMNP93kQ7/kk62DQbsPpLfD13p3s86dO5bOH6THz+DgAAAA
+37MQ8Z1JRN0LB9YBRG3UUF2INC62YW,NA,NA,Felipe,{},NA
+356ZPKYPVQLH3GZHTEE6QSABYLXYPC,NA,NA,MHB,{},NA
+3RKHNXPHH50ZBGIW6LC9RQIZ8LUUKJ,NA,NA,MHB,{},NA
+32CAVSKPDNTX5FWAYB6RMBM0ZF31UW,NA,NA,Felipe,{},NA
+3YLTXLH3EOAVHL9SJEAI4SF88U0HPM,NA,NA,MHB,{},NA
+3RKHNXPHH50ZBGIW6LC9RQIZ8LUUKJ,NA,NA,Happy,{},NA
+3XUSYT70J25BHO06GXC2Y6Z28P9D06,3a2626e2-c4f0-43e8-8809-c63875d18019,98e7284c-e2be-4680-b23e-c9b4924cb136,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was able to build well with the correct two colors but in the wrong direction and could not face the right direction either. They also broke some blocks.""}",H4sIAAAAAAAA/xWO2Q1EIQwDK7KUC0heN5CE/ktY9tOake3BXWIVSJcLYzdsf5HTNO4IPSO/nZ80jZYzwfM+L+vAOQp1RLN50Yr8wnuJW+KZDZtOeLiRcSzE8rDOT7dMmS1IuwTTdrjTOzDV1yh24viCbRtpopgURuNicwmY7tmrm7b4d3yR90O1/039lkJ1Qf36yFosRj+i+KpS4AAAAA==
+34D9ZRXCZ0YDKQH65P4KIBXFID0SA9,58dac750-4022-4701-a5e2-749722edea11,98e7284c-e2be-4680-b23e-c9b4924cb136,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent didn't place the blocks where I told them to. The agent also didn't remove the blocks that I told them to. The agent was able to place the correct color of blocks though. ""}",H4sIAAAAAAAA/xWM2RFEIQzDKvIMCQGS100u+i9h2U+PJS3qYilDKl8IqcD1TUqZdpfNWPl5ftxjNccG7fu4rICSFSp4ZtMZx/Iz7cMqiUc2ZOvAuxtpIcaSQXN/S8vzrAEZzJAzCP7SOGKHuaud6DMSlzETRWM+cl04FYPGDT/dw1m/uLz31KemFoQr4WaBmMfWv949f2ZA0LPgAAAA
+356ZPKYPVQLH3GZHTEE6QSABYLXYPC,NA,NA,Felipe,{},NA
+36JW4WBR1FOJQ8KY5BEDSY146GXHFN,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""nothing""}",A1EVO152C6YOER
+3W0KKJIAS0D1DJBJ3IB4VY0AB14K89,NA,NA,Felipe,{},NA
+32CAVSKPDNTX5FWAYB6RMBM0ZF31UW,NA,NA,Happy,{},NA
+3YLTXLH3EOAVHL9SJEAI4SF88U0HPM,NA,NA,Happy,{},NA
+34D9ZRXCZ0YDKQH65P4KIBXFID0SA9,a456cc87-14cb-4589-959c-9abeff86b434,98e7284c-e2be-4680-b23e-c9b4924cb136,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed blocks on the incorrect side of the grid. The agent placed the incorrect block color. The agent kept deleting and replacing the blocks instead of leaving them deleted. ""}",H4sIAAAAAAAA/w2OwREAIQjEKtoZQVS4bgCh/xLO52bzyKK6LNeQyg0hFbi+SSnTetmMlZ/nxzVWcWzQ7uflDSjZxQ2eWXTGsfxM67BK4pkF2Trw7kJaiLFk0Nyfy9qZekAPQJYabFnCPKpbd8iUz0hcxkxcGhMyVsPpMmh0+Kkazvr1a7n+ItrcIGoHdnlgriBK3d7z/m4JGB3gAAAA
+36JW4WBR1FOJQ8KY5BEDSY146GXHFN,NA,NA,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""nothing""}",A1EVO152C6YOER
+341H3G5YG9IEKP528F1ZPYI5W8N0ZY,NA,NA,Happy,{},NA
+3W0KKJIAS0D1DJBJ3IB4VY0AB14K89,NA,NA,MHB,{},NA
+3O4VWC1GF5AK12ZV9GGW32SMGLEJ39,98231f69-81e7-4386-bfa8-838d81bff6da,6734df86-740a-4908-8ee9-5214ae23f225,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""Got stuck in a loop placing and destroying blocks in the wrong location multiple times.""}",H4sIAAAAAAAA/w2O2wkAMQjAJhJ81ept01bdf4TzM5BAFlWyZsBzblByheOD9FSiV8hd7zvv48JVfA3IeryXF5wiIS/LK9q44322RbPdYCse0EAHrwpYTHqKpZnXF85CbTF9bVAZ/fYZUzydbrfl+WICRXmQhAKKq+FQMhD2PbsKD/vHaC0526RO824IQYTzlLc9bDXXD4A+OGjgAAAA
+3CIS7GGG7ENWPGQMAZ16TV5UOOYUEZ,NA,NA,Felipe,{},NA
+3DFYDSXB35440WCEO0CXQBIMTWUUJK,NA,NA,Felipe,{},NA
+31HLTCK4CUZUM9BDLK1ZPKSPFD7GVG,750bd5c5-ee7b-47d9-b8b0-d684e65bcec9,6734df86-740a-4908-8ee9-5214ae23f225,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""Agent generally ignored directions and just randomly placed/destroyed blocks in the center.""}",H4sIAAAAAAAA/w2OyQ0AMQgDK0ICAglsN+Hqv4TN05I9HqUulnJI4wEhE7j2IqUsH/UVmt/Njxu1OTbQntfLCjDyggpe2XTweH77LKmxDUfwgjgaWLeDMsltXsOs31GM0lToPgFy3llYINQ26a2Rnf75GwiuhCJcIKgDl4qBcOKebrxsH+OeVU+bxOi5bwQneqSoGPOtw/0DquUTfOAAAAA=
+3TKSOBLOIUKJME5W0HILNX7LW90BBR,NA,NA,Felipe,{},NA
+3NRZ1LDP85AH869MP0GP4ZJD4C1ZPY,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""no""}",A2L10O5EU1ZMVY
+3RIHDBQ1ON2PWICFRYIQNOLD3J6HMV,NA,NA,Felipe,{},NA
+3NRZ1LDP85AH869MP0GP4ZJD4C1ZPY,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A2L10O5EU1ZMVY
+3DFYDSXB35440WCEO0CXQBIMTWUUJK,NA,NA,MHB,{},NA
+3IV1AEQ4E0H62Z51LXBSUJ0XW7V8JF,NA,NA,Happy,{},NA
+3RIHDBQ1ON2PWICFRYIQNOLD3J6HMV,NA,NA,MHB,{},NA
+3Q2T3FD0PWCA2A5GCDTOJUK3KF9M3G,900e3bf2-8891-43c6-a16c-fe269d3529fb,6734df86-740a-4908-8ee9-5214ae23f225,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed a block randomly. The agent placed blocks when asked to remove them. The agent ignored my commands. ""}",H4sIAAAAAAAA/w2LyQ3AIAzAJoqUExK2gRz7j9A+LdtGXawVkM4DSq5w/UdKlRgLeZbn5uFGa34LaM3fZT1wioJ6LNm0cUeetUVrfMFWvKCBDt4dYEx6m2WY7QRiyxsG9yBQyQWXVsI0rygxjnkn/kFREopQQNHmj4qBcN7d3XjZz/ON3r+qOwja0hAiG8THLWsTK36d3CxI4AAAAA==
+3L55D8AUGJ1Y9RQDO9S06SB4Z2NYC3,NA,NA,Felipe,{},NA
+3Q2T3FD0PWCA2A5GCDTOJUK3KF9M3G,4d173e97-7076-46ed-ab43-e7c04b036b23,6734df86-740a-4908-8ee9-5214ae23f225,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent placed blocks when asked to remove them. The agent placed blocks in the wrong location. The agent placed a block of the wrong color. ""}",H4sIAAAAAAAA/w2M2w1AIQjFJjoJL1HcRgH3H+HezyZtB3eJVSCXPBgvw1k/cprGG6F35D65pWm0XAf7+72si8VRqCuazZNm5PapVm85ptGBBS2s7sAQttOiT2RsK57aMfE3DvMunGuKnkl2Sf0/7vgDI00Uk8JoPBwuAdO7Z3bTkbWTZ/YSBnlPWPvBGSPREZ2efsfSD5m0lZ/gAAAA
+3L55D8AUGJ1Y9RQDO9S06SB4Z2NYC3,NA,NA,MHB,{},NA
+3IV1AEQ4E0H62Z51LXBSUJ0XW7V8JF,NA,NA,MHB,{},NA
+3CIS7GGG7ENWPGQMAZ16TV5UOOYUEZ,NA,NA,MHB,{},NA
+3TKSOBLOIUKJME5W0HILNX7LW90BBR,NA,NA,MHB,{},NA
+3O4VWC1GF5AK12ZV9GGW32SMGLEJ39,136dc87b-a851-4a8c-9c48-9b2e390e28d0,6734df86-740a-4908-8ee9-5214ae23f225,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""I had a typo in one command, so I did an extra turn with the typo fixed. The agent did not follow directions about where I wanted blocks placed, but did place them, and the correct color.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkLiSgLphnD0X8LucyRbnkVdrOWQxgNKphD2T0oVn+XyVt7Iy42r+W2gPT+X9cDIC+qxZNPB43n3Ea2xDUcxQB0NrNthMWk0yzCvS7Ir7by/swg0LMFTDfxxi2OzFV7/BUVJKEIBxTUQVAyE8+J0Y7BdzEBfssF8P1DB//vLgLbUWsM4Ux8LcEdl4AAAAA==
+31HLTCK4CUZUM9BDLK1ZPKSPFD7GVG,201cfeaa-69b0-4c6e-84a6-926742e8a3fe,6734df86-740a-4908-8ee9-5214ae23f225,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""Agent placed blocks referenced but in bad places.""}",H4sIAAAAAAAA/w2M0Q0AIQjFJnoJICK4DSLuP8LdZ5O2k/uK3kC5PCi7Iv1HLh3xZowza2dtaZotx8D2fq/ugXNc3COjmhetqG1r6H1uWEoJDXJ4d2AKa7aMJzK3ENfrTFgc+k/WcE1DiC2V9hyvd/yB0ihcpgGl+ZB8BUzv5OqmFN/Fq9qFQdYL2pbIOQsd0WVlZ/r4AClk54PgAAAA
+3VCK0Q0PPEIK30RJ5RQ5UBBWMZHN0G,NA,NA,Felipe,{},NA
+3ACRLU861WIHTHHGA8KBO5D6Z5RBE3,b96dbead-232e-4f29-b3ee-16d2613fbb41,d7681d93-58cc-4f54-acff-a0036aefbd7f,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""the agent did not listen to any commands at all and was not active with any movement really.""}",H4sIAAAAAAAA/w3M2QkAIQwA0YoCudRkuzFX/yWsnwPDW9TFWg5pPKBkCtdeUqr4LJdY+d38uHE1xwba876sACMvqGDJpoPH86uzjcoFlmWCznpYvv0iyr49UWe+8F3Rt4CF+03sENL94OJNMhFKn5NeRUkoQgHF9RAqBsKJe7rxsn0xvLcYw0krUK6E6x6PO74UmbvlBzNsVUzgAAAA
+3LOJFQ4BP6JDUE7AKQMKHQEBMLNKDN,NA,NA,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""Once again the agent didn't seem to respond to my commands at all, other than a little bounce to indicate the end of his turn.""}",H4sIAAAAAAAA/w2MyQ0AMQjEKkLiykLSTcLRfwnLc2SPF1Wy5oZwblByheszKVR2ry1vxblxuHAVvw/o6/EiHzjthHwsUWRoO07a55RbYHkEaK+JxegXUb5b/dL6YLRXocFX5qBPhm8xaCFfyre18GzSqygBSSiguEaiZCDsd23ul/08N/QalLcRtKRgy5TE21ekESv+P1zAfOAAAAA=
+3L21G7IH5G0EMOGF8C3GPWSDV5I1Y2,NA,NA,MHB,{},NA
+3LOJFQ4BP6JDUE7AKQMKHQEBMLNKDN,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""The agent didn't seem to respond to my commands at all. It just stood still and didn't move.""}",H4sIAAAAAAAA/w2N2wkAMQjAJhLUaqu3jY+6/wjXz0BIlG6ztEMZDwiZQNhDKlk+6iu1vqiPL+rl3EB7nledYOQNnbzq0sHj9fXZRu0L1KpARl+snh6Ia8ed7DOfaDYnFhRvf8fDkKwBpBTGealxf04SgqugCRcI6otQMxBOxrkXg+3DCnRdG8x3gix8u6yAayWtwzjTPwg93GPgAAAA
+3I7KR83SOJH1ROUT8AHIVUVLV0TK9R,NA,NA,MHB,{},NA
+3BVS8WK9R9ZT9MJ26RA29KBYRYCIBX,NA,NA,Happy,{},NA
+3XDJY5RK61PEXETTLTPTK9T3B1K4UN,e9bb490a-922b-41fa-987b-66755880a060,d7681d93-58cc-4f54-acff-a0036aefbd7f,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 1 was unavailable so i used agent 2. As for agent 2 they were still mostly unresponsive occasionally they would move and jump but they were still not building at all.""}",H4sIAAAAAAAA/w2OwQ0AMQjDJkICSincNgXK/iMcv0SKHG96xVIOadwgZALXplLK8t6+Yud38+OH+3EokPbssgKMvKCCVz46eDy/OmpUvmBbJkjvgeXML+LS+zrq9Pc8QhwvOHPMY0+yE6B69jbDi4qfk1zBlVCECwT3QKgYCDvueQ8v28eovWq0SYyGpAhOhONU0ea6m98P7DynseAAAAA=
+3VW0145YM7GLNO75FYLBZ11SGC4MJ1,2e584981-2ab6-48b6-8d8f-b8f83e5000fb,d7681d93-58cc-4f54-acff-a0036aefbd7f,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""the bot was completely unresponsive not even really moving much just receiving commands and not acting on them at all.""}",H4sIAAAAAAAA/w2OyQ0AMQwCK7LkM3G2m8RH/yWsPwgEGmFUyZoHwrlByRWuT6RQOW1HnsV34+NCK34LaPXsIh84nYR8LFG0cZ/4ci+nPALmEaBtA4uZX0RZt/rl7iGZ63ECvoNTH/H0huftUoaI/b5DehUlIAkFFG0glAw05d1VeNk/5vGMDnLnjq5VcIsEqryW2V5S/QMs0RoV4AAAAA==
+3PUV2Q8SWD8C1B3GED9RINVLZYQDBM,NA,NA,MHB,{},NA
+3BVS8WK9R9ZT9MJ26RA29KBYRYCIBX,NA,NA,MHB,{},NA
+3SA4EMRVK46K6L3WL63XY0GRM5J0P8,NA,NA,Felipe,{},NA
+3PUV2Q8SWD8C1B3GED9RINVLZYQDBM,NA,NA,Felipe,{},NA
+3VMV5CHJ0HJF9H7OGP1KO244ISGTG2,NA,NA,Happy,{},NA
+34F34TZU853VGK3C5G2RKSNUA7EJ2Y,26ea23d6-19ca-4afe-9add-36fa4836cf86,d7681d93-58cc-4f54-acff-a0036aefbd7f,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 1 was unavailable the whole time so i tried 2 again. Agent 2 did some small movements but was not responding well to any commands that i tried whether it be breaking or building none of them got a physical response""}",H4sIAAAAAAAA/w3M2QkAMQgA0YqEeMTodmM8+i9h8zkwvI1dJOWQRgOCJhD2ElPYZzvfnV/kR71201VAnfdlXTD0grrE2XjW8fzqqGE5w7ZMkNkPy7fHWqzRc+vMR9pBXE/yDJCYBo8qYJ0QY80x/RwlZHFC4WKQtR+CRYBrbpzuFWTfHVJlIzhpBUKVEO4XLh/fsoi6+QfBpzSN4AAAAA==
+3VMV5CHJ0HJF9H7OGP1KO244ISGTG2,NA,NA,Felipe,{},NA
+3W3RSPVVH1VAVM0ERLOA6QVEXNKLU2,3be47ede-1ed8-4ad7-96f0-716bf03fc0e2,d7681d93-58cc-4f54-acff-a0036aefbd7f,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was afk for all three rounds. ""}",H4sIAAAAAAAA/w2NyQnAMAzAJjL4Shx3m/jaf4TmKRDSoi7WcsjDA0pH4Z6HlCo+yyVWfjc/blzNsYH2PC8r4JAXVLBkk6F5fmX7ULnAOpmgs14sn34RZd+eKJtPotW6Gt75gN4y8D0IRjsGZRKbPye9ipJQhAKK60WoGAgnrnXj5fPF8N5yGCxPgXIlXPeAEPOlyNwtP61G9J3gAAAA
+3I7KR83SOJH1ROUT8AHIVUVLV0TK9R,NA,NA,Felipe,{},NA
+3U18MJKL23Q4XSMZH7JPPCDXVILCNT,NA,NA,MHB,{},NA
+3VW0145YM7GLNO75FYLBZ11SGC4MJ1,6850f29f-b051-40e4-8fec-521cfbfb1264,d7681d93-58cc-4f54-acff-a0036aefbd7f,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 2 Was unavailable. The agent this time was still rather unresponsive only really jumping a couple times when given a command but never really doing anything else besides that.""}",H4sIAAAAAAAA/w2OyQkAMQzEKjL4jrPdJD76L2HzG4EQY9TFWhsyeEApFE48pFTZY1uu5Xfy40Zrvg7k87ysC0G7oC5LNi1cO79aHlRbwCITdOzF8ukHUfz03FrzeRgO74GLRqDYCjGdYEw5dy6x67dJj6IkFKE8yV6EioFw7lndeDg+5rcZA+S8O+recJoEuqPdbLn0/BuZRRTgAAAA
+34F34TZU853VGK3C5G2RKSNUA7EJ2Y,4f552136-8fb3-4599-be9e-d516b2696aa1,d7681d93-58cc-4f54-acff-a0036aefbd7f,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was completely unresponsive only moving once or twice but it did no building or breaking at all""}",H4sIAAAAAAAA/w3MyQ0AIQwEwYgs4RO82fgi/xCW54xKrThN0g516ILgEYjzJpawX3VOrS/qo1k6lAZo97nqhIPe0Elcg3ttr6+3HWxn0FMFcvXF6vFYiy3mZu/7vVsJ2eDcZBB1hxwfaEVLMrcI/BwlZHFB43po6YtgE+C6GXtmBZ0vL5nxIdh1GoS6INwTkrerLKIZ/gFUV46t4AAAAA==
+3SA4EMRVK46K6L3WL63XY0GRM5J0P8,NA,NA,MHB,{},NA
+3VCK0Q0PPEIK30RJ5RQ5UBBWMZHN0G,NA,NA,Happy,{},NA
+3XDJY5RK61PEXETTLTPTK9T3B1K4UN,135f16a3-0eaa-4ba9-b0b4-2b5255b55970,d7681d93-58cc-4f54-acff-a0036aefbd7f,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was largely unresponsive no really doing anyhing no matter the command whether it be to build or to break""}",H4sIAAAAAAAA/w2OyQnAMAzAJjL4TOJu4yPef4TmKRBCRrdZ26EODygdhTgPqVR8zCWtvqiPL9rlXEBrnledcMgbOlnq0sbt9fVeh9oF7FSBjr1YPT0QZcWd7D0fiQ2tEMAbAZrhkJgKnMZmaeYbPycNRSloQgFFexFqBsLJ2Pdi8PkY10i/bdJD730hOBG+p845vmz4/sJStfLgAAAA
+3W3RSPVVH1VAVM0ERLOA6QVEXNKLU2,c5ac8de4-416f-4cd8-a751-d9ecd4e835b7,d7681d93-58cc-4f54-acff-a0036aefbd7f,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was afk for all rounds and didn't follow any commands. ""}",H4sIAAAAAAAA/x3O2w0EMQgDwIqQIIEEthvCo/8SDt2nJWtsocrFaRC6GpiUwXUiBW9rsf0kPo9vFUqtd4BOTy/ygZIl5Fs7ii5eiy/vUUrbIBoB3DJYTN0R9/Hql7e/EA/N4hk7f0nBrxCkVSSXbnn3M2Jn3AFJuIFRBqFcQNjPbxX60q8HSJ8TbW7AahcsF8IIRKHHe+cPg5XCyuAAAAA=
+3L21G7IH5G0EMOGF8C3GPWSDV5I1Y2,NA,NA,Felipe,{},NA
+3ACRLU861WIHTHHGA8KBO5D6Z5RBE3,11ea4d81-ec0a-4318-8dc7-d849ac1bd9b1,d7681d93-58cc-4f54-acff-a0036aefbd7f,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""the agent had some small movements but was also still largely unresponsive ""}",H4sIAAAAAAAA/w2O2w1AIQjFJiLhKCrcbZDH/iNcP5s0TRcqh6RR6GgSqJDrQ4RM62Xzrvg8vlG8atxN2P28yEsKS8o7ZhQOH4svz1akTVoaQdLrxeLpzjy3V988/QHlkgqqYCeZUNKMQ6liHrhpF59BXHgGJXiS8HoR5CBwXz9V7EO/wbtnvm3Iywk2kwH8nvK22l496gcO8qzJ4AAAAA==
+3U18MJKL23Q4XSMZH7JPPCDXVILCNT,NA,NA,Felipe,{},NA
+36FQTHX30CVEJJ1JLO3F5E998EPB3W,NA,NA,Happy,{},NA
+36FQTHX30CVEJJ1JLO3F5E998EPB3W,NA,NA,MHB,{},NA
+3566S7OX6MNV74KEL3DGCJ8GR7I71I,NA,NA,MHB,{},NA
+3YGE63DIOH1AQU0XXSHSQUONFBLW0G,NA,NA,Felipe,{},NA
+3LAZVA75ORV9HVU9LTUWSO4G91UO2S,NA,NA,MHB,{},NA
+33BFF6QPJAF67MZUGFZBSSMUIJX3W2,NA,NA,MHB,{},NA
+362E9TQF3QUP03RDMD2GAV2V7A9IGH,cad90893-d80c-4e6f-9cf7-5c8a96658b5c,ce6d475e-2005-4533-941a-e460db7ac30a,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was able to place a lot of blocks but none that were part of my commands or even the right color at times. Along with that they did not even break them once placed.""}",H4sIAAAAAAAA/xWNwQ0EMQjEKkKCAAHSDQHSfwm39xzZ8ihNL+mA8vVAyAXSv0klHE+Dr9bJOmtQZ90NtN/nVV9wioa+i2vI0KJOzW4xHViICqLMEEIJIxv7WhZjnsoO9GBoxwKZ/SDqGWh5xt7q/8cgSUEuaEIGQX2Q1AsI302bwVx+rhv6fKjz4VfigWA2YH+u1UZL8AfknTJ34AAAAA==
+375VSR8FW5D2KJP12SKE9UJS5UPZRQ,NA,NA,Happy,{},NA
+3566S7OX6MNV74KEL3DGCJ8GR7I71I,NA,NA,Happy,{},NA
+39KV3A5D2HBV1OJ8YMS08KVPH4JS75,NA,NA,Happy,{},NA
+3W0KKJIAS0D1DJBJ3IB4VY0ABUQK8H,NA,NA,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+31GN6YMHMYWAR3K96U0C00U6AXLSW4,NA,NA,Felipe,{},NA
+3PIOQ99R87Q0JM3Z3Y4PJIZ32JLNU9,NA,NA,Felipe,{},NA
+3YGE63DIOH1AQU0XXSHSQUONFBLW0G,NA,NA,MHB,{},NA
+3PIOQ99R87Q0JM3Z3Y4PJIZ32JLNU9,NA,NA,Happy,{},NA
+375VSR8FW5D2KJP12SKE9UJS5UPZRQ,NA,NA,Felipe,{},NA
+3W0KKJIAS0D1DJBJ3IB4VY0ABUQK8H,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""no""}",A3SXZL66TVNQQG
+33BFF6QPJAF67MZUGFZBSSMUIJX3W2,NA,NA,Felipe,{},NA
+31GN6YMHMYWAR3K96U0C00U6AXLSW4,NA,NA,Happy,{},NA
+351S7I5UHI0R56S5RZ0BCGQSL2UNJI,NA,NA,MHB,{},NA
+3LAZVA75ORV9HVU9LTUWSO4G91UO2S,NA,NA,Happy,{},NA
+362E9TQF3QUP03RDMD2GAV2V7A9IGH,8d38c226-909e-4338-8c26-9c035bc4c207,ce6d475e-2005-4533-941a-e460db7ac30a,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was able to place and break blocks but did not follow any of my commands besides breaking the wrong blocks they placed.""}",H4sIAAAAAAAA/w3Kyw0AIQgFwIpewlfFbhCx/xJ2j5OMc1+xG6glD8bLkOsnl2k8Dz1eO2tLk7ecAR7vf3UPFsfFPaLVPGlG7epxbXpDiBzmqgjjRNuge2aWUu51dZXIQFA0THXh988i9VNWQnMHWxpp4TIpjPwh+QqY3snZTSlrF8/qJQwaPWE9Eule6IiuUeP40g/Tja4W4AAAAA==
+351S7I5UHI0R56S5RZ0BCGQSL2UNJI,NA,NA,Felipe,{},NA
+39KV3A5D2HBV1OJ8YMS08KVPH4JS75,NA,NA,Felipe,{},NA
+3R4QIDVOKYGF0KT0KZM1PDJR21NEEN,46c11285-d557-4781-8abf-fef3ce857f2f,caa7a5d8-9151-40e4-8b13-858920cd2dc5,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The Agent was also not listening at all and could only move back a bit but would not act on any commands""}",H4sIAAAAAAAA/w2OwQ0AIQgEKyJhERSvGwTpv4TzuclmZgy3RGtTujQpXCn8TaSO3bbHsfwiP7lsV84kzH6/rEOOXVRHRl4sXju/jFhh5bRhIOWr5AeD3HwLZ0mlfToTEDcqs0W6HORxmvr2I7mtlv42NJRHUoHHI1lToITAfWLdyyH+Cc8e9bKhD6KY/MTg11SnfU9ruT+xP0UL4AAAAA==
+3WKGUBL7T8QBEO6ZCFXSTMXKYAE4LG,NA,NA,Felipe,{},NA
+3M4KL7H8L4RC34692T8O658KW0C16Z,NA,NA,Felipe,{},NA
+3YO4AH2FQMO56X4BLJIMY561R7SQ0O,NA,NA,Felipe,{},NA
+32LAQ1JNUITYEZ8J0UQ1SH5VRZ6UTC,5481fb74-5873-4b47-9f45-7ab0832e2152,caa7a5d8-9151-40e4-8b13-858920cd2dc5,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent did nothing, and didn't follow any commands. I completed 4 rounds, the agent ignored everything I said to it. ""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkICAhtINxyh/xI2z5GssZVus7RDGQ8ImUDYm1SyfNRXap2owxf1cn5A3zyuOsHIGzp51aWN2+tUxA5tAyclELwClrTA1Jyxmrv0qBhNbgG1vUBSNviIwo5EW3yZlI+ThOAqaMIHoQ4ENQPhZOx7MdgO4zerXza9y9f+4RMTvqbOMf90+P7h/d714AAAAA==
+3R4QIDVOKYGF0KT0KZM1PDJR21NEEN,ce8df60c-9b51-4205-a090-b1e6557e8e7f,caa7a5d8-9151-40e4-8b13-858920cd2dc5,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The Agent was not able to listen to any commands and would only jump or move back when given a command.""}",H4sIAAAAAAAA/xXMyQ0EMQgAwYiQOIwNzobL+Yews8+WSq00zasdyvjBIlsQ9iXVEn/qklo36vKgDucG2u9z1QlG3tDJUkMHj9etiBPaBk5KsHAWWJKAqTljNXfprbF+Gws8/4hRIdARkmarnrE57zqtWCgFTSjfSR8ENQPhyzgzGGw3H+8txnDK+jt1QbgnpBzXhcwz8gNJuQTH4AAAAA==
+3HEM8MA6IIG8UE8V24XCD679ZAUPQA,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""The agent did nothing &amp; made zero attempt to complete the commands I was giving it. ""}",H4sIAAAAAAAA/w3MwQ0AIQgF0YpIAEXBbvCD/Zewe5xk8ky6dFYQXB9N8UnpfwrmiGcxruEkjjZb610k6/0f6pJLFNXVgZbNO3CQudPKKcSEJvckvzLIzUMZpQU74+LHNlO87TRHJjlykzozegC97YTMnDxAJTx+yR6llJLwu7m7OdUPZKNdhXj1ptkrKc1AHdFYWNd8fAM7F2LgAAAA
+3D3B8GE8ABV22FR9L2MQRBHKPICP9Q,NA,NA,Happy,{},NA
+3QQUBC640NIS0QXU83FC3PY7WYPNXI,8c3b86a1-24af-4bea-a9d2-3f1b39fe90d4,caa7a5d8-9151-40e4-8b13-858920cd2dc5,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""This agent and map were exactly the same as the other one. The agent didn't respond to my commands at all.""}",H4sIAAAAAAAA/w2NyQnAMAzAJjL4SmJ3G1/Zf4TmKRDSomnWdijjC0qmEPaQSsXvcslVX9THg2s4N9C+z6tOMPKGTpYaOni8voo4sdrAaREojoIlCdgyZ6zmrvVZSdoOAtZ4pZyA8GaQS/mW49j6OWkoSkETyiutC0FPIrwZZwaD7TsV+/ZWOJEFOj2QbAPn8haaK9PxAyaw2mjgAAAA
+3HEM8MA6IIG8UE8V24XCD679ZAUPQA,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent made zero attempt to follow my commands, and on the 3rd turn the agent just stood there and did nothing for a few minutes. By the end of the round, the agent didn't place or remove any blocks. ""}",H4sIAAAAAAAA/w3OyQ0AMQgEwYiQOBfsbDDg/ENYP0ddjzGaZu0FFXxBKRQy3qRSWdeWHKudtXnQhs8H9N3nqg8ErYY+LDXk6Kt2ZXpaBywyAsVRiEMCYbEYq7nL9ocoFhwQav5QOhx2fwfK+66vSM9epKkoBU0oD9mFpGYgvCd9BpNjn3CMeanzIujIwBJxkLhh1U6s+APLmW5z4AAAAA==
+3E9VAUV7C5IAGCTF4VW90XLGZZQYAP,NA,NA,MHB,{},NA
+3E9VAUV7C5IAGCTF4VW90XLGZZQYAP,NA,NA,Felipe,{},NA
+3D3B8GE8ABV22FR9L2MQRBHKPICP9Q,NA,NA,MHB,{},NA
+32LAQ1JNUITYEZ8J0UQ1SH5VRZ6UTC,db3fb526-6b85-4a1f-a9ec-d57e18f11db0,caa7a5d8-9151-40e4-8b13-858920cd2dc5,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent didn't move at all and removed zero blocks. The agent didn't follow any directions and stood in the same location for all 3 rounds. ""}",H4sIAAAAAAAA/w3MyQ0AMQgEwYiQOG3YbMzh/ENYP2fUKqNp1g4o5wtKrnD8TSqVuBaSVt+pjwdtOBfQuq+rTnCKhk6WGtq4o746Zx9rhyAjUBwFTxJw82Cs5i77OuWm8YKVbqCHLpyYgrY95JeoE78gPYryXkJ5kr2ImoHw5tkzeNi/vLyWOMMub9CnPykSUnaYIvOM/CcSx0ngAAAA
+3WKGUBL7T8QBEO6ZCFXSTMXKYAE4LG,NA,NA,MHB,{},NA
+33N1S8XHIVPEREQK4Y5Z331F1YRZ1U,21e50408-8aab-4708-b2b6-d7d47d332b96,caa7a5d8-9151-40e4-8b13-858920cd2dc5,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was not listening to any of my commands at all it would only hop once or twice and then the turn would end""}",H4sIAAAAAAAA/xWO2QlEMQzEKjL4fLHTjY+k/xI2+zeCQcjoDOsEtPMFJVdIf0itEtdCynpnbz5oh+sD+u779RQ4xcAUSx9auKJ3Z660cQgyAsWj4EUCbh6MPTxtm+kYKjp4ZoGut+ovnjW6RoQrvh2kqSgNQyjPZBeShoHwVq5zMNn3fS2TL+JGBqjHghhGECui9i+vzA+ZDVn14AAAAA==
+3LVTFB9DFEM2H1FWZL7PJXTHYJGQGG,NA,NA,MHB,{},NA
+33N1S8XHIVPEREQK4Y5Z331F1YRZ1U,f338d22e-980a-43da-8b75-462299a6cc12,caa7a5d8-9151-40e4-8b13-858920cd2dc5,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 1 is still not working at all on this server. I always get the response that the request Agent is not able to play any games when i try it. For that reason i used Agent 2 twice and it was still unresponsive.""}",H4sIAAAAAAAA/w2O2wkAMQjAJhJ8XrXbWK37j3D9DIQQo9usHVDOA0qukP6QSiXGQo7Vztp80S6fD+ib51UfcIqGPix1aeGK2pW50tohyAgUr4IfEnDzYKzmLtsj4s18IRwTVDqftAz0Y47Ir4p4B2kqSkETyivZQFIzEM7JdS8m+5730vkmJjJAPRZEM4LYISr/cqR/UUvvPOAAAAA=
+3QQUBC640NIS0QXU83FC3PY7WYPNXI,6d75cf79-ae4e-45e2-9614-03b27ad83b75,caa7a5d8-9151-40e4-8b13-858920cd2dc5,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent did nothing at all in a response to my commands.""}",H4sIAAAAAAAA/w2O2wkAMQjAJhJ8ttptrNr9R7j7DIQQo2nWDijnB0qukP4jlUo8C7lWJ+vwoA3fBbTe71VfcIqGviw1tHFHncrcae0QZASKo+CXBNw8GKu5y87qbfV2QI4O6F+FWKSAcnlnu9xtJ0hTUQqaUP6SPUhqBsJ3c89gsh+sxDBZ4LEuqOD/fithvLTtMb7XHwSDB9ngAAAA
+3M4KL7H8L4RC34692T8O658KW0C16Z,NA,NA,MHB,{},NA
+3LVTFB9DFEM2H1FWZL7PJXTHYJGQGG,NA,NA,Felipe,{},NA
+3YO4AH2FQMO56X4BLJIMY561R7SQ0O,NA,NA,Happy,{},NA
+3BA7SXOG2SUN0NOET2K1WAMO6OBR8C,NA,NA,MHB,{},NA
+3E22YV8GHAANRHV3MC5V9CC4U7TPNP,NA,NA,MHB,{},NA
+3UEDKCTPA4UXD560TDJYHY4F0AKK7U,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+3BA7SXOG2SUN0NOET2K1WAMO6OBR8C,NA,NA,Happy,{},NA
+3Z56AA6ELD49ZTSYVFRMQXWNU6N6MI,NA,NA,Felipe,{},NA
+3IKDQS3DRN4CJRB8KR6XK4HG9IHCI1,NA,NA,MHB,{},NA
+3AQN9REUUOK8EJWRO5NBQYTMK2ZYD3,NA,NA,Happy,{},NA
+341YLJU22R3ZL9J6NYHR8R8UXSYI2U,NA,NA,MHB,{},NA
+3126F2F5GH7JXBIQTD2CJPIVGFSPE0,NA,NA,Felipe,{},NA
+3UEDKCTPA4UXD560TDJYHY4F0AKK7U,NA,NA,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+3Z56AA6ELD49ZTSYVFRMQXWNU6N6MI,NA,NA,Happy,{},NA
+3E22YV8GHAANRHV3MC5V9CC4U7TPNP,NA,NA,Felipe,{},NA
+3WJGKMRWWRDVBGVMSD5MT713HEQCDI,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed the blocks on the correct side of the grid. The agent wouldn't place them next to the red blocks. The agent placed blocks when asked to remove them. ""}",H4sIAAAAAAAA/w2MyQ0AMQjEKkIKRwhsN1zpv4TNZySPLG+cJmmHMrogaAJhD7GE/W7n3PVFfTRrD6UC6n1edYKhN3QS1+BZx+uz9/M+DequIKsJ/M4ANj+I7a/yzZT3WIME7ze3Ic8VuH0ynI+Hr89RQhYXNC5+pX0h8OVw3Ywzs4LsyyI9gQZKukCcDNJ9oHxSprTY9AcLdvov4AAAAA==
+3DTJ4WT8CMJDBFKWGM0EANK9Q6DZET,c8efdb2a-1313-4212-82b6-0648e44fe851,84cd357d-6996-40d2-9fee-1d340da592e0,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""Agent 2 Build clock wise almost. For turn one it built well west and i thought the structure would finish but then it build north which wasn't required and then east also.""}",H4sIAAAAAAAA/xWO0RFEIQgDK2KGIPrAblSg/xKO+0wm2dmJDNFweiZFClM61hFPh9f0cefb521Jnil3EVb17sUlgwfFlfESH3/+tnU/5he03Bcph5BXJiFGhzO9KftZVr8OYWCQCoTsD+allqqVNrEdepTHowD3iGfRQePAdc+XyUdsC68a0dpQQ7svJge4neKW+Zol+QMju8vX4AAAAA==
+3AQN9REUUOK8EJWRO5NBQYTMK2ZYD3,NA,NA,MHB,{},NA
+3126F2F5GH7JXBIQTD2CJPIVGFSPE0,NA,NA,Happy,{},NA
+341YLJU22R3ZL9J6NYHR8R8UXSYI2U,NA,NA,Felipe,{},NA
+3WJGKMRWWRDVBGVMSD5MT713HEQCDI,NA,NA,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent placed a column of purple blocks, but on the incorrect grid location. The agent placed blocks at the wrong location, but overall was responsive. ""}",H4sIAAAAAAAA/w2NyQ0AMQjEKkIKVwLbDYHQfwnL0yPLo/iKpBzSqEHQBMIGMYW91flqfpEfvaWP7gbcPV7WBUMvqEucD886np/NznoKtvsGWUXg/R5g8UCoT+XzMAxcCjdtJLoHglfC3umvdruhfo4SsjihcPGUtCFwcrj6xnlvBdmXjpwnCk53gZgwmMq8YzJfp8zuH9j0ltTgAAAA
+3DTJ4WT8CMJDBFKWGM0EANK9Q6DZET,bcfdee3d-2b05-4b94-a70b-dcdfe9d02fda,84cd357d-6996-40d2-9fee-1d340da592e0,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 1 was incapable really of building in the correct direction. It placed blocks but not really where they were supposed to be placed""}",H4sIAAAAAAAA/w2Nxw0AQQjEKkIibeC6WVL/JRxPj0b2okrWNIjLDUpX4d1BChXrZeIrvhcfF65i30C75xfpcMkS0lmi6OCx+O7ssk7CNtugmAzWVUApA2/ZWD6PzipJYMcF6jbFgw4Z2WWJ3Pk+I32KEpCEMqbV8Gh0hO3vVOHj+3nz3nIZTtwE5Qx4Zg4ux5Yi82R+BCedTeAAAAA=
+3IKDQS3DRN4CJRB8KR6XK4HG9IHCI1,NA,NA,Happy,{},NA
+3Z3R5YC0QCR9VHBT55V26H4SHDZFT8,NA,NA,MHB,{},NA
+3UZUVSO3QGZDC8LD1XAK2LO0B5LMEV,NA,NA,Happy,{},NA
+3VJ4PFXFKCBTZ39AUUZKXCF33BTAUH,NA,NA,Felipe,{},NA
+3UZUVSO3QGZDC8LD1XAK2LO0B5LMEV,NA,NA,Felipe,{},NA
+3HEM8MA6IIG8UE8V24XCD679Z9GPQU,NA,NA,Happy,{},NA
+37OPIVELV37OUH3QUVSLEXQD93RAHG,NA,NA,Felipe,{},NA
+3HEADTGN3YWLBZKR1VVBOO6WHMCRVH,NA,NA,Felipe,{},NA
+3Z3R5YC0QCR9VHBT55V26H4SHDZFT8,NA,NA,Happy,{},NA
+37OPIVELV37OUH3QUVSLEXQD93RAHG,NA,NA,MHB,{},NA
+37VE3DA4Z3LTDR8I09SH98AJRJSHBU,2c5608f8-25d1-4a45-9325-15a990099d11,54e62628-0f8d-4783-9720-f5fb75341549,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent build well but not in the correct direction and along with that they only listened once the other two turns they stopped listening.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkLiTGC7IRD6L2HztMbS2Og2aweU84CSK6Q/pFKJsZBj9WV9fNEunwW05nnVB5yioQ9LXdq4oz7Tu3ixA4436HaB2IwwNmebKJnGx2ULfRzYmkBTDULYgCwjECOa6At6A0pBEwoo2kBSMxDOyX0vJvs3r6XzRUxkgHpsiH53YoeofOVI/z0CR7XgAAAA
+3C8QQOM6KY55MV5EX4ZWNN733RVLIQ,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""NA""}",w3M2QkAIQwA0YoCOddoNzFH
+3HEADTGN3YWLBZKR1VVBOO6WHMCRVH,NA,NA,Happy,{},NA
+3VJ4PFXFKCBTZ39AUUZKXCF33BTAUH,NA,NA,Happy,{},NA
+3421H3BMAJL6G4OBQPH6UFV8GIM9JO,NA,NA,Happy,{},NA
+3HEM8MA6IIG8UE8V24XCD679Z9GPQU,NA,NA,Felipe,{},NA
+37VE3DA4Z3LTDR8I09SH98AJRJSHBU,88bdeae1-2468-406d-9672-cef0e680dfaa,54e62628-0f8d-4783-9720-f5fb75341549,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""I was unable to get Agent 1 working even waiting the maximum amount of time before i would run out of time. I used agent 2 again for this. As for agent 2 they behaved a bit different as they built much more correctly on the first time but then were unable to build for the next two turns. They were only able to break and replace one block.""}",H4sIAAAAAAAA/w2O2wkAMQjAJhLUaqu3jfWx/wjXz0AgUepiKYc0HhAygbCHlLJ81NfV/CI/btTmu4H2PC/rgpEX1OWVTQeP56fSmzcb4FiBHFvghxFG5x5dQir+md3qaAKWbSC4C3wfhuzB3oY1EZ+ThOBKKML1JB0IKgbCuXG6Mdi+eS8Vb2I8HMT8gNfLLb1EaTtm1Q8a7gJg4AAAAA==
+3421H3BMAJL6G4OBQPH6UFV8GIM9JO,NA,NA,MHB,{},NA
+3C8QQOM6KY55MV5EX4ZWNN733RVLIQ,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""NA""}",yWsnwOPMepirQ3pPKDkCuEvKVX22JZreSIPN1
+34OWYT6U45LALT4587W6IEG833X9IC,NA,NA,Felipe,{},NA
+3NFWQRSHWNI5QCPNL5WV7YP3RHMFGQ,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+3W0XM68Y0YZJ2JRY4X2PGOD2XWJ1KT,NA,NA,MHB,{},NA
+3CKVGCS3QP9HJDJODN7RT5L29Q0S0S,NA,NA,Felipe,{},NA
+3GITHABAD7PRZAUXKEUJDZ4BJRF2NH,NA,NA,MHB,{},NA
+3NRZ1LDP85AH869MP0GP4ZJD4EYZPZ,NA,NA,MHB,{},NA
+3WRKFXQBPKBPMUCDGJOMHV9ZC6ZIYF,aa86d0d0-9d65-42d7-b6bb-30eadc4abe42,2b75a1cd-46af-43af-affe-a46ca2e1ebcc,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent followed zero commands and remained in the same location for the duration of the game. The agent made zero attempt to follow the commands. ""}",H4sIAAAAAAAA/w3M2wkAIQxE0YoGkhijbjd52X8J68/AwOFO7hKtg9xyobwVvt/l1HHuPCNmfp6fNM2WMLDd57ICm0+hQkY2L1rnoVjTOQtq/tB44/c2XC1dmjvyxXxbURFO2YRKLYRFYFB7pXq0yndYXWkkimlAab4Sl4Dphq9uctnfSrdbplgeCe1qhOzGumKD+44u/wEyYBGo4AAAAA==
+3KQC8JMJHLWOAW45LGDBRPC73TXH3P,465f7719-b685-419d-8315-e6a36214b5a0,2b75a1cd-46af-43af-affe-a46ca2e1ebcc,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent jumped when I told them to remove the purple blocks and made no attempt to remove them. For each of the 4 turns the agent ignored every commands, they jumped once then the turn ended. ""}",H4sIAAAAAAAA/w2O2wkAMQgEKxLUqEmuG1/pv4TzZ2FhmF2lLpa6kIcfCB0BP1MpZd2nd4Xm5/lxozaHAdkbLivg0C2o4JVNG/cdKLY6ZYGYD7Qm/L0GF0vnpo7MT0zf3nQh7OgsjuQsUmjzZUwS6vhdEhdcCUW4QFDHRMVA+MJ3Nzqfj9HeqrlNcmhMhnCJcD5VvHNnh/sHmcawOeAAAAA=
+3QGHA0EA1S4BAH37V8EHABK668GWBM,NA,NA,MHB,{},NA
+3EGKVCRQG5WFZMY7A9W5V85MHHBYBK,NA,NA,Happy,{},NA
+3GITHABAD7PRZAUXKEUJDZ4BJRF2NH,NA,NA,Happy,{},NA
+3NFWQRSHWNI5QCPNL5WV7YP3RHMFGQ,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+368IUKXGBECFKWPBNVJE71QIZGO6PE,NA,NA,MHB,{},NA
+3FULMHZ7P31VK6OKCRY7TZC9YK74MV,NA,NA,Happy,{},NA
+3CKVGCS3QP9HJDJODN7RT5L29Q0S0S,NA,NA,MHB,{},NA
+33TGB4G0MYLQV32E5Z1OCO4ZLI6XTS,NA,NA,MHB,{},NA
+3WRKFXQBPKBPMUCDGJOMHV9ZC6ZIYF,fb56a695-b853-4d03-9169-ae528f57adfd,2b75a1cd-46af-43af-affe-a46ca2e1ebcc,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent followed no commands, and stood in the same location for each turn. I tried rewording the command, but the agent didn't listen. ""}",H4sIAAAAAAAA/w2O2wlAMQhDJxLUalvvNj73H+H2JxBySKLUxVIGeXlA6Ar4fZZSlo3aCs3P8+NGbY4NtOdxWQGXrKCCVzYdPPagOOqUBbL9QeuJzzS47HRu6sj8JnT7NoW4ukAKFxhtA2/lO3q8pj4jccGVUPRyQX1NVAyEE3660fl+mI6ma8O1HW8O3/dIh74ppcM4Uz/PO/7u4AAAAA==
+33TGB4G0MYLQV32E5Z1OCO4ZLI6XTS,NA,NA,Happy,{},NA
+3FULMHZ7P31VK6OKCRY7TZC9YK74MV,NA,NA,MHB,{},NA
+368IUKXGBECFKWPBNVJE71QIZGO6PE,NA,NA,Felipe,{},NA
+3W0XM68Y0YZJ2JRY4X2PGOD2XWJ1KT,NA,NA,Happy,{},NA
+386T3MLZMWZZ0T4FZP1MCEL1XYJ08U,daf1a02a-33ca-41e8-ad6b-85544eba0f55,2b75a1cd-46af-43af-affe-a46ca2e1ebcc,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was AFK for all turns and made zero attempt to follow my prompts/instructions. ""}",H4sIAAAAAAAA/w2O2wkAMQgEKxJ8JvG6MWr6L+H8WVgYdseoi7Uc8vADpaMQZyqlij9zuZZf5MeN1nwX0HrDZV045AV1WbJp4/aB7ragLNAVA8lEvNcQujK4qW/mV/EokANEMuaxD0StmTNT7Rv4zD4nDUVJKEIBRZslKgbCd2N3Y/D53rhUjMTzcNDjG7wYQewS5RkHqR8yJFQi4AAAAA==
+3DWGDA5PPO8XIULA31GWIXOJDT1V1I,NA,NA,MHB,{},NA
+3QGHA0EA1S4BAH37V8EHABK668GWBM,NA,NA,Felipe,{},NA
+34OWYT6U45LALT4587W6IEG833X9IC,NA,NA,Happy,{},NA
+3DWGDA5PPO8XIULA31GWIXOJDT1V1I,NA,NA,Felipe,{},NA
+3NRZ1LDP85AH869MP0GP4ZJD4EYZPZ,NA,NA,Felipe,{},NA
+386T3MLZMWZZ0T4FZP1MCEL1XYJ08U,c5d2b9fc-6153-4669-b7b7-1e52a2515436,2b75a1cd-46af-43af-affe-a46ca2e1ebcc,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent followed zero commands and was afk for the whole game. The agent made zero attempt to do anything. ""}",H4sIAAAAAAAA/w3NyQkAMQwDwIoM8Zl4u/GV/kvYfASCQVKcJmmHOnRB8AjEeRVL2K86p9YX9dEsHUoDtPtcdcJBb+gkrsG9tj+UWwOrQSwe4hdx70CIVdDgZNVX2pR+CwyVnzSH3LkBRylIUYXtc5SQxQWN66GlbwmbANfN2DMr6Hx5yYwPwa7zPqkLwj0hebvKIprhHx4u0CXgAAAA
+3EGKVCRQG5WFZMY7A9W5V85MHHBYBK,NA,NA,Felipe,{},NA
+3KQC8JMJHLWOAW45LGDBRPC73TXH3P,9c90b242-94bf-441e-a590-e850577e608c,2b75a1cd-46af-43af-affe-a46ca2e1ebcc,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent follow no commands, and made zero attempt to build/destroy anything. The agent completely ignored every command I gave it. ""}",H4sIAAAAAAAA/w3OywkAMQgE0IoENZrE7cZf+i9hvQiDj1GlLpYyyMsPhK6A34mUsuyprdD8PD9u1ObYQPuNywq4ZAUVvLLp4LFBcdQpC2T7oDXD32tw2enc1JH5WRoGC4NJDBKavRpCX0U9pzfeQSQuuBKKcIGgThMVA+ELP93ofD9MR9O14dqOOYfze6RPU0rpY3yvfn2qBUngAAAA
+3E24UO25R8UXZWDA8V6ZI1LSPBS6OX,NA,NA,Happy,{},NA
+363A7XIFWDQTCIYAZK9PTYHMHIOAVS,NA,NA,MHB,{},NA
+337F8MIIN8HYHSHDNMB9V25WVCF04F,NA,NA,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""Agent placed blocks on the wrong side of the grid. The agent ignored my command to remove the blocks. ""}",H4sIAAAAAAAA/w3OwQ0EMQgEwYhGAgw2OBsMbP4h3D1bqkcbT4t2oFw+KLsi/Z9cuuKzWM/qZl0ZspG3wfv7u+oH52j0k1XDh07U7ZaJ8D8yZmgIwXMIWX3OGj3keb23s9qGmDU04yA2BUzYtOWEvXeDNZVWoZkWlOxDcguYvpdnhlL8Fp8aFwbtOdDZiTQr/B+mdu1nvn5d7GIr4AAAAA==
+3DGDV62G8XDR2V6A0T7BHO96J6R2PO,NA,NA,Happy,{},NA
+3PA41K45WW8YOW3G65O6DFQEUKQP70,NA,NA,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""1. The Agent didn't follow my command and placed blocks instead of going to where I wanted. 2. The agent placed more blocks and didn't follow my commands. 3. The agent ignored my instruction and did what he wanted. ""}",H4sIAAAAAAAA/w3MywkAMQgA0YoEv4mmG6Om/xJ2jwOPMZpm7YByfqDkCul/UqnEs5BrdbIOD9rwXUDr/a76glM09GWpoY076nTzRPiPjAg0GMFzELJ6bxnd6HlULbmqYKwadNHAFUGou2JeuNuuE6SpKAVNKKBoD5KagfDd3DOY7Oc+XkucYZf/J+6CjLj/bocpMs/IB/4S7ergAAAA
+3SV8KD29MDWGXFC6C8BH8IXEAAGZKY,NA,NA,Happy,{},NA
+3I4E7AFQ3T3P0JXPOVMNLFWKAKETJN,f4cb48ac-2e32-4276-862c-9730339f806b,dd2e9986-1511-4920-8ae0-acd773e4708a,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent placed/removed the improper blocks. The agent placed blocks on the east side instead of the west side. The agent kept placing/removing blocks. ""}",H4sIAAAAAAAA/w2O2wkAMQjAJhJ8tdXbxvrYf4TrZyCQLOpiLYc0HlAyhbCHlCo+y+Wu/CI/blzNdwPteV7WBSMvqMuSTQeP51fF7W5PWkSgzggWjRBZ50jrQYtvNK9aJHALg/LZYJsT/AjKaxru+zlpKEpCEQooroGgYiCcG6cbg+1j3CP1tknt5WgjOBG+p7pjvtdw/+cql4XgAAAA
+3GMLHYZ0MN1UVL7DA0D00YXA61MUYZ,NA,NA,Felipe,{},NA
+3GMLHYZ0MN1UVL7DA0D00YXA61MUYZ,NA,NA,Happy,{},NA
+37VHPF5VZL7JULZVB5U67FN26ST8CI,NA,NA,Happy,{},NA
+3PA41K45WW8YOW3G65O6DFQEUKQP70,NA,NA,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""1. The agent removed blocks from the wrong locations. 2. The Agent completely made its own structure 3. The agent never properly placed or removed any blocks that I told it to""}",H4sIAAAAAAAA/w3OwQ0AIQhE0YpIGMQV7AYB+y9hPU7ykvkTXaLllCaXFKYU9iZSh9/p48zckVuaZ8v5CN99LuuQwYvqyMjG4uW5q6Td7aEJkLowWTRTZK01WhdbbAvVijSKaeOh4+SMQWtFvoODUdgODeWRVOCHeF4KlBD4nljdHGJb+LujXjbU3h0+Jgf4NdW55t+80j+EQkf94AAAAA==
+3L7SUC0TU3YELI6JTQB5HWMWH8NM0T,NA,NA,Felipe,{},NA
+337F8MIIN8HYHSHDNMB9V25WVCF04F,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent flew in the air and didn't follow my command. Second and third turn the agent ignored my commands and did nothing. ""}",H4sIAAAAAAAA/w2NyQ0AMQjEKkLi3EC6IUD6L2HztMYaG02zdkA5X1ByhfSHVCpxLeRY7azNgzZ8PqDvPq/6gFM09GGpoYUranfzRPiTjAg0GMFzELJ6LRld6LmFmT0TwcYYlC3gEAbYtSpDDvazgzQVpaAJBRTtQlIzEN6TawaTfR9/h/OmzougIwMhskD8ur0kseIPNRmBH+AAAAA=
+32XN26MTY8NUF0OYTEAQHJ77HYN0LL,NA,NA,MHB,{},NA
+363A7XIFWDQTCIYAZK9PTYHMHIOAVS,NA,NA,Happy,{},NA
+37VHPF5VZL7JULZVB5U67FN26ST8CI,NA,NA,MHB,{},NA
+31ODACBEO3J576ONUL168BCKMW5QSZ,NA,NA,MHB,{},NA
+3I7SHAD36V0S3T63EPWEWBWJPEEM7Y,NA,NA,MHB,{},NA
+32XN26MTY8NUF0OYTEAQHJ77HYN0LL,NA,NA,Happy,{},NA
+3E24UO25R8UXZWDA8V6ZI1LSPBS6OX,NA,NA,Felipe,{},NA
+3L7SUC0TU3YELI6JTQB5HWMWH8NM0T,NA,NA,MHB,{},NA
+3I4E7AFQ3T3P0JXPOVMNLFWKAKETJN,e0df7051-b024-4b4d-aaf2-77044e09737d,dd2e9986-1511-4920-8ae0-acd773e4708a,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed blocks randomly. The agent placed blocks on the wrong side of the grid. The agent didn't remove the proper blocks. ""}",H4sIAAAAAAAA/w2OyQ0AIQzEKhopFyTQTSCh/xJ2f7bkhwd3idXCDXkwDkPGr3xN1xtLz7g775am0XImeL6/u3UQvAp1RG+zk6+7q6TXij8azLAlhMgm5C13bXOK3E31nAbjkBjsWCHzCdzJrGm5eu3FlkZ6UUwKo/GQXAKmd9K7KSW2yM9CAc1/x+ZsZLOiO3qO4VP7fXkX3j7gAAAA
+3I7SHAD36V0S3T63EPWEWBWJPEEM7Y,NA,NA,Happy,{},NA
+31ODACBEO3J576ONUL168BCKMW5QSZ,NA,NA,Happy,{},NA
+3SV8KD29MDWGXFC6C8BH8IXEAAGZKY,NA,NA,MHB,{},NA
+3DGDV62G8XDR2V6A0T7BHO96J6R2PO,NA,NA,MHB,{},NA
+3YGYP1365AD83UBIZ49KE7CJVJONRA,NA,NA,MHB,{},NA
+3VO4XFFP2EQJO84V6I3VDKGOZI17Q2,NA,NA,MHB,{},NA
+307L9TDWK7WGKSQGOE8OW993P33N3X,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A1E20NMMEOXM0T
+3VO4XFFP2EQJO84V6I3VDKGOZI17Q2,NA,NA,Happy,{},NA
+3DW3BNF1HQMFTU5V2MPBX7BRRUDV8Y,NA,NA,Happy,{},NA
+33P2GD6NSWWU6UCC6M5A8BT9ECFHKQ,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""INTELIGENT PERFORMANCE  FOR THIS GAME.""}",/plaiground:join-task-with-agent 51ed24d9-c82f-4184-a8d9-1c439f593b5c:2e05e2b6-16ff-4cdb-819d-db23ce17079c:dbfebd47-63e8-44dc-8d3f-9ad403170057:b8708e5f-daf0-4e3e-9337-38f85cd71240:1677172093809
+34ZTTGSNK6SGHXA7JRP74X5IDQMHQD,NA,NA,Happy,{},NA
+3DW3BNF1HQMFTU5V2MPBX7BRRUDV8Y,NA,NA,Felipe,{},NA
+3Z8UJEJOD8HVVQMMN4PJE8EJKG2934,fa461878-c05e-471d-a052-830b81574f3f,dbfebd47-63e8-44dc-8d3f-9ad403170057,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent placed blocks next to the red blocks, not on top of. The agent placed the wrong color blocks. The agent places blocks when asked to remove them. ""}",H4sIAAAAAAAA/w2M0Q0AIQjFJnoJKAi6DQLuP8LdZ5O2yl1DaiN9PAi7IPxHTpn76Z5X80Se0aQ97gKv93tZF867UHfMbDaynafu61tiWLMdIpXwmg87Smj+EqmdF7LYzZH/EWJcCNIBn3Sd1eTNdzZL/EmimCaE9CG4BpjeDeumGH6SLdsHg1YbpFcgVBO9d+fKddXnB5UeBRDgAAAA
+3VEI3XUC00186FNVFJMCIWHEVVIPRV,NA,NA,Happy,{},NA
+3YGYP1365AD83UBIZ49KE7CJVJONRA,NA,NA,Felipe,{},NA
+35JDMRECDDDDKYPRQUCPPG43FIYEG2,d31545c6-e36a-4208-a757-81726bceb797,dbfebd47-63e8-44dc-8d3f-9ad403170057,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""the agent this time was not able to do anything but with each command it did jump around a bit ""}",H4sIAAAAAAAA/w2MyQ0AIQzEKoqUCxK2m1z0X8LytMbjRdOsfaCcLyi5QvhDKpVz15Fc9UV9PLiGcwPt+7zqBKfT0MlSQ4Z26uu8k60GW8ZBtQu85cKJVpQn4bKvhZau2jCyA5TRIWzZyxnvrEk79h3SeJeCJhRQXBeCmoHwZtgMBvuXbujzpo6LoCMDR8RA/PqqNmLFH3wFuy7gAAAA
+3Z8UJEJOD8HVVQMMN4PJE8EJKG2934,76a41abd-473d-4766-ac37-713b40862ec8,dbfebd47-63e8-44dc-8d3f-9ad403170057,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was afk for two rounds then placed one purple block in the wrong location on the third round. ""}",H4sIAAAAAAAA/xWM2Q1EMQgDK0LiSiCvG670X8JmfyyNPPaiadY+UM4XlFwh/CGVyrnrSK76oj4eXMO5gfZ9XnWC02noZKkhQzv1dd7JVoMt46DaBd5y4UQrypNw2Wc7lCIb1OQfe0OUGBhJKvrmKf8OabxJQRMKKK4LQc1AeDNsBoP9Szf0eVXHRdCRgSPvSfz6qjZixR8QY/G34AAAAA==
+3ICOHX7EOLFG9UE6CSNM4OHN81UE0K,NA,NA,Felipe,{},NA
+371Q3BEXEQDELYPEHHKJZ4OORW8SZ7,NA,NA,Happy,{},NA
+34ZTTGSNK6SGHXA7JRP74X5IDQMHQD,NA,NA,Felipe,{},NA
+33TGB4G0MYLQV32E5Z1OCO4ZLHLTX1,NA,NA,Felipe,{},NA
+3BVS8WK9R9ZT9MJ26RA29KBYRZMBI2,NA,NA,MHB,{},NA
+33P2GD6NSWWU6UCC6M5A8BT9ECFHKQ,NA,NA,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""GOOD ACTIVITY FOR THIS PERFORMANCE.""}",/plaiground:join-task-with-agent 51ed24d9-c82f-4184-a8d9-1c439f593b5c:2e05e2b6-16ff-4cdb-819d-db23ce17079c:dbfebd47-63e8-44dc-8d3f-9ad403170057:c17ce821-06e7-4e6a-a55c-e99ec6c6b583:1677172093809
+371Q3BEXEQDELYPEHHKJZ4OORW8SZ7,NA,NA,Felipe,{},NA
+3NZ1E5QA785HXYONZ7R8KB7TMCSB52,NA,NA,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was AFK for all rounds and followed no commands. ""}",H4sIAAAAAAAA/w2O2w1AIQjFJjoJKCi4jfLYf4R7P5u0SZUrh6QjbDSETXDtRw6Z3urzaZwbZxRpjbfAq38v8sHYE/nGjOJN2+Pk63opG2uWQSQDlrPhN4XmL5Huk7YXiRbocULUN2zsxJ611a1N7zjOcv8kkEwTQtq4nANM/e6uojvsUFxynQvm60Em/e8vLspCUntQd36m+CiE4AAAAA==
+3BVS8WK9R9ZT9MJ26RA29KBYRZMBI2,NA,NA,Felipe,{},NA
+3VEI3XUC00186FNVFJMCIWHEVVIPRV,NA,NA,MHB,{},NA
+35JDMRECDDDDKYPRQUCPPG43FIYEG2,997ec2e6-9800-46bc-ae51-df278df06966,dbfebd47-63e8-44dc-8d3f-9ad403170057,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""Agent 1 was unavailable after waiting used 2. The agent this time built a lot and almost in the correct spot with the correct colors but they were not able to break anything at all to fix mistakes.""}",H4sIAAAAAAAA/w2MyQ0AMQjEKkLiSoDtJuHov4TN0xqPF3WxVkA6Dyi5wvGHlCoxK+Su/E5+3Lia7wba87ysC05RUJclmwwt8qs7fUsNtrSDaiV4yUCcUpQn4bIvwjq5N4Qjgu6bcHoR1LB5De7Y+wvS8y4JRSiguAYOFQPh3GPdeNi/64beb6ozr9TSECIG4uMry4gVfwPeuMHgAAAA
+3NZ1E5QA785HXYONZ7R8KB7TMCSB52,NA,NA,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed the wrong color blocks. The agent kept removing blocks when not asked to. The agent kept placing/removing blocks over and over. The agent placed blocks randomly. The agent was able to get some purple blocks in the correct location. ""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkICQhLYbsLVfwnLcySP5U2VLGkQyg1CKvB0JoUs623Ld3wvPi7cxX6ATg8X6aBkCem8oujitfjSuzzlwlmlIJIBmqvBXgqugXDfb2XcipHESRrIaUxvSCF09EIr/ozkzSUgCRcI7oZHyUDY/m4VPtaP8fTKySbRMdFBMCKcpglRO7u5fmEsQVzgAAAA
+33TGB4G0MYLQV32E5Z1OCO4ZLHLTX1,NA,NA,Happy,{},NA
+307L9TDWK7WGKSQGOE8OW993P33N3X,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""NO""}",A1E20NMMEOXM0T
+3ICOHX7EOLFG9UE6CSNM4OHN81UE0K,NA,NA,Happy,{},NA
+38XPGNCKI24EATITQJZYGVVMP8T4VC,NA,NA,Happy,{},NA
+375VSR8FW5D2KJP12SKE9UJS5WMZRR,NA,NA,Happy,{},NA
+3YO4AH2FQMO56X4BLJIMY561R150QZ,NA,NA,MHB,{},NA
+3B9XR6P1XNZP4X38O9V2LLQY4DRJB0,NA,NA,Happy,{},NA
+368IUKXGBECFKWPBNVJE71QIZ96P61,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""NO""}",A1E20NMMEOXM0T
+3XJOUITW93V6M612JL6WIG86OF1QT6,NA,NA,MHB,{},NA
+3CKVGCS3QP9HJDJODN7RT5L29RO0SQ,f617e110-efdc-4d42-9b3a-d3c7d8a37ab7,fc1f0e93-87c5-435a-8949-ec6fe9cf029d,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent build a lot but not in the correct areas. It switched colors every build and also could not break anything""}",H4sIAAAAAAAA/w2OyQ3AMAjAJkLiSgLZhnDsP0L7syU/vKiLtRzSeEDJFMJ+pVTxWS5v5Y283Lia3wba83dZD4y8oB5LNh08nneSBtsF7OQClRVgrg6de9pzkL3ubDpNhNBTCVrK4E8CSvKUhZx45zppKEpCEQooroGgYiCcF6cbg+0y/8xoIPHv6N4N0STQbb3XOlt6PsNz5mfgAAAA
+3YO4AH2FQMO56X4BLJIMY561R150QZ,NA,NA,Felipe,{},NA
+3ZURAPD29HR8MXZK3MBS0BLXPUFF16,164dbd08-f5ca-4db3-b543-2722afd12662,fc1f0e93-87c5-435a-8949-ec6fe9cf029d,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent didn't place blocks at the correct grid location. The agent placed the incorrect color blocks. The agent removed blocks I never asked them to. ""}",H4sIAAAAAAAA/xWO1wlEQQzEKjI4bfB249h/CffubwRCzKIu1jLIywNKV8Hvh5QqNsskVj7Px42rOTbQns/LCrhkBRUs2XTwWL5JGmwTuCcXqCyHa2rQuactB9nq0daKwguz0uHbArFUgA+zTxHvzc9IXVESilBAcQ04FQPhhJ9udL7PhK2nB+b/RPdscOQAXxJfoNwif1bZ997gAAAA
+3HKIF5DF771WP2YAIJW3X23SOL7G9J,NA,NA,Happy,{},NA
+3R15W654WMXI3TTXAC45WPYPU2TLQC,NA,NA,MHB,{},NA
+3HKIF5DF771WP2YAIJW3X23SOL7G9J,NA,NA,MHB,{},NA
+3R6RZGK0YOGU80WDFQN5WKZTK9RVYN,NA,NA,MHB,{},NA
+30EV7DWJU4Z9TAHCEIFXKSJU3LT6YA,NA,NA,MHB,{},NA
+3CKVGCS3QP9HJDJODN7RT5L29RO0SQ,6bb6609c-9fac-4663-bd5e-f2255c795f3e,fc1f0e93-87c5-435a-8949-ec6fe9cf029d,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""This agent built a lot with the correct color but never in the right spot It had issues with direction and could not figure out where southwest was""}",H4sIAAAAAAAA/w3OuQ0AIQwAwYos+QVMN8ZP/yXchSttMEZdrOWQhweUjkKcPylVfMzlWd7Iy43W/BbQmv/LenDIC+qxZNPG7XknabBd4Ow0ULGA4+rQuaY9B9nrrvfWQk/wiQRdS+CVNQyzWW63kb5OGoqSUIQCijYQVAyE82J3Y/C581sqfsR4OOjxDV6MIPaI8qwYqQ+xdFop4AAAAA==
+375VSR8FW5D2KJP12SKE9UJS5WMZRR,NA,NA,MHB,{},NA
+3BC9H1KCZ3G7NPWI50S1IMI7RHZWY2,NA,NA,Felipe,{},NA
+368IUKXGBECFKWPBNVJE71QIZ96P61,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A1E20NMMEOXM0T
+3L1EFR8WX29QB22F7ZQLFH3GN63F9F,NA,NA,Felipe,{},NA
+3R15W654WMXI3TTXAC45WPYPU2TLQC,NA,NA,Felipe,{},NA
+3ZURAPD29HR8MXZK3MBS0BLXPUFF16,0abc69cf-da73-431d-a9a1-1858356ee95a,fc1f0e93-87c5-435a-8949-ec6fe9cf029d,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed the blocks at the wrong location. The agent ignores the location i ask them to place blocks at. The agent kept building in the middle and ignored my locations i was giving them. ""}",H4sIAAAAAAAA/w3OyQ0AMQgEwYiQOIwNzoblyD+E9W9aqscodfEqhzQeWGQLwl5SLvFRl0/zRl5u1OZvA+15LusDIy+ojyWbDh7PO0mD7QJ2UmGJBpgvh8497TnIXhfjy/0CKo48RAXhQUCmJrq7XeM6rVgoCUX4EOpAUDEQzhenG4PtMr/NaCDx7qy9G6JJoNt6q54tPT/ujCID4AAAAA==
+3R6RZGK0YOGU80WDFQN5WKZTK9RVYN,NA,NA,Felipe,{},NA
+336OE47KJBOQJV1D0P5HBNED92ZVWY,NA,NA,MHB,{},NA
+3I6NF2WGJP0DOFWYFTJMLMYQ2NI5G7,NA,NA,MHB,{},NA
+38XPGNCKI24EATITQJZYGVVMP8T4VC,NA,NA,Felipe,{},NA
+3L1EFR8WX29QB22F7ZQLFH3GN63F9F,NA,NA,MHB,{},NA
+3B9XR6P1XNZP4X38O9V2LLQY4DRJB0,NA,NA,Felipe,{},NA
+39WSF6KUWBP1CB6PEDPXUPD561WOE0,NA,NA,Felipe,{},NA
+3XJOUITW93V6M612JL6WIG86OF1QT6,NA,NA,Happy,{},NA
+39WSF6KUWBP1CB6PEDPXUPD561WOE0,NA,NA,MHB,{},NA
+30EV7DWJU4Z9TAHCEIFXKSJU3LT6YA,NA,NA,Felipe,{},NA
+3BC9H1KCZ3G7NPWI50S1IMI7RHZWY2,NA,NA,MHB,{},NA
+3I6NF2WGJP0DOFWYFTJMLMYQ2NI5G7,NA,NA,Happy,{},NA
+336OE47KJBOQJV1D0P5HBNED92ZVWY,NA,NA,Happy,{},NA
+378G7J1SKU29HKFR5ZG7BJQR9BHEW4,NA,NA,Felipe,{},NA
+3WGZLY9VDQQTZD59B1PHRL5KRLTD8X,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""I was unable to play with this agent as when i loaded into minecraft and getting correct version upon pasting my code all i got was this agent is unable to play with you right now or a messgae like there. Sorry about this issue i would be happy to still do the work if possible.""}",N/A
+3VADEH0UIL1K7UN8U8MH86MAHYCPSW,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""This agent moved a little bit but then no longer moved or listened to any commands. Along with that it would move a bit when it got commands but it did not really build at all.""}",H4sIAAAAAAAA/w2O2w1AIQxCJyLpS691m9ra/Ue4/kE4EAbfEitHLmkYL0OsZzlNvYfrGbkjt1waV84Ez35c1sFiL9QRzcsffZ5bndQlDPKxwOYhrFfD+poOeXm17PJWnjnAdQtm+vIWxl2tYnEHaW5nC3sCxaQwGo3gEjD1ie9eClmbMsiHTiyfB6b0vp+Mt5RWo4W66wd4yKIH4AAAAA==
+3RZS0FBRXTE40DYCXMWHT1ISVWCCPD,NA,NA,Felipe,{},NA
+3OQQD2WO9RAO6RFPRYVWR1DM36YI35,f8a2bd4e-c78a-4e67-9adf-fed4d9910209,390392a4-2712-46b0-805e-87f0b09d9df2,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""Agent did not act on anything I said.""}",H4sIAAAAAAAA/w2O2wkAMQjAJhLU2la7jc/9R7j7DCSQTV0sZZDKA0Iq4PojpSybbSt2Ps/Hjbs5DtCZ38sKULKCCl7ZdPFavmW4jF2ALzHICQT9M9A7GGhlNfxGnaOkIa86SJ8L5jUwXf+HETLaMxIXXAlFuEBwDzgVA+GE32501hfD5yxluKkFwpXgZgGxrm1B5u71ASu9rMHgAAAA
+3RWSQDNYMIQZCCTSALQDPDPRQ4CFFL,NA,NA,Felipe,{},NA
+3BCRDCM0PMYE95SVA3E6BK4J50VK6S,NA,NA,Happy,{},NA
+3Z3R5YC0QCR9VHBT55V26H4SHASTF9,NA,NA,Felipe,{},NA
+33KGGVH253LPMJQ53GHE6IL4T4H1XZ,NA,NA,Felipe,{},NA
+3VMV5CHJ0HJF9H7OGP1KO244IXCGTV,e8a8b71f-215d-4688-80d6-1f4139fba139,390392a4-2712-46b0-805e-87f0b09d9df2,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""This agent did not understand my instructions at all. I did try to give it simple instructions line by line, and it seemed more responsive. However, it built red blocks instead of destroying the ones already on the map.""}",H4sIAAAAAAAA/w2NyQ0AMQgDK0LiygbSTTjSfwnLx5Kl8XhRF2s5pPEDJVO4NpVSxd9yiZXn5uHG1Rwf0PeGywow8oIKlmzauD2POIrzVeBNDPoFgs0MbD8M9PJ6fNquxaYHTKsGMhuoRvyU5jLu5HHSqygJRSiguB5cKgbCAXY3XrYTj79PjGGnjYkr4boHhGxfiszd8gPKzzTS4AAAAA==
+3OND0WXMI5JRKUK2A0U7AGG4UINEHD,55f91876-f66b-448b-89ea-8f1b0047eac6,390392a4-2712-46b0-805e-87f0b09d9df2,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent did not listen to my commands at all. It just did nothing. The first command had it back up and look down, then it refused to do anything else.""}",H4sIAAAAAAAA/w2M2w1AIQjFJjoJLxXcRkH2H+HezyZtB78Sq0C6NIzdcPxHTtPoEXpH7pNbHo0nd4Jn/17WhXMU6orm40UrcmuQhhyDLBbYvAT/M/hquhQV1bLH6GBfEz3nhZn/p3gH3nyJbL2TcwfbMdJEMSmMRuNwCZj6nvUeHfGdwZrrFFZ3wdwUPqwwOVVvSGb3B6Do1MngAAAA
+388FBO7J00XH0VN4DZ1EM35GY6KNYT,NA,NA,MHB,{},NA
+3WGZLY9VDQQTZD59B1PHRL5KRLTD8X,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The Agent did not really respond to any of my commands it only managed to place the orange and red blocks on either side of the                 structure but not in any way i commanded it to. Alongside that it did not ever break anything as i instructed it to either.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKhqJKwfbDYTQfwmbpyVb8uBbYuU4WxrG2xD7IR9T7+Ga43xxPrk0ruQEz37eqcRmL1SKnsuLlp9PndQlDLJYYDMJ+2XYqynJy6vlq6mW3oQpPWBj1pNMkDYH3yaatD5nCyM9KCaF0WgEl4CpM9a9FLK/fi8Vb6I9HLZ9wUsIOpL57Bmt9QMSHbZq4AAAAA==
+3SCKNODZ16KYLBR3QQBE9QLJU5PN72,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+33KGGVH253LPMJQ53GHE6IL4T4H1XZ,NA,NA,Happy,{},NA
+3ZTE0JGGDNWMFDMBIMJ241D2LSACOS,NA,NA,Happy,{},NA
+362E9TQF3QUP03RDMD2GAV2V7BQIG0,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent followed no commands and was afk for the whole game. ""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkLiSgLpJlz9l7D7HNmWZlEXazmk8YCSKTz7J6WKz3KJlffl5cbVHBtoz+9lBRh5QQVLNh08nlccxfkp8CEG3YFgfwZ2BgO9vIbv0l22g0FiP1Bhg8h9QKeP7hzP8OukT1ESilBAcQ08KgbCiXe68bHdsIPWP6o3CNrS4CIHxMZW1v9B8QPvF4t/4AAAAA==
+3RWSQDNYMIQZCCTSALQDPDPRQ4CFFL,NA,NA,MHB,{},NA
+3RZS0FBRXTE40DYCXMWHT1ISVWCCPD,NA,NA,Happy,{},NA
+3BCRDCM0PMYE95SVA3E6BK4J50VK6S,NA,NA,MHB,{},NA
+388FBO7J00XH0VN4DZ1EM35GY6KNYT,NA,NA,Felipe,{},NA
+3SCKNODZ16KYLBR3QQBE9QLJU5PN72,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A3SXZL66TVNQQG
+3N2YPY1GJF2W2VFMFPBBPH7D2XKEVP,3b49bbf9-9aff-43c7-bbbe-2c407a80bc7f,390392a4-2712-46b0-805e-87f0b09d9df2,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent did nothing but move slightly on commands.""}",H4sIAAAAAAAA/xWM0Q1FIQjFJjoJIIq4DSDuP8K777NJ28l9Ra+jtjwob0XsD7l0+Js+ctaJOtI0W3KB1/u8uonNfnFTRjUbmdcZTsMlFGIs0JWE/WXY9ijJr98nZ6R65nN4/E+jDJnZkFKy2JRl7zhrKI3CZRpQmg/BV8D0MqybQvYptuotDFpt0F6BmLPQ7l2rVs49fvg5tHbgAAAA
+362E9TQF3QUP03RDMD2GAV2V7BQIG0,NA,NA,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""The agent followed no commands and was afk for the whole game. ""}",H4sIAAAAAAAA/xWNyQ1EMQjFKnoSELKQbtjSfwnz52jJlid3iZYhjzwoH4WfDzl12Js2Yub1vNI0W2KB1/u8rMBhK1TIyOZN2/IOo2HiCtks0BWE82U4+1GQldWT6/6i7X8codCZA+G0ka1WJR293jVWVxqJYhpQmg/OJWB64bubXM5N3tlHGLR6Q3s5fM5Em3WuXDHP+AFIHTmc4AAAAA==
+3OND0WXMI5JRKUK2A0U7AGG4UINEHD,32285d99-5d3b-4660-b412-9daeee8dfca1,390392a4-2712-46b0-805e-87f0b09d9df2,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was slightly more responsive but still did not do what I wanted it to do. When I asked it to destroy and replace blocks, it built blocks instead. This was more detrimental than doing nothing.""}",H4sIAAAAAAAA/w3OyQ0AMQgDwIqQuLKBdAMB+i9h87Q8lryoi7UcrvGAkimEvUhXxWe55Lon7uHG1Zwf0DfP3Uow8oJKltu0cfs94ijOocCbGPRLBHszsD2Y6OU1fITZVrnDKsmHPoTUx72iu63mBh0nDUW5UIQCimsgqBgIJ2N3Y7CdtI3Wr6oYBG1pcJENYmPr1vug+AOfbCHI4AAAAA==
+3N2YPY1GJF2W2VFMFPBBPH7D2XKEVP,63b6411f-8ceb-4896-9602-480d625d04f3,390392a4-2712-46b0-805e-87f0b09d9df2,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""Agent did not do anything but move slightly when I gave commands.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkLiSgLbTbj6L2HztMYjeVEXazmk8YCSKVx7SKnis1xi5Xfz48bVHBtoz/OyAoy8oIIlmw4ez08cxfkq8CEG3YFg7wZ2BgO9vIa/LbGVaMCyA9R8g298umFtXoU68jnpVZSEIhRQXAOXioFw4p5uvGxf2EHrN9UdBG1pcJEDYmMr6zUo/uK8MbbgAAAA
+3Z3R5YC0QCR9VHBT55V26H4SHASTF9,NA,NA,MHB,{},NA
+39O0SQZVKWBJ09JVJXSVIAQTV1CR7Q,NA,NA,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A3M04KCSI0ECGL
+3VADEH0UIL1K7UN8U8MH86MAHYCPSW,NA,NA,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""This agent built a handful of blocks of the correct colors but they were not in the right place. Along with that it was never really able to break anything. It moved once at my first command but it was not able to move any after that or at least not able to break or build anymore.""}",H4sIAAAAAAAA/w2O2w1AIQxCJyLpy2rvNmrb/Ue4/kE4BAZXimXgLmkYL8Nez/I1jR6hZ9xv30+KRslxsPfjbh4sjkQe0Vs8acb9NEhDtkEmC8wPYb0a1mw6FBnZ8l23oW8Th86BpSei3DHGndnURzu/YNtGepFMCqPR2JwCfvmeVbRlfSJPCy3ofnfMvbCLFVWrfIzpWv0Dw1V5pOAAAAA=
+39O0SQZVKWBJ09JVJXSVIAQTV1CR7Q,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A3M04KCSI0ECGL
+3ZTE0JGGDNWMFDMBIMJ241D2LSACOS,NA,NA,MHB,{},NA
+3OQQD2WO9RAO6RFPRYVWR1DM36YI35,03240c80-68fa-4566-ad10-1339e739871c,390392a4-2712-46b0-805e-87f0b09d9df2,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""Agent got stuck in a loop randomly placing and removing blocks. Did not follow directions.""}",H4sIAAAAAAAA/w2OyQ0AIQwDK7KUC0i2G0hI/yUsT8seawbfEqtAujSM3bD9RU7T6BF6Rn47P7k0rpwJnv12WQfOUagjmpcXrchPgzRkG2SxwOYh+MPgq+lQVFTLRypG6YTpvWFjTuxiAqvGXRq+OL9g20aaeI3CaDQ2l4Cpz1730hb/hGZrPW025+c+CcHvqU6d9pij5f64yIMU4AAAAA==
+378G7J1SKU29HKFR5ZG7BJQR9BHEW4,NA,NA,MHB,{},NA
+3VMV5CHJ0HJF9H7OGP1KO244IXCGTV,b06dec98-079c-4d7c-9f78-1223353d3ebd,390392a4-2712-46b0-805e-87f0b09d9df2,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""The agent did not understand my commands at all. Even when I tried simplifying the instructions and told it to just walk a number of spaces, it just jumped up and ignored my instructions.""}",H4sIAAAAAAAA/xXL2w1EIQhF0YpOwksFu1HA/kuYO5872Wtwl1gF0uXB2A3Hv+Q0jTdC78h9ckvTaLkTPN/3ZV04R6GuaDYvWpFbgzTkGGSxwOYl+Mfg69GlqKgn+9KsznD8CaxWIt5ysIjq0NK+tYPtGGmimBRG4+FwCZjePaubjvhOXtkuDJq9YD0PzhiJjuicOe9w/QFWiYXd4AAAAA==
+3BAWBGQGZU3BTG0CSHX5J7FWGA37VJ,NA,NA,Felipe,{},NA
+3G3AJKPCYUWVENDYVUMINUZG7PJY43,95cef7cc-bbab-4980-81df-b8448cf1e632,8cf434ca-5046-4493-8905-854fc41a7180,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent removed and placed blocks without being asked to. The agent kept placing blocks in random locations. ""}",H4sIAAAAAAAA/w3O2wkAMQhE0YoENZrVdBNf/Zew+RwYLkepi6Uc0nhAyASuvUkpy0d9hea5ebhRm2MD7Xm/rAAjL6jglU0ffp7HcmRJXlCUDSK+wBwVTGVS6H5keFyz58uEiBsgbvhKNRAm8gLUe/Fxkiu4EopwgaAOXCoGwon7deNlO4x7Vj02idGzbwQnwmeqGPOtw/0DKIQaoeAAAAA=
+3R5LWXWHS9CMQYG8LZ2HD5PAVLGXGV,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A2E3G70OBH0W01
+39XCQ6V3L78BRM7S3GA09VL18BL56F,NA,NA,MHB,{},NA
+3ZUE82NE1J5QXXJ527K7FL853Z4F87,NA,NA,MHB,{},NA
+3OZ4VAIBF6J4DB1ETQM2MXK57A2VJN,NA,NA,Happy,{},NA
+3R5LWXWHS9CMQYG8LZ2HD5PAVLGXGV,NA,NA,Happy,"{""was_chosen_best"": false, ""agent_performance"": ""NO""}",A2E3G70OBH0W01
+3I6NF2WGJP0DOFWYFTJMLMYQ2O55GW,NA,NA,Felipe,{},NA
+3ZUE82NE1J5QXXJ527K7FL853Z4F87,NA,NA,Happy,{},NA
+3BAWBGQGZU3BTG0CSHX5J7FWGA37VJ,NA,NA,Happy,{},NA
+38F60IALBPLIYDW32NCH3AHOBA20TF,NA,NA,Happy,{},NA
+39XCQ6V3L78BRM7S3GA09VL18BL56F,NA,NA,Happy,{},NA
+3WGCNLZJLOCBODLOCGG2CBICDHFD19,02972517-0df2-45e8-8df0-2f3a7f0bd1d4,8cf434ca-5046-4493-8905-854fc41a7180,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was extremely close to the goal building blocks near the correct spots but not being able to break the misplacements.""}",H4sIAAAAAAAA/w2OyQ3AIAzAJoqUEwLbhBz7j9D+bMkPG3Wx1oF0HlByhfBfKVXO2JFneSMvN1rzW0Br/i7rgdMpqMeSTRv3yes5KpoBhrpA9Qj4QQM3nVSKTY4X+Ww22oA1DGrt4DUIPBJ78BWV3kMaipJQhAKKNhBUDITzYndjsF/mnxkdJP4dXashmgS6vZfZXtLzAe2Bo9LgAAAA
+38F60IALBPLIYDW32NCH3AHOBA20TF,NA,NA,MHB,{},NA
+3WGCNLZJLOCBODLOCGG2CBICDHFD19,0b38907a-3b91-4237-b246-ef407e0cf07c,8cf434ca-5046-4493-8905-854fc41a7180,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""agent 1 was unavailable for the duration. I used agent 2. This time the agent placed but in completely wrong spots and still can not recognize commands to break any blocks.t""}",H4sIAAAAAAAA/w2OyQ0AIQzEKhopFxC2mxCS/ktYfmPLjxlcV+xupEvD2A3hDzlNd4+tZ+QX+UnRKDkTPPt1eQ+c98U9olm8aO38PNvUMjDIJsy2wjcN+LBO41js9NHRJ1dAz2aY6MKRl1cbraJsWvlttjDSxGVSGI1G8BUw9YlVRSH+ibwt5NB4d2zOQhQrqrzmGGtq9Q8pwqp74AAAAA==
+3I6NF2WGJP0DOFWYFTJMLMYQ2O55GW,NA,NA,MHB,{},NA
+3PN6H8C9SDU7I1YO8Z9VNCBFHG5DAR,NA,NA,Felipe,{},NA
+3WJGKMRWWRDVBGVMSD5MT713HISDCT,NA,NA,Happy,{},NA
+3HFWPF5ALIND05ILWAPAV3J9C403SI,NA,NA,Felipe,{},NA
+3WJGKMRWWRDVBGVMSD5MT713HISDCT,NA,NA,MHB,{},NA
+3WRKFXQBPKBPMUCDGJOMHV9ZCCFYIN,NA,NA,MHB,{},NA
+3PN6H8C9SDU7I1YO8Z9VNCBFHG5DAR,NA,NA,Happy,{},NA
+3OZ4VAIBF6J4DB1ETQM2MXK57A2VJN,NA,NA,Felipe,{},NA
+3HFWPF5ALIND05ILWAPAV3J9C403SI,NA,NA,Happy,{},NA
+37G6BXQPMZP4XNJ5TQH1JU85L4BQEB,NA,NA,Happy,{},NA
+37G6BXQPMZP4XNJ5TQH1JU85L4BQEB,NA,NA,Felipe,{},NA
+3WRKFXQBPKBPMUCDGJOMHV9ZCCFYIN,NA,NA,Happy,{},NA
+3G3AJKPCYUWVENDYVUMINUZG7PJY43,0844b16f-f9b9-441a-b1fb-0045dd77f2b7,8cf434ca-5046-4493-8905-854fc41a7180,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was afk for all rounds and made zero attempt to follow any prompts or commands. ""}",H4sIAAAAAAAA/w2MyQ0EMQjAKkKCAAukG47Qfwk7T8uWld4cmYD2syDkAukfUgvHanBp3+x7Huo79QP67df1FDjFwNThfmRo0dd7haUTFOUHIsHggQqusi2URo4XXaS+C2xUfBElFG0BouiM2Z6yGyQpyA1DyCCoC0lzgHAr7T3M47fc0N+nJhdBHj8IZgP2de0xOoJ/iVMzvOAAAAA=
+3E22YV8GHAANRHV3MC5V9CC4U0QNP6,NA,NA,Felipe,{},NA
+3XU9MCX6WXGCE8MPDLB0MJ9LKO8R2Y,NA,NA,MHB,{},NA
+3AJA9FLWTL2JM3VIBTWYSA2J6WJFIR,NA,NA,Happy,{},NA
+375VSR8FW5D2KJP12SKE9UJS5V3RZY,NA,NA,Happy,{},NA
+3I6NF2WGJP0DOFWYFTJMLMYQ2PV5GO,e132e328-fed8-4d2a-83ee-2e976b62a3a5,606fdc52-d268-4a8a-90bf-e4e39c31028e,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent built a lot and was even able to break things but they were not able to choose colors right or destroy the right blocks.""}",H4sIAAAAAAAA/w3O2QlAMQhE0YoEt+RpujEu/Zfw8jlwYc6iLtZySOMBJVMIe5NSxWe53JUn8nDjar4baM/rsi4YeUFdlmz68PM8G/dULobibaBhAY53oLXFUwjZ+jQJt7DBdL2oOMCkG7j923dzSKzjpKEoCUUooLgGgoqBcG583Rhsh9+d1GOTGj37RnAifKa6Y77XcP9UD3iR4AAAAA==
+3CIS7GGG7ENWPGQMAZ16TV5UORLEUC,NA,NA,Felipe,{},NA
+3TFJJUELTQT886X6VOL5XOAZKNGC2O,8a211baa-6ee5-48bd-a864-22c6cb38211e,606fdc52-d268-4a8a-90bf-e4e39c31028e,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""Agent didn't build blocks in correct location.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkICQlhIN1zpv4TNc+SR7E3TLO1QxheETCDsTSpZfrev3HWiDg/u4VQgve9XnWDkDZ28aujDz+so6u3aDM1qIGEBjnlhZJbXImSbY8FEGQE6s0Es+xlVgLm0ctmjc5wkBFdBEy4Q3BeCmoHwZnwzGGyHn271yyYxeu2K4ET4mjqvue7L8wNawlWW4AAAAA==
+336OE47KJBOQJV1D0P5HBNED91YVWV,NA,NA,MHB,{},NA
+3909MD9T38L76YTWFA677V4RE3XFE3,NA,NA,Happy,{},NA
+3JU8CV4BSUG592VFNR58O1C9KB5POZ,NA,NA,MHB,{},NA
+3XU9MCX6WXGCE8MPDLB0MJ9LKO8R2Y,NA,NA,Felipe,{},NA
+3D17ECOUPNZD6LJRJRAQZ2W0M2813D,NA,NA,MHB,"{{""was_chosen_best"": false, ""agent_performance"": ""Thsi agent was not really able to do any of my commands. It  moved at the start whenever i first started but then it was not able to build anything after its initial move""}",H4sIAAAAAAAA/w3OyQ0EMQgAwYiQOD3gbDBH/iHsPluqRxtNs3ZAOS8ouUL6P6lUYi3kWd2sy4M2/A7Q2b+rfuAUDf1YaujDL+oePNtlDM3HQdMTAt/C6EiUELLPRUlBNgEZ/6ODA25sEAffVzqeqjdIU1EKmlBA0RaSmoFwX34zmOwXKzFMDnicByr4f3+VMF7atoy7/QP18xSI4AAAAA==
+3N5YJ55YYP7G4DP1XTNYJHN9VFNANC,NA,NA,Happy,{},NA
+3909MD9T38L76YTWFA677V4RE3XFE3,NA,NA,Felipe,{},NA
+3W1K7D6QTKLF4C8C6VYO9FEONG5ZBC,NA,NA,Happy,{},NA
+37ZQELHER92H6EYQUWD3S8I9PWAMN6,NA,NA,MHB,{},NA
+3CIS7GGG7ENWPGQMAZ16TV5UOQEEU3,NA,NA,Happy,{},NA
+3JU8CV4BSUG592VFNR58O1C9KB5POZ,NA,NA,Happy,{},NA
+3I6NF2WGJP0DOFWYFTJMLMYQ2PV5GO,0b72db2e-542c-4315-9d1e-26811f38aa1c,606fdc52-d268-4a8a-90bf-e4e39c31028e,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent placed a lot of blocks but they never responded well to break commands. Even when commanded to break things they just built more.""}",H4sIAAAAAAAA/w3L2w0AIQgF0YpuwksFu1HA/kvY/ZxkzuAusQqky4OxG47/yWkab4TekfvklqbRcid4vv/LunCOQl3RbF60Ivek+SqHoGQ67PhB0H1oa41UJvHedJf8qjFMEqY8EMWNnzA/9XM4d7AdI00Uk8JoPBwuAdO7Z3XTEd/3yZzqgpVeMKnEibi4umIYiXTrB1DnoUDgAAAA
+375VSR8FW5D2KJP12SKE9UJS5V3RZY,NA,NA,Felipe,{},NA
+3LEG2HW4VORFBIHGMQB65UV2H0TF2N,NA,NA,Happy,{},NA
+3D17ECOUPNZD6LJRJRAQZ2W0M2813D,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""This agent had some decent qualities. It was able to build things but did not actually build to my correct orders. It could also not break any prexisting blocks only blocks it had placed.""}",H4sIAAAAAAAA/w2N2w0AIQgEK9oEEBWvG+TRfwln5muTyc7kStE8CJOGsinc3uTQcXqecWd8Hp8UzZK7wKufF3lhfBJ5ZUTxpn3iW7Q6YwpSlkHdHIduo7TGicEkVp/plRC66PFONIRhfQpqD26rM/k7rK40Ask0oDQbzilg6uu7ilzs2+GvtxTbb0ArC/cVsFvW4OpR6T+NadHD4AAAAA==
+3AJA9FLWTL2JM3VIBTWYSA2J6WJFIR,NA,NA,Felipe,{},NA
+3W1K7D6QTKLF4C8C6VYO9FEONG5ZBC,NA,NA,MHB,{},NA
+3TFJJUELTQT886X6VOL5XOAZKNGC2O,fcac5e9c-7ef9-4de4-826d-dcd5fba5526a,180f0058-287b-40e7-be7d-d3fa7b5faa65,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent didn't build blocks in correct location.""}",H4sIAAAAAAAA/w3O2wkAMQhE0YoENTHqdmN89F/C5nPgMFyhLt7lkMYDm2xD2JuUe/mIryv5RX7cKM33AJ15LuuCkRfU5ZVNiur5keEgigGbXtjYCrf1oTWhVybiyDcZKe0J2uOwqzcYn4eyZG6I8InPacfGlVCE6z3JQFAxED6i3Rhs37yWihcxHu/JXMGLEZZcorQTs+oHRy4OU+AAAAA=
+3E22YV8GHAANRHV3MC5V9CC4U0QNP6,NA,NA,MHB,{},NA
+37ZQELHER92H6EYQUWD3S8I9PWAMN6,NA,NA,Happy,{},NA
+336OE47KJBOQJV1D0P5HBNED91YVWV,NA,NA,Felipe,{},NA
+3CIS7GGG7ENWPGQMAZ16TV5UORLEUC,NA,NA,MHB,{},NA
+3LEG2HW4VORFBIHGMQB65UV2H0TF2N,NA,NA,Felipe,{},NA
+3N5YJ55YYP7G4DP1XTNYJHN9VFNANC,NA,NA,Felipe,{},NA
+3CIS7GGG7ENWPGQMAZ16TV5UOQEEU3,NA,NA,MHB,{},NA
+3QHITW7OZXD17A2TDLFFNBIE0Q8AQX,c6c20372-e704-4a53-8322-8b414467233d,180f0058-287b-40e7-be7d-d3fa7b5faa65,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent was unresponsive to my instructions. It just walked backwards for my first instruction. Any further instruction was ignored by the agent.""}",H4sIAAAAAAAA/w2O2wkAMQgEKxJ8a64bY0z/JVz+ZmFYxmgO61nQyReUUqHyTWqVdW3Jtv6qPx604e1Afp/XZ0PSOnA2Sw8FxuqPEi+iJXDGBsUJ2BNPklux7Va5fe3NKMEwgQpaJpDCDLmVVD1Y5HyLtBSl4RDKe7ILRYeB8O6KGSzOj/kxY4LUy1H3gRoSmMlxs3CZ+wNxPlUt4AAAAA==
+39O0SQZVKWBJ09JVJXSVIAQTV4Q7RQ,3cae5863-89c5-40f3-ad36-d40c87e2873f,180f0058-287b-40e7-be7d-d3fa7b5faa65,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""On two rounds the agent ignored both commands, on the 3rd round the agent placed a block randomly. ""}",H4sIAAAAAAAA/w3NyQ0AMQgEwYiQOIwNmw3myD+E9XOkGrVSF69ySOOBRbYg7E3KJT7qcjW/yI8btfluoD3PZV0w8oK6LNl08Hh+ZDiIasB2LizsA7fPQzJxrk7E1k8yWm0LmKc+NAJRsqEWpp1+V5nPacVCSShCeUgHgoqBcG6cbgy2L+lkGxPgfqXVOyBUE9q9c+e+avIDud9gQ+AAAAA=
+39O0SQZVKWBJ09JVJXSVIAQTV4Q7RQ,61cbacec-4e1b-4caa-8466-373fcb3f0955,180f0058-287b-40e7-be7d-d3fa7b5faa65,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The agent didnt place blocks where told to. The agent placed blocks randomly, but they were the correct color. The agent was afk for one round. ""}",H4sIAAAAAAAA/w3MUQ5AMQRE0RVJKErfblD2v4TXz8mcXKW+S+6B8jUg5ALhb1IJn9HDqfVFfatRe+UG2vNc3QSnc+Hm4moytFMfOQ6iOiy3BME2yLaHeMJSJ2Lrt6kyqguk6aGKAJe9gY2nkgeP6ndIQpALLiG/kg4E3QWEk2HdGMu/dEPvd90YfDluOMwG7ONa12gJ/i+1sXbgAAAA
+3QHITW7OZXD17A2TDLFFNBIE0Q8AQX,eb334829-ca4b-491f-8f73-08568399da3c,180f0058-287b-40e7-be7d-d3fa7b5faa65,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""This agent actually does actions. However, it cannot understand my instructions at all and just did random things for the first two turns. On the final turn, it didn't understand my instruction at all and just move a little.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkLiSgLbDQTov4TNcyRr7EVdrOVwjQeUTCHsTboqPssl1/3ifty4mnMD7XncrQQjL6hkuU0Hj9+PDAdxGbCdBMU+kH0eJBMn10Ts9XWKqPEzhj7IacDmCKCtbeJeIfdz0lCUC0Uo72kNBBUD4WScbgy2j3GP1MsmNXrtG8GJ8DVVjvlew/0DIQb3UuAAAAA=
+32L724R86UOVDGKCPWS344GN81WIPL,NA,NA,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""na""}",w3M2QkAIQwA0naYoCOddoNzFH
+3UOMW19E7MA073GTD7N3VVDB4WBC5R,NA,NA,MHB,{},NA
+31S7M7DAHPUVV9LPRGY01U9CE9DLTB,NA,NA,Felipe,{},NA
+3MD8CKRQ08RCK4KXK6HSL0V2MZ5JRO,NA,NA,Happy,{},NA
+3LAZVA75ORV9HVU9LTUWSO4G91K2OW,NA,NA,Happy,{},NA
+32L724R86UOVDGKCPWS344GN81WIPL,NA,NA,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""na""}",yWsnwOPMepirQ3pPKDkCuEvKVX22JZreSIPN1
+38VTL6WC5JHDA6HY9Z5SSM5U7JL5YI,60188595-71d4-4823-a9ae-17d66498ede0,180f0058-287b-40e7-be7d-d3fa7b5faa65,MHB,"{""was_chosen_best"": true, ""agent_performance"": ""Once again i was unable to get agent 1 to work i had to use agent 2 twice. This time agent 2 actually would build though but only once before it stopped listening completely.  It built outside of where i told it to and it was off but it still built.""}",H4sIAAAAAAAA/w2M2w0AIQjAJiLhKeg2KLD/CHefTZsadbHWhhc8oBQKGT/SU9ljW669k+9wozXfBbTm715dCNoFdVlek6PvdyhwEC2Awy8otsNt/yOZ9GuTuewspAjbBk6loMECubOBvNbSHV2NZ5OmojwoQvlPNpBUDIRz07sxOc4Nx+hfVQ6CtjRsEQeJCXvlxIofnVRbZOAAAAA=
+38F60IALBPLIYDW32NCH3AHOB83T05,NA,NA,Happy,{},NA
+3ACRLU861WIHTHHGA8KBO5D6Z4CBEM,558977cc-c4cc-40ae-8132-7d8d38a718db,180f0058-287b-40e7-be7d-d3fa7b5faa65,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""The bot was unable to do anything occasionally when it got a command it would jump once before swapping the turn back""}",H4sIAAAAAAAA/w3MyQkAMQwDwIoMvrJ20o2v9F/C5iMQjLRomrU3lPMFJVcIf5VKZd+1JVedqMODazg/oO8+V53gtBs6WWrI0HYdcryIy4HdEhTHIMcekhuW60Z866zl26wKSl8oxrwnYbD2Fg8j7zybNBSloAnloXUhqBkIb4bNYLCfvPx94m9a3qDcBbF3Qortpcg8Iz/b6FLh4AAAAA==
+3T5ZXGO9ENS28IA1PDVE449N98NZQP,NA,NA,Felipe,{},NA
+36KM3FWE40GV0FZWPK9GYEP6MJY709,NA,NA,Happy,{},NA
+3ACRLU861WIHTHHGA8KBO5D6Z4CBEM,7d768189-7e04-469e-97e9-d0e8a8d862bf,180f0058-287b-40e7-be7d-d3fa7b5faa65,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""This agent was able to move around the structure and place blocks but it would always also instantly deleate them. It was not able to figure out height also and kept building to high""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkICQji2mxCg/xI2z5GssTd1sVTAdR4QcoHjb9KVFbNj5b7fuR837uZUIJ3H3UpwioJKXrfJ0OJ+5DiI24HdEgTbINsetOZY7jlH92dl6uQB1iggGg1hHVDY/tSunPMFyRFcF4pwvac9cKgYCCePdeNh/xh1Vr1sEqfXrghBhK+pcjx0D/cPwoJuTeAAAAA=
+36KM3FWE40GV0FZWPK9GYEP6MJY709,NA,NA,Felipe,{},NA
+3UOMW19E7MA073GTD7N3VVDB4WBC5R,NA,NA,Felipe,{},NA
+3T5ZXGO9ENS28IA1PDVE449N98NZQP,NA,NA,MHB,{},NA
+3LAZVA75ORV9HVU9LTUWSO4G91K2OW,NA,NA,MHB,{},NA
+38F60IALBPLIYDW32NCH3AHOBBHT0P,a465d3a7-c4ed-43ef-899f-0b101b99647b,180f0058-287b-40e7-be7d-d3fa7b5faa65,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""The agent responded with some movement at times but they were largely unresponsive.""}",H4sIAAAAAAAA/w2NUQ5AMQTATiRhY9htMO5/hPc+mzStUL/Fz6FsDTAZQ9iPVLx9xHdK3ai7GqVXHqAzv1cvwcgfvFy7mhTV65LhIIrBMk1gbIVs/aU9oSkTceQGH3k7FIr7Ae8eMPcBTEJK98Oa14mDcRc8wv2XZCDoLSCcDO3GWHaLtNoWAZ7/xH0CQqSg3btOnRTbH8tO0lLgAAAA
+38F60IALBPLIYDW32NCH3AHOB83T05,NA,NA,MHB,{},NA
+31S7M7DAHPUVV9LPRGY01U9CE9DLTB,NA,NA,MHB,{},NA
+3DWNFENNFCZ5JYIZ9ULFD7KSUKPJ47,607509bc-5774-4d65-b3a9-b8ff9fceee52,180f0058-287b-40e7-be7d-d3fa7b5faa65,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The agent was able to place blocks but it destroyed a block it shouldnt have also and never replaced it when commanded to.""}",H4sIAAAAAAAA/w3MywkAMQgA0YoENRqTdOO3/xJ2jwOPUepiqQt5eEDoCPj5k1LWHb0rNJ/n40Ztjg2053dZAYduQQWvbDK0m48ODqIe4GMBgm0QbT9a4xY67lvfRlO8kaBmAlJbIZZfiDNzJ7tb+V0SF1wJRbj+kw44FQPhhFs3Op9n6XtqC5j/O+lqCD4NNrwX9awu/wBOn4gw4AAAAA==
+38F60IALBPLIYDW32NCH3AHOBBHT0P,7f4aa59b-d73a-44ac-98c8-2d1de66ce4f0,180f0058-287b-40e7-be7d-d3fa7b5faa65,Happy,"{""was_chosen_best"": true, ""agent_performance"": ""The bot was able to place some blocks of the right color even but never in the right spot and it could not break the misplaced blocks either.""}",H4sIAAAAAAAA/w2OyQ0AMQjEKkKChATYbjj7L2HzHMlj+VDX4jJIXQNMyuD6JiVvm2M7Tn6e32o8veIC3XlcVoCSFVSsnU2CYvmR4iAehaUSwNgC0fKgPS5xxv2eT4bdjwWUbAdmTzDN9ymqvjebBz8jdsadUIT7mc6AUy0gnHDpRl/6zWspfxFjbsBqAlYLYZ8gSr0+u37uv8no4AAAAA==
+3DWNFENNFCZ5JYIZ9ULFD7KSUKPJ47,9782280c-adb8-46dd-a184-dffbcc6aa3af,180f0058-287b-40e7-be7d-d3fa7b5faa65,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""The Agent did not ever listen becides once it actually moved but it was not perfect it only placed one block of the correct color and not in the correct spot""}",H4sIAAAAAAAA/xWO2Q1EMQjEKkICAgm8bjhC/yVs9nMka2yl2yztUMYDQiYQ9iaVLB/1lVpf1McX9XJuoD2Pq04w8oZOXnXp4PH6yHAQ1YDtJAjeA3nPg9bESZ2IrZ8fYzYsiE4D2d0Qf23PZNWOWDGfk4TgKmjC9Z50HtQMhJNx7sVg+7ACXdcG8/10C197VsC1ktZhnOkfuYzZqOAAAAA=
+3MD8CKRQ08RCK4KXK6HSL0V2MZ5JRO,NA,NA,Felipe,{},NA
+33QQ60S6B1MXYQBS2S2R863QUPT0US,NA,NA,MHB,"{""was_chosen_best"": false, ""agent_performance"": ""Agent never acted on any instructions.""}",H4sIAAAAAAAA/w3OyQ0AMQgDwIqQOMIG0g1H6L+EzdPSyLbSbV7tUMYDi2xB2ItUS3zUJbVO1OGLejk/oG+eq04w8oZOlrq0cXsdMhxENWDbCQvvhrz7IZnYqRPx6Ukq19INqtawhBmyVcDJxnkXVsRxWrFQCppQXpMOBDUD4WTsezHYzpPoKh+Yf29O8H3PCrhWq3UYZ/oH73PtcuAAAAA=
+38VTL6WC5JHDA6HY9Z5SSM5U7JL5YI,225f86c0-5194-411b-bfe5-1d52e921a562,180f0058-287b-40e7-be7d-d3fa7b5faa65,Felipe,"{""was_chosen_best"": false, ""agent_performance"": ""Agent 2 was not able to build for me at all no matter how i changed the command it would only move back and forth a bit.""}",H4sIAAAAAAAA/w2NyQ0AMQjEKkLiCAtJNxCg/xI2T2ussVIXr9pwnQcW+YLwh3SX7NEtqffEPdyozfkBffO8WwlOu6CS5TYZ2r6HHAdRHdgtYWEbZNuTZMJSJ+LTw6zj30VQ2usVKSGnFaiUezOFfnw2rVgoF4pQ3pMOBBUD4WRYNwb7STf0flPFIKyWhi1iID6ut4x44Q9n2XJj4AAAAA==
+33QQ60S6B1MXYQBS2S2R863QUPT0US,NA,NA,Felipe,"{""was_chosen_best"": true, ""agent_performance"": ""Agent never acted on instructions, and only moved back slightly.""}",H4sIAAAAAAAA/w3M2QkAMQgA0YoEr0RNN/FI/yXsfg48ZtE0aweU8wMlV7j+J5VKvBWSq86tw4NrODfQfr+rTnCKhk6WGjK0qEOOD3E5sFuC4hjk2I/kXcv17t3rRFC1pUNZBmgyQW7ZEIYjE44L6wTpVZSCJpT/tB5cagbCl9dm8LKffLy3OIOVNyh3wY1ISLFYiswz8gESG8qV4AAAAA==

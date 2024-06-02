@@ -236,6 +236,14 @@ def calc_reward(prev_grid, grid, target_grid, , right_scale=2, wrong_scale=1):
 
 In other words, if a recently placed block strictly increases or decreases the maximal intersection, the reward is positive or negative and is equal to `+/-right_scale`. Otherwise, its absolute value is equal to `wrong_scale` and the sign is positive if a block was removed or negative if added. This reward function is implemented in the [embodied IGLU environment](https://github.com/iglu-contest/gridworld).
 
+## Human evaluation data
+
+This repository also contains the human evaluation data for the top two agents of the IGLU 2022 challenge. This was obtained in collaboration with the [Greenlands](https://github.com/microsoft/greenlands) project. The data is stored in the `datasets/human_evaluation` directory and contains the following files:
+
+- `human_agent_feedback.csv` — Raw feedback/comments from human evaluators about each of the agents.
+- `gamedata.json` — List of events that happened in each game as reported by the Greenlands platform.
+- `taskdata.json` — Definition for each _task_ in the format used by the Greenlands platform. These contain descriptions of the initial blocks in the world as well as the target structure that the agent needs to build.
+
 ## References
 
 The described datasets are collected as a part of [IGLU:Interactive Grounded Language Understanding in a Collaborative Environment](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge), which is described in the following papers:
