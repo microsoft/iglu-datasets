@@ -68,6 +68,7 @@ dataset = MultiturnDataset(dataset_version='v1.0')
 dataset = SingleturnDataset(dataset_version='v1.0') 
 ```
 
+### Multiturn dataset
 On creation, this class will automatically download the dataset from this repository and parse (might take a few minutes) the raw data to store in a format that is fast and convienient to load. 
 There are two ways for accessing the underlying data.
 First, the `.sample()` method can be used. This method simply retrieves one random example from the dataset. The example is 
@@ -301,3 +302,6 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## License
+
