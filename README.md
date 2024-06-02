@@ -87,10 +87,11 @@ print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11,
 # starts executing the instruction.
 ```
 
-The multiturn dataset consists of structures that represent overall collaboration goals. For each structure, we have several collaboration sessions that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
+The multiturn dataset consists of structures that represent overall collaboration goals between an architect and a builder. The architect provides instructions to the builder to complete the target structure. The builder either performs the instruction by placing blocks according to the instruction or issues a question to clarify the instruction if it is unclear.
+For each structure, we have several collaboration sessions, reffered to as games, that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
 
   * `target_grid` - target blocks configuration that needs to be built
-  * `starting_grid` - optional, blocks for the environment to begin the episode with.
+  * `starting_grid` - optional, blocks for the environment to begin the game with.
   * `dialog` - full conversation between the architect and builder, including the most recent instruction
   * `instruction` - last utterance of the architect
 
