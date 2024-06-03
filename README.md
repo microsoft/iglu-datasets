@@ -87,10 +87,11 @@ print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11,
 # starts executing the instruction.
 ```
 
-The multiturn dataset consists of structures that represent overall collaboration goals. For each structure, we have several collaboration sessions that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
+The multiturn dataset consists of structures that represent overall collaboration goals between an architect and a builder. The architect provides instructions to the builder to complete the target structure. The builder either performs the instruction by placing blocks according to the instruction or issues a question to clarify the instruction if it is unclear.
+For each structure, we have several collaboration sessions, reffered to as games, that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
 
   * `target_grid` - target blocks configuration that needs to be built
-  * `starting_grid` - optional, blocks for the environment to begin the episode with.
+  * `starting_grid` - optional, blocks for the environment to begin the game with.
   * `dialog` - full conversation between the architect and builder, including the most recent instruction
   * `instruction` - last utterance of the architect
 
@@ -190,6 +191,10 @@ target_world_states/
 
 Here, `multi_turn_dialogs.csv` and `initial_world_states/` is just the copy of the multiturn dataset under a different name. In `single_turn_instructions.csv` you can find the single turn instructions, and references to game sessions where the block states can be restored. 
 
+### Data Collection Platform
+
+We have released the data collection tool used for collecting these datasets. For more information check out this [repo](https://github.com/iglu-contest/iglu-data-collection-tool/tree/main).
+
 ### Grid prediction score calculation
 
 
@@ -248,14 +253,6 @@ This repository also contains the human evaluation data for the top two agents o
 
 The described datasets are collected as a part of [IGLU:Interactive Grounded Language Understanding in a Collaborative Environment](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge), which is described in the following papers:
 
-```
-@article{mohanty2023transforming,
-  title={Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions},
-  author={Mohanty, Shrestha and Arabzadeh, Negar and Kiseleva, Julia and Zholus, Artem and Teruel, Milagro and Awadallah, Ahmed and Sun, Yuxuan and Srinet, Kavya and Szlam, Arthur},
-  journal={arXiv preprint arXiv:2305.10783},
-  year={2023}
-}
-```
 
 ```
 @article{mohanty2022collecting,
@@ -309,3 +306,7 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## License
+
+See here for the [MIT License](https://github.com/microsoft/iglu-datasets?tab=MIT-1-ov-file#readme).
