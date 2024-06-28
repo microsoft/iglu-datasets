@@ -1,0 +1,1 @@
+{"gameId":19,"stepId":1,"avatarInfo":{"pos":[10.5,68,0],"look":[-0.8,-4.7]},"worldEndingState":{"blocks":[]},"tape":"1 action start_recover_world_state\n3 action finish_recover_world_state\n64 pos_change (0, 85, 8)\n64 set_look (-1.5, -6.28)\n65 pos_change (10.5, 68, 0)\n65 set_look (-0.8, -4.7)\n","clarification_question":"null"}

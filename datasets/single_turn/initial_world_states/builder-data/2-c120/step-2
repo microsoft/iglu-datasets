@@ -1,1 +1,0 @@
-{"gameId":19,"stepId":1,"avatarInfo":{"pos":[0,63,0],"look":[0,0]},"worldEndingState":{"blocks":[]},"tape":"76 action step_forward\n114 action step_right\n191 action step_backward\n222 action step_right\n280 action step_left\n","clarification_question":"null"}
