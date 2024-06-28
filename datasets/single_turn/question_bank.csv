@@ -1,0 +1,836 @@
+qrel,ClarifyingQuestion
+q_149,Which color blocks?
+q_436,After you remove the one green block there are no more green blocks. Which green blocks are you referring to?
+q_111,in any square west of the red blocks?
+q_653,Should I destory east or west puyrple?
+q_170,Where exactly am I placing the blue blocks?
+q_479,What purple blocks? There are none only blue.
+q_321,How do i place in the bottom if the purple are touching the ground?
+q_236,Where on the map do I place the yellow block?
+q_293,Should the two purple blocks I'm setting be placed vertically on top of one another or horizontally and if horizontally which directions should they span?
+q_965,How many blue blocks am I adding to the first just one on the north and one on the east?
+q_712,How many blocks do I remove from the top? Do I remove the block on the far lower right once or twice I can't tell from the instructions?
+q_362,Where is the yellow one? There is no yellow block?
+q_467,There are no yellow or blue blocks. Do you want me to place them first?
+q_925,There aren't any yellow or blue blocks do you need me to place them somewhere first?
+q_288,Which direction do we first face before we remove the blue block?
+q_366,The map appears empty to me. Can you clarify your instructions?
+q_340,Do we build it horizontally or vertically?
+q_673,Is it built on top of the left or right yellow block?
+q_573,The board is empty.
+q_280,How many green blocks do we destroy?
+q_445,Which set of purple blocks east or west?
+q_514,What color blocks do I place on the west and east side?
+q_960,What yellow block?
+q_737,The only vertical violet blocks that are consecutive are on the left side so which ones?
+q_954,There aren't any yellow and blue blocks do you want me to place them first?
+q_776,Diagonally in what direction?A purple one on top of which block?
+q_315,You say left but left in terms of which direction where should i be facing for it to be left as orientation matters
+q_580,Where are the blue blocks?
+q_461,Where on the green blocks should the reds be placed?
+q_773,What green blocks since there are none?
+q_911,The instructions are step by step but direction based so once you do one you have to re orient yourself and then there is too many overall
+q_342,do we place the 3 blocks next to each individual green box?
+q_818,Do I place the orange blocks horizontally or vertical?
+q_576,Should I place the yellow blocks next to the West most blocks or the East most blocks?
+q_114,Where do I place two green ones?
+q_603,Can you please specify which red one is on the left? (direction?)
+q_360,There are five exposed surfaces total for this green block - what's the placement of these?
+q_648,I can only place one block in the center.
+q_775,There are no blue blocks on this board; where to place the green blocks and in what position?
+q_981,Where do the 5 purple blocks placed horizontally to the left of the left block go as there's only space for 4 blocks horizontally?
+q_572,There are no blocks to break. Also where should I start placing green blocks?
+q_679,There are no green blocks. Where do I place the reds?
+q_753,Does the orange row connect to the green column?
+q_569,Where are the green blocks? I do not see any.
+q_598,What blue blocks?
+q_706,There is no blue block on the stucture
+q_204,Which direction is top left?
+q_742,Which green blocks?
+q_785,There is no orange blocks in the structure
+q_937,Break two green blocks facing which direction?
+q_133,Which blue blocks?
+q_604,where are the blue blocks?
+q_758,Which directions should the horizontal row span?
+q_187,Which side of green is not given
+q_984,Does the purple go no the West side of the East side?
+q_336,Where should the green blocks be placed?
+q_382,What do you mean by bottommost purple block of the floating column ? There is now purple block in floating column
+q_228,Which three vertical red blocks?
+q_30,Where is the orange block?
+q_6,Which direction should all these new blocks go?
+q_350,How many blocks do i need to total?
+q_874,Which side I need to make the rectangle is not clear
+q_592,Should the purple blocks be on top of each other?
+q_544,"For the instruction ""Reducing the height by one block at a time."" Do I do this until all of the blocks are gone?"
+q_325,What do you mean by south and right of the red block? What direction do I face?Why does it say a total of 4 blocks should be placed when it only says to place 3?
+q_895,There is no green block in the given structure so where I need to start from
+q_57,Are you referring to the edges of the board?
+q_534,Where is this line of blocks?
+q_588,There are no red blocks directly north so hard to know where to start
+q_137,There are no purple blocks on this board; is it the blue ones that should be removed?
+q_987,Are three green blocks placed on the newest block or the initial east-most green block?
+q_98,Am I standing on the west side and placing on the east side or standing on the east side and placing on the west side?
+q_388,How many blue blocks do I place in each corner?
+q_393,In the center of the board or do you mean between the two purple columns / beneath the red column?
+q_614,I don't know if they mean horizontal from East to West or North to South
+q_724,In which direction should the three horizontal blocks go?
+q_221,Bo starting point for the orange blocks so not sure where the center is
+q_146,Which three purple blocks on the right side?
+q_527,Where in the center should they go?
+q_805,center of what?
+q_75,Where in the center should the three orange blocks be placed?
+q_803,When in the center which direction do we go?
+q_281,BNot sure where center is no starting point given
+q_39,Should the orange blocks be placed and oriented to the east west north or south?
+q_46,Where in the center do they go?
+q_511,I don't know where the center is. The center of the structure or the center of the grid?
+q_553,What two yellow blocks?
+q_418,Where should I place the orange block? What row is referred to here or where should I place one?
+q_341,What yellow blocks?
+q_214,There aren't any blocks to break. Do I just place the blocks then?
+q_916,Where do you want the vertical placement?
+q_190,which yellow blocks?
+q_730,Where are the two yellow lower blocks to break there are only purple and red blocks?
+q_185,Facing North from where?
+q_509,Where do I place the vertical yellow blocks?
+q_931,Where are the two lower yellow blocks there are only green blocks in this structure?
+q_733,Which direction do the subsequent blocks go from the middle?
+q_457,Horizontally on which squares in the center?
+q_820,Center of what and where exactly?
+q_369,Which directions should the row span?
+q_389,In which direction should the line of green blocks be going?
+q_862,Which squares do I build the row of orange blocks?
+q_277,Which direction do the three blocks head go in?
+q_29,Which direction should the line of blocks go from front to end?
+q_82,Where in the center do I place three green blocks horizontally?
+q_681,"Does ""Where south meets east"" mean in the SE corner?"
+q_25,Which direction horizontally should the green blocks be placed as the red structure is in the way?
+q_787,The center is not really defined here should i start in the center of the structure itself in the center of the map and then which level should i start on
+q_476,Which direction should the row be going? At what level of the structure should the row be placed?
+q_968,In the center of what?
+q_480,Which direction should I be facing so I know which way the two blocks next to the center one should go?
+q_599,There is no center for this structure as there is only two blocks so should i start building on the north or the south for the green blocks
+q_716,What block do I destroy first?
+q_398,Which direction should I place the green blocks and should it interact with the existing structure?
+q_378,Where is the center place?
+q_566,Which directions should the horizontal row of blocks span?
+q_980,Which Center is not specified
+q_788,How far East do I go to start building?
+q_928,What platform?
+q_38,On which side of the structure should I place the feet?
+q_618,What color should the four blocks be?
+q_151,Break a red block on top of where?
+q_660,Break a red block where?
+q_813,Put three green ones where?
+q_516,There was no red block but instead a purple block
+q_375,There is no red blocks to break from the start should i instead start by breaking a purple block and then placing the three green ones.
+q_789,What do they mean by cherry and stem why not just say red and green blocks here confusing the build
+q_945,What direction do I face to place the blue blocks?
+q_85,What red block?
+q_104,Which block should first be broken from left to right?
+q_291,There is no red block for me to break so i am unsure of where i should start building the green blocks. Should i break the purple and build from there
+q_233,Where is the red block located?
+q_429,I cannot remove a red block so are you sure about the color?
+q_174,There are no red blocks in the world already so i do not know where to start building
+q_58,There doesn't appear to be a red block here. Can you clarify? Also what orientation should the green ones be placed in?
+q_627,Where is the red block you're referring to?
+q_854,There are no blocks anywhere so i do not know where to start as the first command is to break and build from there.
+q_129,"How many total green blocks need to be broken?What is the ""stem""?"
+q_597,Should the three purple blocks be arranged vertically or horizontally?
+q_898,There are no red blocks to break. Where do I put the green ones?
+q_590,Skip one row on the west edge of the board from where?
+q_435,There are no red blocks. Where do the green blocks go?
+q_700,There is no red block on the structure to start the build order from so not sure where to start
+q_522,Which red block should be broken and in what orientation should the three green ones be placed?
+q_497,There is no left purple pillar did you mean on the left blue pillar?
+q_134,The board is empty so there are no red blocks to break. Where should the green blocks be placed?
+q_823,Where are the blocks located?
+q_15,Do I destroy the lowest purple block in the vertical row as well?
+q_900,Which red blocks? Which direction should the green blocks be going horizontal or vertical?
+q_333,Where is the red block on top?
+q_143,A red block on top of what?Where do I put three green ones?
+q_459,The starting point given is not clear no red block to start from so cannot place the green ones anywhere
+q_107,Where are the red ones?  Only yellow is there.
+q_326,There are no blocks placed currently so i do not know where to start. Should i start just placing the green blocks in a certain corner or something
+q_209,Which squares do I place the orange blocks on next to the purple blocks?
+q_208,What red blocks?
+q_739,There are no red blocks. Where do I place the green blocks and facing what direction?
+q_141,There are no red blocks where do I put the green blocks?
+q_327,There are no red blocks. Where would you like the green ones placed?
+q_245,Where on the grid should the blue blocks be placed?
+q_352,Where are the red blocks located?
+q_347,Where to the right of the red blocks are three green blocks to be placed?
+q_89,Which way should I be facing? Where do the green blocks go?
+q_164,There are no green blocks can you please specify? The grid is empty.
+q_703,What red blocks? Place them how horizontally or vertically?
+q_106,Which right are you referring too?
+q_839,Where are the red blocks?
+q_481,On the ground or not? Vertically or horizontally? In which direction?
+q_343,Do you want the purple blocks vertical or horizontal?
+q_493,This violates the directions of the task instructions.
+q_261,From which direction are we looking at the highest purple block?
+q_767,Place three green blocks to the right of the red ones where?
+q_252,First there are no red blocks for me to start building the green but second i do not have a starting direction so right does not help Should i face north and then build right?
+q_406,What does a cross shape look like?
+q_416,Which red blocks?
+q_889,Where are two red blocks to be broken?
+q_690,What color should the row be built with?
+q_385,From which direction should the rows come from?
+q_402,Where are the red blocks? Where should the green blocks be placed?
+q_485,This question doesn't make sense. Am I supposed to place more green blocks?
+q_468,Where are the red blocks you broke?
+q_692,Which direction should we be facing when breaking the two blocks?
+q_729,There's only one block to break where's the other one?
+q_678,Left of what because all I see is a single stack of blocks?
+q_109,Which direction should I be facing when I do this?
+q_74,From which left should I break the blocks?
+q_395,Which two blocks on the left should be removed?
+q_698,Where should the green ones be placed?
+q_17,Which blocks on the left should be broken and where do I place green blocks?
+q_591,Which direction should I be facing? What should the green block row be horizontal to the ground or the remaining blocks?
+q_658,Which two blocks specifically?
+q_713,Where do I place the green blocks?
+q_140,Where on the grid should the blue block stack begin?
+q_528,On which face of the orange block should the other orange blocks be facing?
+q_677,Break two blocks from which figure?
+q_759,Which ones on the left should be broken and where do I place the green blocks?
+q_0,Where should two green blocks be placed horizontally?
+q_765,Break two blocks from the left of what?
+q_466,Break two blocks from the left of where?
+q_437,From which left am I supposed to break the blocks?
+q_744,Where should two green blocks be placed blocks horizontally relative to the already placed blocks?
+q_356,What direction should I face while breaking the two blocks?
+q_519,Which side should I be facing to locate the left of the figure? What color blocks should I break?
+q_941,Where should the first block be placed?
+q_308,Where should the second blue block be placed on the stock of blocks?
+q_417,Where should I place the first block?
+q_790,I am not sure where you want me to place the three green blocks horizontally could you give me a starting point
+q_881,Where should the green blocks specifically be placed?
+q_102,Should the purple blocks be placed in the center of the grid or the structure?
+q_386,Which green blocks specifically should be destroyed?
+q_127,Where do I start to place the horizontal blocks?
+q_877,Where should three green blocks be placed horizontally?
+q_893,Are we placing the green blocks under the floating red block?
+q_279,How many blue blocks should be used in order to form a cross shape?
+q_918,Where in the first column from the first row should three green blocks be placed?
+q_792,Where exactly should the green blocks go?
+q_22,Where should the blocks be placed?
+q_610,Where should the row of green blocks be placed?
+q_637,Place 1 blue block on the left and right sides of what?
+q_720,What direction should I build the horizontal line?
+q_633,Horizontally where?
+q_977,On the square directly to the right of the red blocks?
+q_269,Where do I start placing the first green block on top of the structure?
+q_887,Where do I place the four purple blocks vertically?
+q_896,horizontally towards which direction?
+q_403,Do you want the blue blocks adjacent to the yellow blocks or above the green blocks?
+q_786,Stack three purple blocks on top of the old or the newest south-most block?
+q_579,Where do I start placing the blue blocks?
+q_53,There are many purple blocks which one should be destroyed?
+q_161,Where on the western green stack should a blue block be placed?
+q_120,Which one of the rightmost blocks should be removed?
+q_671,Which block is the bed block?
+q_817,Where should the first block be placed on the grid?
+q_545,Which block is the left green block on which to place another green block?
+q_428,Which 3 blocks should be destroyed?
+q_157,Were the broken red blocks at the bottom of the structure?
+q_302,On which block do I place the ones below?
+q_686,"What do you mean by ""the spots closest to South"". Which spots?"
+q_948,Where does the final green block go? On top of or next to the orange one?
+q_715,There are 3 purples so which do you want destroyed? Also build which blocks?
+q_962,In which direction should I be mirroring the structure? What is the starting point?
+q_494,In a row going which direction?
+q_19,Which purple block is closest to the ground since there's more than one?
+q_377,There's nowhere west to place a block once I make the columns so where should that block go?
+q_685,horizontally where? where should the line start? Which direction?
+q_211,There are no blocks to start with so where should i start building which direction am i looking should i maybe start in the center of the grid and which direction should i build towards
+q_869,On what side of the bottom green block should a blue block be placed?
+q_840,Where is the purple block with a space underneath it to put the orange block?
+q_932,Where should three green blocks be placed horizontally relative to the other blocks already placed?
+q_555,Create two more of what color of block to place on top of the 2 in the right corner forming a backwards L shape?
+q_797,Touching which last green block should two orange blocks and a purple block be placed the last green block on the east edge of the board or the west edge of the board?
+q_552,Where specifically do the green blocks go?
+q_606,What color are the two blocks that I place next to the orange?How do I place the two blocks?
+q_96,Where should three green blocks be placed horizontally relative to the already existing block structures?
+q_611,There are no purple blocks what do you mean to destroy?
+q_271,Where do I start placing green blocks and what orientation should I be facing?
+q_492,Where do I place the green blocks and in which direction will they face?
+q_625,Where do I start placing the green blocks?
+q_194,Where do I place them on the grid?
+q_357,Where do I start placing them?
+q_460,Can you tell me where to put the green blocks specifically?
+q_361,Where should I place the green blocks?
+q_491,where do I place the first block?
+q_231,Where should I start placing the green blocks?
+q_884,in which direction should the horizontal blocks be placed? where should the horizontal blocks begin?
+q_94,What direction do I face to place the green blocks?
+q_272,How many yellow blocks? In what direction?
+q_570,Could you give me a starting point for the green blocks perhaps from under the yellow column
+q_914,What direction am I facing to place them?
+q_626,where to place these three horizontal green blocks?What is the exact place to place it?
+q_966,Where do I place the green blocks on the map?
+q_530,I need a direction to look and a place to start for the green blocks should i start on in the center of the yellow collumn or maybe between the purple columns at the bottom a direction to look would help also.
+q_835,Where should i start placing the blocks maybe the northeast or south east corner i need a spot to start placing the horizontal green blocks and a direction to look at
+q_922,Where do I start placing the blocks on the 11x11 grid?
+q_551,I do not know which direction to look left is different for north and south should i look north and break three bklocks from the lef and which three should i break could you give me a color
+q_311,Which blocks?
+q_808,Which gray spaces?
+q_222,To the left of what?
+q_59,on top of which block? There are so many dark blue blocks.
+q_769,What square should the 3 blue block tower be built on?
+q_852,facing which direction to destroy the block located on left?Where to build 4 yellow blocks in a row?
+q_64,To the side of what?
+q_471,where to put two green blocks? mention exact place.
+q_890,What color are the blocks?
+q_645,Put the two blocks to the side of what?
+q_821,Where to the south should it be built?
+q_629,which three blocks what color and which direction?
+q_736,which side to place two green blocks? tell exact slot to build.
+q_14,how to build 2 purple block on top of purple block if there in no block in the voxel world?
+q_701,Build them to the south of what?
+q_676,Where do I build the 3 blocks?
+q_951,Do you mean underneath the rightmost blue block?
+q_892,What side of the red block should the blue block be placed on?
+q_950,What grids should the square be built on?
+q_784,What order should the purple and red blocks be placed in?
+q_908,What Color three blocks I need to place on top of the rightmost red block is not clear
+q_155,How tall should the pile of blue blocks be?
+q_349,The word built is phrased as it is already done do you mean build?
+q_850,Do i stack all four on one red block?
+q_919,What color is the block I need to place?
+q_674,There is only space for one orange block so where should the other two blocks be?
+q_131,Where should the green row begin and end? Where should the blue block be placed?
+q_525,There's only space for one orange block so what is the placement of these orange blocks?
+q_447,Should they be a column or a different shape?
+q_899,How big should the cube be?
+q_86,Which purple block to the block do i begin?
+q_768,To the south of what? Where should the stack begin?
+q_34,Can you be more specific about where the orange blocks should go?
+q_944,I don't understand the instructions.  There is only one column I don't know what is meant by second or fourth columns.  I don't know where to begin.
+q_781,What is the third column?
+q_521,What is the second column?Is it the left or right one facing which direction?
+q_639,On the bottom near the ground or in the middle?
+q_110,Where is next in relation to the green block?
+q_565,Is it a total of four blue blocks?
+q_659,How many yellow blocks should be built?
+q_731,Which 2 purple blocks?
+q_652,Do I place the blue blocks below each yellow block?
+q_879,What direction should I be facing when breaking the blocks?
+q_682,How many red blocks?
+q_594,In what order should I place the green orange and purple blocks?
+q_607,Do the red blocks go besides the purple blocks and under the yellow blocks?
+q_529,on left side which two purple blocks to be destroyed?Then exactly in which place to build 3 blue blocks in a row?
+q_567,There is no purple blocks shown in the world.
+q_722,Do you mean the vertical stack of red blocks?
+q_778,Should it be the same size as the blue tower?
+q_967,Do I build three green blocks on top of each yellow block on the top row?
+q_363,Where did you place the first purple block?
+q_499,Do you mean vertically or horizontally and how many?
+q_66,Which yellow blocks need to be destroyed?
+q_487,Can you be more specific about the location of the blocks to be placed?
+q_807,Which purple cube is this?
+q_335,There is no blue block in the South East corner please specify?
+q_664,In second step Where to put the green block ? on which green blocks there are four in total.
+q_872,On every side including diagonal and top?
+q_940,"Which direction to fact in order to turn ""right""?"
+q_359,Where should the new blue figure be placed?
+q_323,"What direction should one be facing in order to turn ""left""?"
+q_455,Do you want 16 blocks placed or did you mean vertically?
+q_601,Please provide instructions to execute aside from movement?
+q_589,How far east or west should I start building in relation to the purple structure?
+q_791,Which block do the first two purple go under?
+q_780,Which direction should the green block be placed?
+q_31,Which blocks should I put the orange blocks next to? How many blocks?
+q_138,Where do I need to stack the two purple blocks?
+q_62,"What does ""place them next to each other"" mean? Where?"
+q_746,How do you take blocks and move them?
+q_568,What is cherry Not clear.
+q_486,Where are the instructions about adding or removing blocks?
+q_16,"Where is the purple where ""1 purple to the right of the purple"" is supposed to go?"
+q_985,You cannot move blocks.
+q_49,How many orange blocks?
+q_384,In which direction should the 'stem' extend?
+q_680,What orientation should the 3 yellow horizontal blocks be?
+q_825,Both northern corners are equally near to the center of the grid please specify?
+q_844,What are 'rub plugs'?
+q_961,your instruction shows no proper specific slot to build.
+q_407,Where is the blue cube? Place what to the right?
+q_167,On which purple block should the two purple blocks be placed horizontally on the left?
+q_48,What size should the pile be?
+q_135,Do you want the yellow blocks placed horizontally or vertically and/or do you want them to touch one of the faces of the existing yellow blocks?
+q_306,"What direction should I be oriented to understand ""left"" and ""right?"" Which block is ""the right block?"" at the end of instruction?"
+q_70,Put the red block on top of which green block there is 2?
+q_244,beside means which direction to the purple block?
+q_902,there are many available on above. which block you are mentioning?
+q_67,"What is my orientation in relation to ""yellow block to the right?"""
+q_488,"By ""get the red block take it"" did you mean destroy one of the existing red blocks?"
+q_561,"Which yellow block in the center? What orientation am I to understand ""to the right of the block you've just broken?"""
+q_587,How many purple blocks?
+q_617,Where are the instructions for adding and removing blocks?
+q_628,what side should the blue blocks or purple blocks be placed next to the green blocks?
+q_93,Which green cube would you like to move to the left? Do you want them destroyed?
+q_623,Which red block exactly is it referring to?
+q_665,Do we start from the east or the west to reach our destination?
+q_616,There are no white blocks.
+q_69,The newest or oldest middlemost block?
+q_523,Where in the center of the board do I draw the green line to?
+q_159,What are we doing with the blue steps?
+q_28,How many red blocks need to be placed?
+q_747,Do you mean remove the top blue block as there is no purple block on top of a yellow block?
+q_705,Which green block do I place in front of?
+q_942,Do you mean yellow or red blocks?
+q_469,There are no existing orange blocks. Can't execute.
+q_878,How high should I build the orange blocks?
+q_595,How many blocks does the pile of purple blocks contain?
+q_699,Do I break the structure already in the northwest corner first?
+q_612,Doesn't specify how many green boxes the upside down T shape boxes should be either vertical or horizontal.
+q_448,Are there two orange blocks total or two orange blocks on each side?
+q_290,"Not sure what is meant by ""lowest block opposite the purple column"""
+q_605,Doesn't specify whether to put the yellow box ON TOP or adjacent next to it. Confusing instructions.
+q_410,Do i place a block on top of each block ?
+q_600,What color blocks should be placed?
+q_654,Instructions unclear as there are 3 green blocks to be left over not two.
+q_907,"Shouldn't reference ""me"""
+q_542,What orange blocks?
+q_550,How many blue squares? What is meant by finish green rectangle?
+q_577,Needs more info on how many purple blocks
+q_235,Where to the southwest do I build?
+q_376,how tall should the structure be?
+q_959,Which purple blocks - all three rows or the two on the ends?
+q_226,Place 4 yellow blocks behind what ?
+q_501,Do I put the blue block on the new purple blocks or the old?
+q_867,Is it a single row of yellow blocks? How high?
+q_415,should clarify if in the same spot as the yellow blocks
+q_986,Where should the row begin?
+q_799,Doesn't specify which side of the column.
+q_640,"Doesn't specify how much a ""pile"" is unable to execute."
+q_964,What block was built and destroyed and where were all the blocks placed?
+q_847,"Where on the figure is ""across"" from the green and red blocks?"
+q_707,Do I add 4 squares to each face (if so where?) or 4 total?
+q_507,Where do you want the cubes and how big do they need to be?
+q_186,Which edges do I add a blue block? Perpendicular or vertical?
+q_824,How many blocks should the cube be and should it be horizontal or vertical?
+q_100,Should the three yellow blocks be placed horizontally or vertically?
+q_367,Doesn't say where to put the 3 blue blocks or if you should replace it with the deleted purple blocks.
+q_90,Which red block for there are two?
+q_536,Away from the blue towards the east?
+q_978,It is not clear about where to build the blocks it is not clear about which color of blocks to build.
+q_23,Can you be more specific about the placement and total number of blocks to be placed?
+q_923,which green block you are mentioning to build at? there are four green blocks to begin.
+q_178,How many red blocks should I use to build the pile? Is it a pile or a column?
+q_631,Doesn't specify which 3 yellow blocks to destroy as there are more than 3.
+q_740,What is the map?
+q_337,How many blue blocks are there to be added on top of the purple and red blocks?
+q_183,Doesn't specify where exactly to put the blue boxes as there are multiple places to put them next to the dark blue boxes.
+q_750,Are the towers right next to the middle one?
+q_78,what color should the diagonal columns be?
+q_743,In what configuration should a trio of blue blocks be added to every corner?
+q_358,In which direction do we place the 4 red blocks in a vertical column?
+q_202,Directly in front of the extremity or on the ground?
+q_709,Do I build it vertically or horizontally?
+q_957,Which blocks do you mean by horizontal? Is it the row of blocks that are in the fifth level of the structure?
+q_856,On which red block should the purple tower be placed?
+q_147,What blue blocks? If intention is to break the boxes that look purple to me do I break the three vertical center blocks or the three horizontal center blocks?
+q_849,Where do I place the follow up rows on the previous rows?
+q_443,How many purple blocks are to be placed on top of each yellow block?
+q_136,Which block is on the left green that one yellow block should be placed?
+q_348,I do not know where exactly i you want me to place the yellow block as they are all at the same elevation. Should i place them on the left side also or should i place two in the center. I just need to know where to build first.
+q_370,Which direction do I place the yellow line?
+q_257,There are no purple boxes so do you want the northern-most blue boxes destroyed?
+q_144,Is the square flat or standing?
+q_975,Should the blue line touch the north wall or the south wall?
+q_452,How far east should the four blocks be stacked?
+q_880,How do I connect the towers? What do I build to do that? Also do I build a two block tall blue tower on top of the existing blue or make it into a 2 block tower?
+q_934,How far to the north should I move? Should the block row run to the right or left?
+q_904,"By ""arrange"" did you mean destroy one and place another block somewhere else?"
+q_581,Where in the middle of the map?
+q_478,Which direction were you facing while doing this?
+q_557,Where to the east do I stack them?
+q_320,First and third row placement of yellow box is unclear if it should be horizontal or vertical?
+q_963,Place the blue blocks horizontally where?
+q_1,As the red structure is east of the green stack just placed should the blue blocks go east?
+q_184,Doesn't specify in which direction to place the L shape boxes. West north south east of the it?
+q_864,Where on the east side of the yellow structure is a stack of two green blocks to be placed?
+q_851,Where near the purple blocks are three blue blocks to be placed?
+q_833,Do I build it perpendicular or parallel to the blue structure?
+q_421,does not specify color of the blocks being placed
+q_251,Please provide instructions rather than a personal narrative?
+q_533,Do I stack them horizontally or vertically? How far above on top of the red block?
+q_77,How many red blocks are to be built on top of the blue blocks?
+q_762,Which two purple blocks need to be destroyed?
+q_495,Do I stack them horizontally or vertically? How far above on top of the block?
+q_615,"There are multiple blue blocks so which one should be removed? Also what do the instructions ""one blue to my left and yellow to my right"" mean?"
+q_655,How large should the tree shape be?
+q_113,Where to build 3 blue blocks ?
+q_558,Destroy which two purple blocks ? top bottom
+q_123,How many yellow boxes in total? Doesn't specify what exactly to do. There are two places in which I can 'finish the handle'
+q_917,Should I place them in a column or a line?
+q_5,Do you want the green blocks on the sides of the yellow block or on top of it?
+q_801,Where between them? Do I place a row or a column?
+q_4,It says to place two blocks on the green block assuming yellow block should be on the purple block.
+q_554,What color should the two more blocks be?
+q_264,Where on each of the two lower blocks should two blue block extensions be placed?
+q_726,Should the two green blocks be placed on top of each other or next to each other?
+q_745,There are multiple purple blocks so which one is the one that needs to be broken?
+q_845,There are no red blocks here; where should the yellow blocks be placed?
+q_152,How many blocks should be in each row?
+q_180,How do I place the two orange blocks on each side? Vertically or horizontally?
+q_166,There are four yellowish blocks. Do you mean to break the lighter yellow blocks and exclude the darker yellow block?
+q_380,On top of the green block do I place the blue block purple block and another blue block vertically or horizontally?
+q_711,Which two red blocks specifically do I place the green one on?
+q_871,Which 2 blocks should be destroyed?
+q_121,On which side of the west most purple blocks?
+q_432,Do the blue blocks go vertically or horizontally?
+q_982,There are five faces showing on the yellow block. Which four faces did you add a block to?
+q_309,How should the trio be placed?
+q_926,Where do you want the single blue block placed please specify?
+q_643,Which two purple blocks do you want destroyed?
+q_885,How far to the West side of the red do I place the two yellow blocks?
+q_774,Where specifically do I add the yellow blocks?
+q_425,Which yellow block do you want the blue blocks around?
+q_444,Yellow blocks are not on same level thus it is not possible to build strip rather an individual block will have to be put.
+q_524,Where should I build the first blue block?
+q_374,Which two red blocks should I destroy? Also where should I build the three blue blocks?
+q_836,Which 2 blocks do I destroy? Where do I place the 3 blue blocks?
+q_117,Which purple block should be destroyed? Where should the row of green blocks be built?
+q_834,"What does ""represent tennis"" mean?"
+q_97,Forward in which direction?
+q_409,Which two blocks do you want destroyed? Where do you want the blue row placed?
+q_498,How far to the West side of the the west-most blocks do I make the stack?
+q_239,How many do you mean when you say pile?
+q_935,Do I connect them from the top or bottom blocks?
+q_318,Where is the lowest purple block at which a blue block is to be placed along its north side?
+q_210,Should the three blocks be added in a column?
+q_276,Please provide instructions rather than narration?
+q_694,There are four red blocks are there. So which 2 red blocks to destroy? and In which place to create 3 block in a row and its colour?
+q_464,Where should this cube be placed on the grid?
+q_556,How big is the pile? And is a 'pile' blocks stacked atop each other?
+q_87,How many total orange blocks do I place?Do I fully surround the purple blocks?
+q_723,Where in the Southeast corner?
+q_355,Where on the green structure did you add the blue columns?
+q_304,Should the blue blocks be in a row or a column? If the blue blocks should be in a row in which directions should the row run?
+q_10,How many blocks should this line be? Which direction should the line run?
+q_535,Which of the 4 red blocks should be destroyed?
+q_81,How do I place them on top of the other block? Vertically?
+q_814,number of Green blocks to be placed not given and last part of the instruction not clear
+q_42,Where in the northeast corner?
+q_142,How do I place the 5 red blocks on top? How are they arranged?
+q_688,By the bottom of the map do you mean south?
+q_697,Which purple block should be destroyed and which way should the blue blocks go?
+q_574,Where should I place the cube on the grid? How many blocks should be in the cube?
+q_500,What levels of the purple column do I build the red blocks?
+q_115,Which two red blocks should I destroy? There are four on the map. Also what orientation and what color should the blocks built be?
+q_608,What color blocks should be used?
+q_35,Which specific block should I destroy and what color/direction/position should the three block row be?
+q_80,Which of the two south most purple blocks do I place two blue blocks to the east of?
+q_27,Where should the red line originate? Should it run east-west or north-south?
+q_450,The instruction to build 6 3x2 blocks so that the structure is half purple is unclear.
+q_539,What blocks should I break or build? There is nothing to execute here.
+q_735,How many blue blocks were built in the column?
+q_575,Should I just build one orange block? Because there is only space between the yellow blocks for one block and that is not enough space for a row.
+q_338,How many blocks should make up the cube? Where on the grid should it be placed?
+q_622,Doesn't say which blocks to destroy and which color of blocks to add.
+q_936,Should the blocks be placed to the left or the right of the red blocks?
+q_906,Where should the tower be placed? Am I meant to stack the blocks one on top of the other?
+q_782,For every block on each side of the yellow block still facing south what color blocks should these blocks be?
+q_54,How many of each blue orange and yellow blocks should I place?
+q_563,Where do we place the three blue blocks?
+q_970,"Does the tip of the arrow count as ""extra part""?"
+q_955,How many blocks in the cube and how far south?
+q_983,Where do I put the purple block?
+q_118,Destroy which one block?
+q_263,Where are two green blocks to be added to the existing green block?
+q_624,Do I add a row of 4 on each red top or total?
+q_13,Which two blocks should I destroy? Also where should I build the blocks and what color should they be?
+q_160,What is the orientation of the 3 different colored blocks on top?
+q_216,Do I stack the blue boxes horizontally or vertically?
+q_3,How many blocks wide should the orange cube be?
+q_223,What color block goes in the SouthEast corner?
+q_399,There is a 5 block purple column is that the column you are referring to?
+q_413,Three total or three on each green block?
+q_483,There are no blocks to destroy. And what color are the new blocks to be built?
+q_582,What color blocks should I place to the west of the blocks?
+q_475,I do not see any purple blocks hereto start building from would you like me to replace the green blocks with orange blocks instead in the direction specified.
+q_882,What block should I destroy? What color blocks should I build and where?
+q_704,On which of the purple blocks should the row of 3 blue blocks be placed?
+q_171,The farthest east part of the structure is a column of blocks so which one should remain?
+q_61,Where on the left side of the structure should a three by three red square be built?
+q_683,how many green blocks needed to built?
+q_275,which block to destroy?where to build 3 blocks and ii it horizontal or vertical?
+q_130,Where and how many blue blocks need to be built next to purple blocks and under yellow blocks?
+q_250,How many yellow blocks?
+q_634,Should the blocks be placed in a column or the start of a horizontal line?
+q_404,How should the green boxes be stacked on the red box?
+q_953,Where do I put the green blocks? How many green blocks should be placed?
+q_195,Which block do you want destroyed? Where do you want the row of 3 built? Which color should the row of 3 be?
+q_684,The instructions appear to be unfinished; what should be removed?
+q_947,You will have to specify which blocks to build and break.
+q_929,Where under the block do I place the red block?
+q_76,Should the blue boxes be stacked in the corner or along north the edge?
+q_508,How do I place the green and purple blocks?
+q_401,Please explain what you want me to delete or add for boxes?
+q_346,Arrange the purple and green blocks one by one on which squares and in what order?
+q_274,No 'white blocks' available to place on the board
+q_702,On which side of the red blocks do I place the green blocks?
+q_670,Can you clarify the placement of the blocks? Which blue block and where is the red block?
+q_770,This is not a command on what to build would you like me to maybe destroy some of the west most green blocks or build something else on top i need a command to start with
+q_540,Do you mean to remove the three middle blocks horizontally or vertically?
+q_430,How many purple and green blocks and in what order should they be placed?
+q_815,Where on the south side of the map should the cube be built?
+q_657,Where should six green blocks to the west of the west-most blocks be stacked relative to the west-most blocks?
+q_891,"What color should this ""line"" be on the left side of what should I build the one red block and what does ""1 red south face"" mean?"
+q_672,How many blocks do I place?
+q_303,Should this be two green blocks in each of the cardinal directions?
+q_344,Where is the blue block on which two green blocks are to be placed on the right side of it?
+q_169,Where would you like to place the purple and green blocks exactly?
+q_822,"Since instruction indicate this looks like a person unsure if ""body"" is whole structure so break the two bottom blocks touching the map surface or does ""body"" mean mid section?"
+q_215,How many blue blocks need to be added from the southwest corner?
+q_440,"Unclear what ""next to means."" Are we suppose to place an orange block to cover every single yellow block or only on the highest yellow block?"
+q_95,"What do you mean by ""good robot response""?"
+q_396,I am facing north but what do I do from there? Do I place purple and green blocks? Where should I place them if that is what I'm supposed to do?
+q_506,How many purple and green blocks need to be arranged one by one and where will they be arranged?
+q_796,"Can you be more specific about the block that needs to be destroyed in the second step ""middle of the rightmost column""?"
+q_734,How many orange blocks are in the column?
+q_669,Where is a cube with eight green blocks to be built between the blue and red blocks?
+q_668,Where north of the green blocks should the green blocks be mirrored with yellow blocks?
+q_412,Should the yellow boxes start on the east or west edge of the high purple row?
+q_583,Which the PERSON PERFORMING BEHAVIOR is also doing
+q_119,What does arranged mean in this scenario? Do I build green blocks? Where do I build them? I feel like they should be built on top of the purple row but the instructions are unclear.
+q_578,What color blocks and how should they be arranged?
+q_322,What column?
+q_52,Which right side? Need to know location where to place using north east west or south for direction.
+q_332,What do I need to do?
+q_145,"What does ""a pile"" look like and how many blocks?"
+q_267,Where between the upper blocks in the two purple stacks is a purple block to be placed?
+q_427,Do you mean to remove them or add them?
+q_237,What do I do after facing north with regards to arranging purple and green blocks?
+q_213,Do I delete the fourth upper yellow block as well to place new blocks on top of the bottom yellow block or are they meant to be placed against a different side of it?
+q_538,Where do you start and what do you build in the upper side?
+q_248,Does not specify which color box to put after the first instruction. Please explain which color you would need for the 2nd step.
+q_259,By either side do you mean the north and south sides of the eastern purple block?
+q_260,How do i replace the purple blocks in the air?
+q_777,Where do I arrange purple and green blocks and how many after I face north?
+q_32,Did you mean middle column? If you meant row the bottom middle block is being barricaded by a red block and the free sides would not be known to be up/down versus east/west.
+q_192,How many purple blocks should be removed?
+q_510,Do you mean the yellow or the blue block on the east?
+q_220,How many purple blocks should be placed in total?
+q_438,How many purple and green blocks will be arranged and how will they be arranged in a one by one configuration?
+q_662,How many purple blocks need to be added on top of the purple shape?
+q_933,While facing north where should a tower made of five red blocks be built?
+q_830,What color should the blocks be?
+q_431,Where do I build the purple and green blocks?
+q_224,Unsure how adding three block blocks to each single blue block will eventually lead this to a rectangular shape? Where do the two rows of more blue blocks come into play?
+q_37,Which three purple blocks? There are four on the map
+q_503,Which spaces should have green blocks as the ones I see appear to be white or grey?
+q_927,Where do you want these blocks arranged specifically?
+q_810,What colored block needs to be added to the top of the red blocks?
+q_247,How many purple blocks are in the horizonal row?
+q_206,Do you mean to break the yellow blocks?
+q_489,How many blocks to be placed on the green blocks?
+q_205,What color should the tower of blocks be?
+q_838,Where and how are four blocks to be placed on top of the purple tower?
+q_419,Should I place the two red blocks stacked on top of each other? Or should I place them in a row?
+q_829,How many yellow blocks should be added on top of each red block?
+q_541,Add three blue blocks where in the center of the north wall?
+q_858,Where do I place the block on the figures?
+q_36,Where do I place the purple blocks on the grid?
+q_841,How many purple and green blocks need to be arranged in a one by one configuration while facing north?
+q_255,Do you mean in a horizontal line all the way across and alternating?
+q_861,How many green and blue boxes need to be stacked on the south east corner edge of the map?
+q_502,After moving all the way north where should three yellow blocks be placed on top of each other?
+q_559,Where should I place the tower of blue blocks? I see two locations where a tower of three could fit.
+q_41,What color blocks do I need to place?
+q_621,"What does ""robot responce is very well"" mean?"
+q_153,How many purple and green blocks?
+q_693,From which direction are you considering this to be a stairway? (North south east west)?
+q_609,Will you clarify where to place the blocks?
+q_172,How many purple blocks should be placed and how should they be arranged?
+q_754,Which two of the three green blocks on the ground level need to be destroyed?
+q_56,Where exactly do I need to place the tower of three yellow blocks?
+q_866,How long should the row of red blocks be? Should it span across the entire east edge or should it be shorter?
+q_546,Which two blocks should be destroyed?
+q_971,Where do I place the 3 purple blocks?
+q_116,Where on the fourth row should the blue blocks go?
+q_809,Where is one space away from a yellow structure to the east that a column of yellow blocks should be built?
+q_434,Did you mean to break the block under the top yellow block and place a red block? Or did you mean to only break the block under the top yellow block and leave it empty? (There is no place above the red column for a red block based on the build design received.)
+q_212,What color should the cube that I build be?
+q_449,Destroy which 3 blocks?
+q_99,Which side do you want the purple blocks placed? Do you want them horizontally or vertically placed? Which ones should touch the yellow structure?
+q_585,Can you be more specific about the placement of the blocks?
+q_855,What color do i use to complete the shell around the yellow blocks?
+q_371,Which block do you want destroyed? Where do you want the 3 blocks built? In which orientation do you want the 3 blocks built? What color do you want the 3 blocks to be?
+q_802,There are 4 bottom cubes which two should be broken?
+q_373,facing which direction to build those 3 blocks?
+q_173,In which specific place to build the tower?
+q_465,Can you be more specific about the placement of the row of purple blocks?
+q_45,Where should I start placing the purple blocks? There are four purple blocks already on the map so which one should I place them to make a row with?
+q_372,Where do I need to place the blocks?
+q_9,Can you give me a more specific location for the one blue block in the last instruction?
+q_920,Instructions ambiguous.  Which one block to destroy and where should we build the other 3 blocks?
+q_857,How many blocks total do i place?
+q_162,"What does ""further south"" mean? Is it one block south or all the way to the edge south?"
+q_910,The space is two-dimensional and includes nine spaces did you want this built in the diagonal direction? Please specify.
+q_390,What color blocks should be used? How long of a wall should be built?
+q_256,Which block should I destroy? Also where should I build the 3 blocks and what color should they be?
+q_139,Since the red block(s) are on the northwestern most corner it is physically impossible to place a blue block to its left while looking north. Please advise on where you would like the blue block placed?
+q_299,tell exact slots to built the those blocks.
+q_454,Which three blocks were destroyed?
+q_196,Which block do you want destroyed? Where do you want the 3 blocks built? How do you want them built? What color do you want them to be?
+q_632,What color should those blocks be?
+q_300,Where should the tower of blue blocks be built?
+q_79,What orange block?How do I place the three yellow blocks?
+q_696,On which side of the green blocks should the red tower be built?
+q_635,Which block should I destroy? Also where should I build the blocks and what color should they be?
+q_420,Where on the right side do I build the blue block?
+q_667,Which one block to destroy and where do I build the other three blocks and how?
+q_793,"Where should I place the cube of yellow blocks? I need more precise instructions because ""next"" is too vague."
+q_156,Which block do you want destroyed? Where do you want the other 3 blocks built? What color do you want the 3 blocks built to be?
+q_329,On which side of the green tower should the tower of four yellow bricks be placed?
+q_909,Where on the west and east sides do I build the purple block?
+q_330,Where on the north side do I build the yellow block?
+q_18,On which side of the tower should I build the new tower?
+q_334,Following the instructions of removing one row on top would result in a three-by-two red rectangle did you mean remove two rows on top or did you mean three-by-two red square?
+q_691,There aren't any purple blocks on this map; should the blue tower be destroyed instead?
+q_752,What and where and how do I build another three blocks?
+q_292,What do you mean by arranging blocks? If I am supposed to build purple and green blocks where should I place them?
+q_84,On which side to mirror the blocks?
+q_714,The middle is hard to readily determine.
+q_365,Which row of blocks are the middle?
+q_43,What is the color of those blocks to built?
+q_958,Where should the 3 blocks be placed?
+q_470,What do you mean by fillet? What kind of shape do I build with that?
+q_297,Destroy which one block and build what kind of blocks where?
+q_181,Did you mean one red block?
+q_339,How exactly do I need to place five orange blocks?
+q_125,How many blocks should be in the bottom of the pile?
+q_243,Should the purple column go on top of the orange column or next to it?
+q_630,The instructions don't say what color block to place on the first steps. Needs more clarification.
+q_596,Did you mean in the same pattern as the other structures on the map or in a different design?
+q_915,There is only space for one blue box under the green blocks - what is the positioning of the remaining two blocks?
+q_284,Should the line of blocks travel North or Eest?
+q_234,What color do I make the 11 block wall along the northern border?
+q_725,Where would you like me to add the green and purple boxes? Doesn't specify exact location.
+q_63,What should I build or destroy there?
+q_859,Where on the south side of the map should the cube be?
+q_103,Where underneath the tower do I place the block?
+q_331,Should the north corner be in the east or the west?
+q_203,On which square in the corner do I place the blocks and how exactly do they need to be stacked?
+q_571,As the fourth row from the west is not under the green pillar should the instructions read fifth row or should the new stack be slightly left of the green pillar?
+q_649,Where to the left and right do I place the purple block?
+q_328,which
+q_602,How many of each block do I need to place?
+q_764,Which blue box do you want me to destroy? Also which color three blocks to add and where?
+q_446,Where would you like the purple blocks placed and arranged?
+q_364,Where do I place the purple or green blocks?
+q_188,How many purple and green blocks and where should they be placed?
+q_282,How many purple and green blocks should be placed and it which direction?
+q_451,I see no blue blocks only a green tower. Where would the three blocks be build and what color?
+q_647,Where in the southeast corner do I create it?
+q_650,Do you want the line of blue blocks to be at the base of the purple column?
+q_207,Where in the corner do I place the column of blocks?
+q_422,The board is empty and there aren't any blocks to destroy so what color should the 3 blocks be how should they be arranged and where are they on the board?
+q_979,Which red box to destroy? Also which color of the three blocks and where to add?
+q_200,where to start building? which block and place to start with? how many blocks to build in total?
+q_689,Destroy which blue block? Build what color blocks where?
+q_148,I don't see a purple block do you mean yellow instead?
+q_351,Which red block should be destroyed and what color should the new blocks be?
+q_717,What do you mean when you say tan square?
+q_482,Should the vertical stack go north or west?
+q_663,What color blocks do I build?
+q_547,Where should the other 3 blocks be built?
+q_531,Am I putting down purple and green blocks? If so where?
+q_287,What color are the three blocks that should be built?
+q_641,What should I do with a green block?
+q_473,Face north and place three green blocks horizontally next to the blue block on the north side of the blue block
+q_47,Arrange the purple and green blocks one by one at which square?
+q_83,Where do you place the purple blocks?
+q_44,Where specifically should the pile go?
+q_816,Where on the green structure should two blue blocks be placed in a vertical row?
+q_832,On which square next to the blue blocks do I build the vertical stack?
+q_265,**Instructions do not state what I should do at all.**  What should I build or remove from the grid?
+q_312,On which spaces of the board should the eight green blocks be arranged?
+q_238,Should I make one column or two?
+q_165,Where do I start building blocks? What color should they be?
+q_462,With which color and in which corner should I start the row with?
+q_441,How many purple and green blocks and where are they on the board?
+q_295,"Should I destroy only the blue blocks on the east side of the structure or does ""middle"" refer to other blue blocks?"
+q_613,What should I do after?
+q_433,Where exactly would you like me to place the green and purple boxes and how many exactly?
+q_423,Where under the purple blocks do I place the blue blocks and with what alignment?
+q_199,Can you be more specific about the placement and number of blocks to be placed?
+q_520,I am facing north but I don't understand the rest of the instructions. What does arranged mean? Does that mean I will be building blocks? Where should I build the purple and green blocks then?
+q_972,Do you mean replace them with purple ones?
+q_943,Am I supposed to put a yellow block on the east and west ends of the yellow row?
+q_319,Do you mean to make a checkered pattern with them?
+q_903,What style/pattern do I need to build the green blocks?
+q_721,Which three of the four stacked red blocks on the east side need to be destroyed?
+q_586,Can you please clarify on what actions need to be taken as no instructions were given?
+q_298,Does it start from the top or the bottom block?
+q_7,What is supposed to be done with the purple or green blocks?
+q_307,Build a vertical tower of four red blocks next to the green block furthest to the west.
+q_860,How many red and blue blocks?
+q_560,While facing north where should the green blocks be placed and how many of them?
+q_886,Where do I place the purple and green blocks?
+q_837,Where do I arrange the purple and green blocks?
+q_91,Please expand on instructions.
+q_286,Which block do I need to destroy?
+q_484,What direction should I be facing?
+q_253,Where do the purple and green blocks go exactly?
+q_182,Which purple block should be destroyed as there are two on top of the building?
+q_254,Where should a green block be placed that is top left of which green block?
+q_518,"How many squares should the southward ""wall"" cover?"
+q_397,How is the pile placed vertically or horizontally?
+q_687,stack 4 orange blocks on the very north west corner then destroy the 4 red blocks that are the farthest to the west
+q_345,Where should I add a box?
+q_620,How tall was the tower?
+q_865,What are the instructions? There is no information to use.
+q_88,Where on each purple block is a red block to be placed?
+q_154,Where should I place the purple block?
+q_381,There are no orange blocks did you mean yellow blocks?
+q_901,Should I be adding purple or green blocks or both? Where should they be added?
+q_868,Where are green blocks to be arranged?
+q_875,Not sure what the single blue block between the row of blocks is
+q_749,How should the blocks be arranged?
+q_888,Is the arrangement vertical or horizontal?
+q_642,Where in the southwest corner do place the block?
+q_974,Where should the purple and green blocks be placed in relation to the existing blocks?
+q_317,Can you be more specific about the placement of the final green blocks?
+q_168,Where on the top row should the two red blocks go?
+q_198,What is supposed to be done with the purple and green blocks?
+q_278,Destroy which block and build what colored blocks in what spots?
+q_973,What do I do with purple green blocks and how are they arranged?
+q_266,I do not know where i should start building the purple and green blocks do you want me to build out from the center of the structure maybe or build at the top?
+q_826,What blocks should be placed or destroyed?
+q_656,Where do you want the purple and green blocks placed/arranged and in which way (vertical horizontal)?
+q_848,Should the new blocks be added to the right or left of existing green block?
+q_26,With what pattern/alignment do I place the purple and green blocks?
+q_949,With what pattern/alignment do I place the purple and green block?
+q_219,Can you please clarify where the purple and green blocks will start how many to place of each color and in what order?
+q_268,Should the yellow blocks be placed vertically or horizontally?
+q_108,How wide should the base of the cube be?
+q_846,Should the new block columns be placed on the corners of the grid or the corners of the structure?
+q_176,Can you please clarify which portion of the northern edge to build on as the edge has many places to start?
+q_798,Which block do i stack the blocks too?
+q_283,How many blue blocks should I place?
+q_368,What should I connect the two towers with assuming you meant towers and not towels?
+q_549,On what side do I place the tower?
+q_532,There are only red and blue blocks. Where exactly would be considered in between the blocks present?
+q_227,Where to the west? How do I stack them? Vertical/Horizontal?
+q_60,On the right side of the blue block?
+q_783,Where do I place the green block?
+q_819,Hoe many blocks do I use to make full row?
+q_296,how many blocks do I need to form square?
+q_939,On which side of the red blocks should the tower of blue blocks be placed?
+q_562,What compass direction are the red squares to be destroyed in?
+q_411,what direction should I face?
+q_20,What 3 green blocks did you destroy?
+q_68,After the red block destruction is it meant to place a blue block or destroy one?
+q_92,Where do I start placing the red blocks? Should it be on the south face of the red block?
+q_158,what direction should the L-shape head towards?
+q_490,Which direction is the row going?
+q_405,Where should I build the blue blocks after destroying the red blocks? Should I replace the red blocks with blue?
+q_738,Would the row of 2 blocks be under the blue structure just added?
+q_105,There are only orange blocks not yellow.
+q_310,Left and right as I face which direction?
+q_241,Which way should the orange blocks be placed?
