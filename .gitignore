@@ -1,1 +1,5 @@
 *.txt
+build/
+dist/
+iglu_datasets.egg-info/
+*.DS_Store

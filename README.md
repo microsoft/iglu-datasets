@@ -7,13 +7,13 @@ The primary goal of the IGLU project is to approach the problem of how
 to develop interactive agents that learn to solve a task while provided with grounded natural language
 instructions in a collaborative environment.
 
-Following this objective, the project has collected several datasets with different types of interactions during a block building task. The data and scripts used to collect it will be progressively released in this repository.
+Following this objective, the project has collected a multi-modal dataset with different types of interactions during a block building task. The dataset consists of two parts, the multi-turn or seed dataset for the single-turn dataset.
 
 Due to the complexity of a general interactive task, the problem is simplified to interactions inside of a finite, Minecraft-like world of blocks. The goal of the interaction is to build a structure using a limited number of block types, which can vary in complexity. Examples of possible target structures to build are:
 
 ![Shots of three possible target structures to build](./resources/imgs/voxelworld_combined_shots.png)
 
- Two roles arise: the Architect is provided with a target structure that needs to be built by the Builder. The Architect provides instructions to the Builder on how to create the target structure and the Builder can ask clarifying questions to the Architect if an instruction is unclear.
+*** Seed or Multi-turn data: *** The Architect is provided with a target structure that needs to be built by the Builder. The Architect provides instructions to the Builder on how to create the target structure and the Builder can ask clarifying questions to the Architect if an instruction is unclear.
 
 The progression of each game is recorded, corresponding to the construction of a target structure
 by an Architect and Builder pair, as a discrete sequence of game observations. Each observation
@@ -23,6 +23,9 @@ representing the orientation of their camera), 4) the Builder’s block inventor
 the blocks in the build region.
 
 <img src="./resources/imgs/voxelwrold_building_dialog.gif" width="420" height="280" alt="Gif with interactions between Architect and Builder"/>
+
+*** Single-turn data: *** This is the main IGLU dataset which comprises of participants performing free-form building actions, while providing instructions that should allow another participant to rebuild the same structure. These single-turn task segments enable asynchronous collaboration between participants We utilized the Seed dataset to provide diverse starting canvases for participants.
+
 
 ## Installation
 
@@ -54,7 +57,7 @@ requests
 ## Working with IGLU datasets 
 
 
-The IGLU-datasets library prives an easy and flexible way for for with Single and Multi turn datasets.
+The IGLU-datasets library provides an easy and flexible way to download the Single and Multi turn datasets.
 Here is an example of how to use it:
 
 ```python
@@ -86,6 +89,7 @@ print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11,
 # Represents the volume snapshot of the starting blocks world with which the builder 
 # starts executing the instruction.
 ```
+### Multi-turn Seed dataset
 
 The multiturn dataset consists of structures that represent overall collaboration goals between an architect and a builder. The architect provides instructions to the builder to complete the target structure. The builder either performs the instruction by placing blocks according to the instruction or issues a question to clarify the instruction if it is unclear.
 For each structure, we have several collaboration sessions, reffered to as games, that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
@@ -169,10 +173,32 @@ builder-data/
 Here, `dialog.csv` contains the utterances of architects and builders solving different tasks in 
 different sessions. The `builder-data/` directory contains builder behavior recorded by the voxel.js engine. Right now we extract only the resulting grids and use them as targets.
 
-### Singleturn dataset
+### Single-turn IGLU dataset
 
-The `SingleturnDataset` has the same structure of each sample. The main difference compared to the `MultiturnDataset` is 
-that here tasks are not structured into a chain but rather branch out from random chain steps. 
+This dataset consists of 
+
+  - `clarifying_questions_train.csv` 
+  - `question_bank.csv`
+  - `initial_world_states` folder: Contains states of starting world for participants to build on.
+  - `target_world_states` folder: actionHit folder contains final state of the world after performing the free-form building task.
+
+`clarifying_questions_train.csv` has the following columns:
+
+  * `GameId` - Id of the game session.
+  * `InitializedWorldPath` - Path to the file under `initial_world_states` that contains state of the world intialized to the architect. The architect provides an instruction to build based on this world state. More information to follow on how the world state can be parsed/ visualized. 
+  * `InputInstruction` - Instruction provided by the architect.
+  * `IsInstructionClear` - Specifies whether the instruction provided by architect is clear or ambiguous. This has been marked by another annotator who is not the architect.
+  * `ClarifyingQuestion` - Question asked by annotator upon marking instruction as being ambiguous.
+  * `qrel` - Question id (qid) of the relevant clarifying question for the current instruction.
+  * `qbank` - List of clarifying question ids that need to be ranked for each unclear instruction. The mapping between clarifying questions and ids is present in the `question_bank.csv`.
+
+*Merged list of ids in the `qrel` and `qbank` columns will give you the list of all qids to be ranked for each ambiguous instruction.*
+
+`question_bank.csv`: This file contains mapping between `qids` mentioned in `qrel` and `qbank` columns of the `clarifying_questions_train.csv` to the bank of clarifying questions issued by annotators.
+
+<!--
+The `SingleturnDataset` has the same dataschema for each sample. The main difference compared to the `MultiturnDataset` is 
+that here tasks do have a sequence of steps but rather a single step from random chain steps. 
 
 
 Below you will find the structure of the single turn dataset:
@@ -182,7 +208,7 @@ single_turn_instructions.csv
 multi_turn_dialogs.csv
 initial_world_states/
   builder-data/
-    <same as in multiturn>
+    <same as in multi-turn>
 target_world_states/
     actionHit/
       <tree structure with game sessions>
@@ -190,6 +216,13 @@ target_world_states/
 ```
 
 Here, `multi_turn_dialogs.csv` and `initial_world_states/` is just the copy of the multiturn dataset under a different name. In `single_turn_instructions.csv` you can find the single turn instructions, and references to game sessions where the block states can be restored. 
+-->
+
+### Data Collection Platform
+
+We have released the data collection and evaluation tool in this [repo](https://github.com/iglu-contest/dataset-collection-and-evaluation).
+
+We have also released a human-in-the-loop interactive evaluation platform. Check out this [repo] (https://github.com/microsoft/greenlands).
 
 ### Data Collection Platform
 
