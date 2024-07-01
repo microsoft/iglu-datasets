@@ -91,10 +91,11 @@ print('Starting grid\n', sample.starting_grid) # 3D numpy array of shape (9, 11,
 ```
 ### Multi-turn Seed dataset
 
-The multi-turn dataset consists of structures that represent overall collaboration goals. For each structure, we have several collaboration sessions that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
+The multiturn dataset consists of structures that represent overall collaboration goals between an architect and a builder. The architect provides instructions to the builder to complete the target structure. The builder either performs the instruction by placing blocks according to the instruction or issues a question to clarify the instruction if it is unclear.
+For each structure, we have several collaboration sessions, reffered to as games, that pair architects with builders to build each particular structure. Each session consists of a sequence of "turns". Each turn represents an *atomic* instruction and corresponding changes of the blocks in the world. The structure of a `Task` object is following:
 
   * `target_grid` - target blocks configuration that needs to be built
-  * `starting_grid` - optional, blocks for the environment to begin the episode with.
+  * `starting_grid` - optional, blocks for the environment to begin the game with.
   * `dialog` - full conversation between the architect and builder, including the most recent instruction
   * `instruction` - last utterance of the architect
 
@@ -223,6 +224,10 @@ We have released the data collection and evaluation tool in this [repo](https://
 
 We have also released a human-in-the-loop interactive evaluation platform. Check out this [repo] (https://github.com/microsoft/greenlands).
 
+### Data Collection Platform
+
+We have released the data collection tool used for collecting these datasets. For more information check out this [repo](https://github.com/iglu-contest/iglu-data-collection-tool/tree/main).
+
 ### Grid prediction score calculation
 
 
@@ -269,18 +274,18 @@ def calc_reward(prev_grid, grid, target_grid, , right_scale=2, wrong_scale=1):
 
 In other words, if a recently placed block strictly increases or decreases the maximal intersection, the reward is positive or negative and is equal to `+/-right_scale`. Otherwise, its absolute value is equal to `wrong_scale` and the sign is positive if a block was removed or negative if added. This reward function is implemented in the [embodied IGLU environment](https://github.com/iglu-contest/gridworld).
 
+## Human evaluation data
+
+This repository also contains the human evaluation data for the top two agents of the IGLU 2022 challenge. This was obtained in collaboration with the [Greenlands](https://github.com/microsoft/greenlands) project. The data is stored in the `datasets/human_evaluation` directory and contains the following files:
+
+- `human_agent_feedback.csv` — Raw feedback/comments from human evaluators about each of the agents.
+- `gamedata.json` — List of events that happened in each game as reported by the Greenlands platform.
+- `taskdata.json` — Definition for each _task_ in the format used by the Greenlands platform. These contain descriptions of the initial blocks in the world as well as the target structure that the agent needs to build.
+
 ## References
 
 The described datasets are collected as a part of [IGLU:Interactive Grounded Language Understanding in a Collaborative Environment](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge), which is described in the following papers:
 
-```
-@article{mohanty2023transforming,
-  title={Transforming Human-Centered AI Collaboration: Redefining Embodied Agents Capabilities through Interactive Grounded Language Instructions},
-  author={Mohanty, Shrestha and Arabzadeh, Negar and Kiseleva, Julia and Zholus, Artem and Teruel, Milagro and Awadallah, Ahmed and Sun, Yuxuan and Srinet, Kavya and Szlam, Arthur},
-  journal={arXiv preprint arXiv:2305.10783},
-  year={2023}
-}
-```
 
 ```
 @article{mohanty2022collecting,
@@ -334,3 +339,7 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## License
+
+See here for the [MIT License](https://github.com/microsoft/iglu-datasets?tab=MIT-1-ov-file#readme).
